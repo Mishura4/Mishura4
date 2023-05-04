@@ -1,7 +1,7 @@
 ## 🙋‍♀️ Hello, I am Mishura / Miuna
 
 ### 🌺 About me
-I am passionate about game development, experimenting with programming since very young. My favorite language to work with is C++, but I can do C, C#, and Java too!
+I am a passionate C++ Game Developer, having experimented with programming since young. My favorite language to work with is C++, but I can do C, C#, and Java too!
 I am working as a freelancer, but looking for more stable employment. Feel free to send me a message if you have an offer!
 
 ### 👩‍💻 Key projects
