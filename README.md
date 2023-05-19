@@ -10,7 +10,7 @@ I am working as a freelancer, but looking for more stable employment. Feel free 
  - [B-12](https://github.com/Mishura4/B-12) : Discord bot written in C++ for my own use.
 
 ### 🛠️ Open source contributions
- - [DPP](https://github.com/brainboxdotcc/DPP), a C++ Discord Bot library : examples include bug fixes ([#687](https://github.com/brainboxdotcc/DPP/pull/687), [#656](https://github.com/brainboxdotcc/DPP/pull/656)), unit tests ([#686](https://github.com/brainboxdotcc/DPP/pull/686), [#688](https://github.com/brainboxdotcc/DPP/pull/688)), refactoring ([#643](https://github.com/brainboxdotcc/DPP/pull/643))
+ - [DPP](https://github.com/brainboxdotcc/DPP), a C++ Discord Bot library : examples include bug fixes ([#687](https://github.com/brainboxdotcc/DPP/pull/687), [#656](https://github.com/brainboxdotcc/DPP/pull/656), ...), unit tests ([#686](https://github.com/brainboxdotcc/DPP/pull/686), [#688](https://github.com/brainboxdotcc/DPP/pull/688), ...), refactoring ([#643](https://github.com/brainboxdotcc/DPP/pull/643))
 
 <!-- ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Mishura4&theme=material-palenight&show_icons=true&hide=issues&count_private=true) -->
 
