@@ -14,6 +14,12 @@ I am working as a freelancer, but looking for more stable employment. Feel free 
  - [Octahedron](https://github.com/Mishura4/Octahedron) : In-progress and *very early* rewrite of the Tesseract engine in C++20 using modern code style and practices.
  - [B-12](https://github.com/Mishura4/B-12) : Discord bot written in C++ for my own use.
 
+
+### 📊 Metrics
+<picture>
+  <img src="/github-metrics.svg" alt="Metrics">
+</picture>
+
 <!-- ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Mishura4&theme=material-palenight&show_icons=true&hide=issues&count_private=true) -->
 
 <!--
