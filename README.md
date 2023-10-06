@@ -8,11 +8,11 @@ I am working as a freelancer, but looking for more stable employment. Feel free 
  - Major contributor and PR reviewer for [DPP](https://github.com/brainboxdotcc/DPP), a C++ Discord Bot library :
    - Main author of the asynchronous coroutine implementation: [Proof of concept (#724)](https://github.com/brainboxdotcc/DPP/pull/724), [Main API (#763)](https://github.com/brainboxdotcc/DPP/pull/763), [Major additions (#813)](https://github.com/brainboxdotcc/DPP/pull/813)...
    - Other contributions include bug fixes ([#687](https://github.com/brainboxdotcc/DPP/pull/687), [#656](https://github.com/brainboxdotcc/DPP/pull/656), ...), unit tests ([#686](https://github.com/brainboxdotcc/DPP/pull/686), [#688](https://github.com/brainboxdotcc/DPP/pull/688), ...), refactoring ([#643](https://github.com/brainboxdotcc/DPP/pull/643))...
+   - And much more!
 
 ### 👩‍💻 Key projects
  - Unannounced game project based on the Tesseract/Cube2 engine, as part of my freelance work.
  - [Octahedron](https://github.com/Mishura4/Octahedron) : In-progress and *very early* rewrite of the Tesseract engine in C++20 using modern code style and practices.
- - [B-12](https://github.com/Mishura4/B-12) : Discord bot written in C++ for my own use.
 
 
 ### 📊 Metrics
