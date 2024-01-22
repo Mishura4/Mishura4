@@ -1,8 +1,8 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="480" height="1296" class="">
+<svg xmlns="http://www.w3.org/2000/svg" width="480" height="663" class="">
     <defs>
         <style/>
     </defs>
-    <style>@keyframes animation-gauge{0%{stroke-dasharray:0 329}}@keyframes animation-rainbow{0%,to{color:#7f00ff;fill:#7f00ff}14%{color:#a933ff;fill:#a933ff}29%{color:#007fff;fill:#007fff}43%{color:#00ff7f;fill:#00ff7f}57%{color:#ff0;fill:#ff0}71%{color:#ff7f00;fill:#ff7f00}86%{color:red;fill:red}}svg{font-family:-apple-system,BlinkMacSystemFont,Segoe UI,Helvetica,Arial,sans-serif,Apple Color Emoji,Segoe UI Emoji;font-size:14px;color:#777}h1,h2,h3{margin:8px 0 2px;padding:0;color:#0366d6}h1{font-size:20px;font-weight:700}h2,h3{font-weight:400}h1 svg,h2 svg,h3 svg{fill:currentColor}h2{font-size:16px}h3{font-size:14px}section&gt;.field{margin-left:5px;margin-right:5px}.field{display:flex;align-items:center;margin-bottom:2px;white-space:nowrap}.field svg{margin:0 8px;fill:#959da5;flex-shrink:0}.row{display:flex;flex-wrap:wrap}.row section{flex:1 1 0}.column{display:flex;flex-direction:column;align-items:center}.no-wrap{white-space:nowrap}#metrics-end,.fill-width{width:100%}.no-margin-top{margin-top:0}.avatar{border-radius:50%;margin:0 6px}.calendar.field{margin:4px 0 4px 7px}.calendar .day{outline:1px solid rgba(27,31,35,.04);outline-offset:-1px}svg.bar{margin:4px 0}.followup.legend{font-size:12px;flex-wrap:wrap}.followup.legend .field{width:46%;justify-content:flex-start;margin-left:8px}.followup.legend svg{margin:0 3px;width:14px;height:14px}.followup.legend svg:first-child{margin-left:0}.followup.legend svg:last-child{margin-right:0}.followup-title{white-space:initial}.activity{margin-bottom:12px}.activity .field{width:100%;overflow:hidden;text-overflow:ellipsis;max-width:450px;white-space:nowrap;margin-bottom:0}.activity .field .content{flex-grow:1;text-overflow:ellipsis;overflow:hidden}.activity .commit .sha,.activity .repo{display:inline;color:#58a6ff}.activity .code,span.code{background-color:#7777771f;padding:1px 5px;font-size:80%;border-radius:6px;color:#777;font-family:SFMono-Regular,Consolas,Liberation Mono,Menlo,monospace;margin:0 4px -3px}.activity .details,.activity .timestamp{padding-left:38px;display:flex;flex-direction:column;font-size:13px;color:#666}.activity .timestamp{font-size:10px;margin-top:4px}.activity .commit{display:flex;align-items:center}.activity .commit .sha,code{font-family:SFMono-Regular,Consolas,Liberation Mono,Menlo,monospace}.activity .commit .sha{margin-right:4px}.activity .commit .message{overflow:hidden;text-overflow:ellipsis;width:360px;white-space:nowrap}svg.calendar{margin-left:13px;margin-top:4px}.achievement{display:flex;margin:4px 0}code{background-color:#7777771f;display:inline-block;border-radius:6px;color:#777;padding:1px 5px;font-size:80%}:root{--color-calendar-graph-day-bg:#ebedf0;--color-calendar-graph-day-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L1-bg:#9be9a8;--color-calendar-graph-day-L2-bg:#40c463;--color-calendar-graph-day-L3-bg:#30a14e;--color-calendar-graph-day-L4-bg:#216e39;--color-calendar-halloween-graph-day-L1-bg:#ffee4a;--color-calendar-halloween-graph-day-L2-bg:#ffc501;--color-calendar-halloween-graph-day-L3-bg:#fe9600;--color-calendar-halloween-graph-day-L4-bg:#03001c;--color-calendar-winter-graph-day-L1-bg:#0a3069;--color-calendar-winter-graph-day-L2-bg:#0969da;--color-calendar-winter-graph-day-L3-bg:#54aeff;--color-calendar-winter-graph-day-L4-bg:#b6e3ff;--color-calendar-graph-day-L4-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L3-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L2-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L1-border:rgba(27,31,35,0.06)}</style>
+    <style>@keyframes animation-gauge{0%{stroke-dasharray:0 329}}@keyframes animation-rainbow{0%,to{color:#7f00ff;fill:#7f00ff}14%{color:#a933ff;fill:#a933ff}29%{color:#007fff;fill:#007fff}43%{color:#00ff7f;fill:#00ff7f}57%{color:#ff0;fill:#ff0}71%{color:#ff7f00;fill:#ff7f00}86%{color:red;fill:red}}svg{font-family:-apple-system,BlinkMacSystemFont,Segoe UI,Helvetica,Arial,sans-serif,Apple Color Emoji,Segoe UI Emoji;font-size:14px;color:#777}h1,h2,h3{margin:8px 0 2px;padding:0;color:#0366d6}h1{font-size:20px;font-weight:700}h2,h3{font-weight:400}h1 svg,h2 svg,h3 svg{fill:currentColor}h2{font-size:16px}h3{font-size:14px}section&gt;.field{margin-left:5px;margin-right:5px}.field{display:flex;align-items:center;margin-bottom:2px;white-space:nowrap}.field svg{margin:0 8px;fill:#959da5;flex-shrink:0}.row{display:flex;flex-wrap:wrap}.row section{flex:1 1 0}.column{display:flex;flex-direction:column;align-items:center}.no-wrap{white-space:nowrap}#metrics-end,.fill-width{width:100%}.no-margin-top{margin-top:0}.avatar{border-radius:50%;margin:0 6px}.calendar.field{margin:4px 0 4px 7px}.calendar .day{outline:1px solid rgba(27,31,35,.04);outline-offset:-1px}svg.bar{margin:4px 0}.followup.legend{font-size:12px;flex-wrap:wrap}.followup.legend .field{width:46%;justify-content:flex-start;margin-left:8px}.followup.legend svg{margin:0 3px;width:14px;height:14px}.followup.legend svg:first-child{margin-left:0}.followup.legend svg:last-child{margin-right:0}.followup-title{white-space:initial}.activity{margin-bottom:12px}.activity .field{width:100%;overflow:hidden;text-overflow:ellipsis;max-width:450px;white-space:nowrap;margin-bottom:0}.activity .field .content{flex-grow:1;text-overflow:ellipsis;overflow:hidden}.activity .commit .sha,.activity .repo{display:inline;color:#58a6ff}.activity .code,span.code{background-color:#7777771f;padding:1px 5px;font-size:80%;border-radius:6px;color:#777;font-family:SFMono-Regular,Consolas,Liberation Mono,Menlo,monospace;margin:0 4px -3px}.activity .details,.activity .timestamp{padding-left:38px;display:flex;flex-direction:column;font-size:13px;color:#666}.activity .timestamp{font-size:10px;margin-top:4px}.activity .commit{display:flex;align-items:center}.activity .commit .sha,code{font-family:SFMono-Regular,Consolas,Liberation Mono,Menlo,monospace}.activity .commit .sha{margin-right:4px}.activity .commit .message{overflow:hidden;text-overflow:ellipsis;width:360px;white-space:nowrap}svg.calendar{margin-left:13px;margin-top:4px}code{background-color:#7777771f;display:inline-block;border-radius:6px;color:#777;padding:1px 5px;font-size:80%}:root{--color-calendar-graph-day-bg:#ebedf0;--color-calendar-graph-day-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L1-bg:#9be9a8;--color-calendar-graph-day-L2-bg:#40c463;--color-calendar-graph-day-L3-bg:#30a14e;--color-calendar-graph-day-L4-bg:#216e39;--color-calendar-halloween-graph-day-L1-bg:#ffee4a;--color-calendar-halloween-graph-day-L2-bg:#ffc501;--color-calendar-halloween-graph-day-L3-bg:#fe9600;--color-calendar-halloween-graph-day-L4-bg:#03001c;--color-calendar-winter-graph-day-L1-bg:#0a3069;--color-calendar-winter-graph-day-L2-bg:#0969da;--color-calendar-winter-graph-day-L3-bg:#54aeff;--color-calendar-winter-graph-day-L4-bg:#b6e3ff;--color-calendar-graph-day-L4-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L3-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L2-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L1-border:rgba(27,31,35,0.06)}</style>
     <style/>
     <foreignObject x="0" y="0" width="100%" height="100%">
         <div xmlns="http://www.w3.org/1999/xhtml" xmlns:xlink="http://www.w3.org/1999/xlink" class="items-wrapper">
@@ -30,20 +30,20 @@
                         <div class="field calendar">
                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 210 11" width="210" height="16">
                                 <g>
-                                    <rect class="day" x="0" y="0" width="11" height="11" fill="#9be9a8" rx="2" ry="2"/>
+                                    <rect class="day" x="0" y="0" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
                                     <rect class="day" x="15" y="0" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
                                     <rect class="day" x="30" y="0" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
-                                    <rect class="day" x="45" y="0" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
-                                    <rect class="day" x="60" y="0" width="11" height="11" fill="#9be9a8" rx="2" ry="2"/>
-                                    <rect class="day" x="75" y="0" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
-                                    <rect class="day" x="90" y="0" width="11" height="11" fill="#40c463" rx="2" ry="2"/>
-                                    <rect class="day" x="105" y="0" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
-                                    <rect class="day" x="120" y="0" width="11" height="11" fill="#9be9a8" rx="2" ry="2"/>
-                                    <rect class="day" x="135" y="0" width="11" height="11" fill="#216e39" rx="2" ry="2"/>
-                                    <rect class="day" x="150" y="0" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
-                                    <rect class="day" x="165" y="0" width="11" height="11" fill="#9be9a8" rx="2" ry="2"/>
-                                    <rect class="day" x="180" y="0" width="11" height="11" fill="#216e39" rx="2" ry="2"/>
-                                    <rect class="day" x="195" y="0" width="11" height="11" fill="#9be9a8" rx="2" ry="2"/>
+                                    <rect class="day" x="45" y="0" width="11" height="11" fill="#9be9a8" rx="2" ry="2"/>
+                                    <rect class="day" x="60" y="0" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
+                                    <rect class="day" x="75" y="0" width="11" height="11" fill="#40c463" rx="2" ry="2"/>
+                                    <rect class="day" x="90" y="0" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
+                                    <rect class="day" x="105" y="0" width="11" height="11" fill="#9be9a8" rx="2" ry="2"/>
+                                    <rect class="day" x="120" y="0" width="11" height="11" fill="#216e39" rx="2" ry="2"/>
+                                    <rect class="day" x="135" y="0" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
+                                    <rect class="day" x="150" y="0" width="11" height="11" fill="#9be9a8" rx="2" ry="2"/>
+                                    <rect class="day" x="165" y="0" width="11" height="11" fill="#216e39" rx="2" ry="2"/>
+                                    <rect class="day" x="180" y="0" width="11" height="11" fill="#40c463" rx="2" ry="2"/>
+                                    <rect class="day" x="195" y="0" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
                                 </g>
                             </svg>
                         </div>
@@ -181,6 +181,48 @@
                                 <div class="details">
                                     <div>on branch <span class="code">master</span></div>
                                     <div class="commit">
+                                        <div class="sha">#bb6ea64</div>
+                                        <div class="message">fix: guards should not be attacking non-wanted negative reputation players</div>
+                                    </div>
+                                </div>
+                                <div class="timestamp">21 Jan 2024, 14:41:55</div>
+                            </section>
+                        </div>
+                        <div class="row fill-width">
+                            <section class="activity">
+                                <div class="field">
+                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
+                                    </svg>
+                                    <div class="content">
+                                        Pushed 1 commit in
+                                        <span class="repo">DOL-Avalonia/GondwanaServer</span>
+                                    </div>
+                                </div>
+                                <div class="details">
+                                    <div>on branch <span class="code">master</span></div>
+                                    <div class="commit">
+                                        <div class="sha">#6c9a995</div>
+                                        <div class="message">improv: clean up redudant code that didnt work</div>
+                                    </div>
+                                </div>
+                                <div class="timestamp">21 Jan 2024, 14:39:39</div>
+                            </section>
+                        </div>
+                        <div class="row fill-width">
+                            <section class="activity">
+                                <div class="field">
+                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
+                                    </svg>
+                                    <div class="content">
+                                        Pushed 1 commit in
+                                        <span class="repo">DOL-Avalonia/GondwanaServer</span>
+                                    </div>
+                                </div>
+                                <div class="details">
+                                    <div>on branch <span class="code">master</span></div>
+                                    <div class="commit">
                                         <div class="sha">#9c0af1b</div>
                                         <div class="message">fix: fix AOE spells hitting guards</div>
                                     </div>
@@ -230,209 +272,6 @@ Dawn-of-Light/DOLSharp@4cb38eee76e52020598b614fbedf3a062a445fae</div>
                                     </div>
                                 </div>
                                 <div class="timestamp">19 Jan 2024, 21:29:59</div>
-                            </section>
-                        </div>
-                        <div class="row fill-width">
-                            <section class="activity">
-                                <div class="field">
-                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
-                                    </svg>
-                                    <div class="content">
-                                        Pushed 1844 commits in
-                                        <span class="repo">Mishura4/TrinityCore</span>
-                                    </div>
-                                </div>
-                                <div class="details">
-                                    <div>on branch <span class="code">wotlk_classic</span></div>
-                                    <div class="commit">
-                                        <div class="sha">#aedff98</div>
-                                        <div class="message">DB/Creature: Fixed invalid TitleAlt strings</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#1b58850</div>
-                                        <div class="message">TDB 1007.23041 - 2023/04/02</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#20ad201</div>
-                                        <div class="message">DB/Player: Added createinfo data for new class/race combination</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#0f925b5</div>
-                                        <div class="message">Scripts/Paladin: Update Divine Steed for Lightforged Draenei (#28892)</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#f6ab9fd</div>
-                                        <div class="message"> DB/Spells: Added proc requirements to a few auras that have SPELL_ATTR3_CAN_PROC_FROM_PROCS attribute</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#1895f22</div>
-                                        <div class="message">DB/Deepholm: Fix sql</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#1788142</div>
-                                        <div class="message">Core: Update allowed build to 10.0.7.48865</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#1440fe0</div>
-                                        <div class="message">Scripts/Deepholm: Scripted quest "All Our Friends Are Dead" (#28889)</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#4c67e2f</div>
-                                        <div class="message">Scripts/AzureVault: Fixed build</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#eb4afcb</div>
-                                        <div class="message">DB/Dungeons: Fixed entrance/exits
-* ref 3596d1c8f1da018264ee4d102fd30c064f63d230</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#f5017f7</div>
-                                        <div class="message">Scripts/AzureVault: Fix despawning of Volatile Saplings</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#f1e95da</div>
-                                        <div class="message">Core: Update allowed build to 10.0.7.48838</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#562f65f</div>
-                                        <div class="message">Core/Creatures: Compute the level from ContentTuning (#28871)</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#15451ce</div>
-                                        <div class="message">Core/Auras: Fixed iterator invalidation crash with procs using SPELL_ATTR0_PROC_FAILURE_BURNS_CHARGE attribute</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#81cf682</div>
-                                        <div class="message">Core/Loot: Fixed iterator invalidation crash in WorldSession::HandleLootMoneyOpcode
-
-Closes #28885</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#1bd192d</div>
-                                        <div class="message">DB/Creatures: Negate VerifiedBuild for all current creature_model_info data due to recent commit 81ea6f54d93ee10b03e6432c6071e0d0983796a2</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#81ea6f5</div>
-                                        <div class="message">Core/Creatures: Compute CombatReach and BoundingRadius using DisplayScale (#28863)</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#229a7ac</div>
-                                        <div class="message">Core/Skinning: Update correct skinning skill according to creature expansion (#28861)</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#98df536</div>
-                                        <div class="message">DB/Spells: Added proc requirements to a few auras that have SPELL_ATTR3_CAN_PROC_FROM_PROCS attribute</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#7939875</div>
-                                        <div class="message">DB/Deepholm: Scripted quest "Gunship Down"</div>
-                                    </div>
-                                </div>
-                                <div class="timestamp">14 Jan 2024, 18:53:58</div>
-                            </section>
-                        </div>
-                        <div class="row fill-width">
-                            <section class="activity">
-                                <div class="field">
-                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
-                                    </svg>
-                                    <div class="content">
-                                        Pushed 217 commits in
-                                        <span class="repo">Mishura4/TrinityCore</span>
-                                    </div>
-                                </div>
-                                <div class="details">
-                                    <div>on branch <span class="code">master</span></div>
-                                    <div class="commit">
-                                        <div class="sha">#bc4d09d</div>
-                                        <div class="message">Core: Update allowed build to 10.2.0.52188</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#4eb6b01</div>
-                                        <div class="message">Core/Instances: Fixed initializing instance id sequence generator</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#ac05316</div>
-                                        <div class="message">TDB 1020.23111 - 2023/11/15</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#a1b898c</div>
-                                        <div class="message">Core: Update allowed build to 10.2.0.52148</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#2ec4b7d</div>
-                                        <div class="message">DB/Quest: Added quest poi data for 10.2.0</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#a6fd133</div>
-                                        <div class="message">DB/Locales: Added locales for 10.2.0</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#5c5ca83</div>
-                                        <div class="message">DB/Hotfix: Updated broadcast_text data to 10.2.0</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#5ceec3b</div>
-                                        <div class="message">DB/Templates: Added quest and creature wdb data for 10.2.0</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#e72bde5</div>
-                                        <div class="message">Core/BattlegroundMap: Load all cells when created &amp; mark all creatures as active (#29410)</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#740136a</div>
-                                        <div class="message">DB/Mardum: Implement quest: "Orders for Your Captains"</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#ef7892f</div>
-                                        <div class="message">Core: Update allowed build to 10.2.0.52129</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#16d7872</div>
-                                        <div class="message">DB/Mardum: Added Gateway spawns for Illidari Foothold</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#0cf484b</div>
-                                        <div class="message">DB/Stormwind: Added Kerbjorn spawn</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#dfc757a</div>
-                                        <div class="message">Core/Objects: Fixed SelectNearestPlayer</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#3f838a0</div>
-                                        <div class="message">DB/Mardum: Added init. spawns for Illidari Foothold</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#463018f</div>
-                                        <div class="message">DB/Stormwind: Update Training Hall spawns</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#765f86f</div>
-                                        <div class="message">Core/Achievements: Implemented DefeatDungeonEncounter and DefeatDungeonEncounterWhileElegibleForLoot criteria types</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#7bf6fc5</div>
-                                        <div class="message">DB/Mardum: Added spawns for Inferno Peak</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#ab5ffe2</div>
-                                        <div class="message">Scripts/Sepulcher of the First Ones: Clean up Anduin script
-
-* Includes
-* Fixed duplicated EventMaps/TaskSchedulers in BossAI
-* Fixed invalid second argument passed to ScriptedAI constructor
-* Removed deprecated Prepare*Script macros
-* Removed mythic achievement hack</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#e6b480a</div>
-                                        <div class="message">Rename 9999_99_99_98_hotfixes.sql to 2023_11_10_00_hotfixes.sql</div>
-                                    </div>
-                                </div>
-                                <div class="timestamp">14 Jan 2024, 18:53:22</div>
                             </section>
                         </div>
                     </section>
