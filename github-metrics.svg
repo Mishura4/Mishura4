@@ -1,4 +1,4 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="480" height="797" class="">
+<svg xmlns="http://www.w3.org/2000/svg" width="480" height="663" class="">
     <defs>
         <style/>
     </defs>
@@ -30,9 +30,9 @@
                         <div class="field calendar">
                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 210 11" width="210" height="16">
                                 <g>
-                                    <rect class="day" x="0" y="0" width="11" height="11" fill="#9be9a8" rx="2" ry="2"/>
-                                    <rect class="day" x="15" y="0" width="11" height="11" fill="#216e39" rx="2" ry="2"/>
-                                    <rect class="day" x="30" y="0" width="11" height="11" fill="#9be9a8" rx="2" ry="2"/>
+                                    <rect class="day" x="0" y="0" width="11" height="11" fill="#216e39" rx="2" ry="2"/>
+                                    <rect class="day" x="15" y="0" width="11" height="11" fill="#9be9a8" rx="2" ry="2"/>
+                                    <rect class="day" x="30" y="0" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
                                     <rect class="day" x="45" y="0" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
                                     <rect class="day" x="60" y="0" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
                                     <rect class="day" x="75" y="0" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
@@ -40,9 +40,9 @@
                                     <rect class="day" x="105" y="0" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
                                     <rect class="day" x="120" y="0" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
                                     <rect class="day" x="135" y="0" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
-                                    <rect class="day" x="150" y="0" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
-                                    <rect class="day" x="165" y="0" width="11" height="11" fill="#9be9a8" rx="2" ry="2"/>
-                                    <rect class="day" x="180" y="0" width="11" height="11" fill="#40c463" rx="2" ry="2"/>
+                                    <rect class="day" x="150" y="0" width="11" height="11" fill="#9be9a8" rx="2" ry="2"/>
+                                    <rect class="day" x="165" y="0" width="11" height="11" fill="#40c463" rx="2" ry="2"/>
+                                    <rect class="day" x="180" y="0" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
                                     <rect class="day" x="195" y="0" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
                                 </g>
                             </svg>
@@ -174,123 +174,18 @@
                                         <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
                                     </svg>
                                     <div class="content">
-                                        Pushed 3 commits in
+                                        Pushed 1 commit in
                                         <span class="repo">DOL-Avalonia/GondwanaServer</span>
                                     </div>
                                 </div>
                                 <div class="details">
                                     <div>on branch <span class="code">adrenaline</span></div>
                                     <div class="commit">
-                                        <div class="sha">#ba438d3</div>
-                                        <div class="message">fix: fix minor bug with small movement speed boosts disabling the out-of-combat max speed</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#8ca8920</div>
-                                        <div class="message">fix: fix speed increase for AdrenalineStealth</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#1344e90</div>
-                                        <div class="message">fix: fix the fix</div>
+                                        <div class="sha">#9b855c6</div>
+                                        <div class="message">feat: add TensionBuff &amp; TensionDebuff spells, add Region TensionRate, add IsRenaissance bonus</div>
                                     </div>
                                 </div>
-                                <div class="timestamp">24 Mar 2024, 13:50:52</div>
-                            </section>
-                        </div>
-                        <div class="row fill-width">
-                            <section class="activity">
-                                <div class="field">
-                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
-                                    </svg>
-                                    <div class="content">
-                                        Pushed 3 commits in
-                                        <span class="repo">DOL-Avalonia/GondwanaServer</span>
-                                    </div>
-                                </div>
-                                <div class="details">
-                                    <div>on branch <span class="code">adrenaline</span></div>
-                                    <div class="commit">
-                                        <div class="sha">#0ff6ce0</div>
-                                        <div class="message">fix: add adrenaline stealth effect lookup</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#e56df48</div>
-                                        <div class="message">Merge branch 'master' into adrenaline</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#ba84d4a</div>
-                                        <div class="message">fix: fix build</div>
-                                    </div>
-                                </div>
-                                <div class="timestamp">24 Mar 2024, 12:52:59</div>
-                            </section>
-                        </div>
-                        <div class="row fill-width">
-                            <section class="activity">
-                                <div class="field">
-                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
-                                    </svg>
-                                    <div class="content">
-                                        Pushed 4 commits in
-                                        <span class="repo">DOL-Avalonia/GondwanaServer</span>
-                                    </div>
-                                </div>
-                                <div class="details">
-                                    <div>on branch <span class="code">adrenaline</span></div>
-                                    <div class="commit">
-                                        <div class="sha">#a5e636b</div>
-                                        <div class="message">misc: change attack speed cap to 1/0.9s outside RvR</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#5fe1dd7</div>
-                                        <div class="message">fix: fix looking for 'Loockout' instead of 'Lookout' in stealth detection</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#344aef0</div>
-                                        <div class="message">improv: don't calculate stealth detection for group members</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#b5be24f</div>
-                                        <div class="message">feat: AdrenalineStealth</div>
-                                    </div>
-                                </div>
-                                <div class="timestamp">24 Mar 2024, 12:38:36</div>
-                            </section>
-                        </div>
-                        <div class="row fill-width">
-                            <section class="activity">
-                                <div class="field">
-                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
-                                    </svg>
-                                    <div class="content">
-                                        Pushed 2 commits in
-                                        <span class="repo">DOL-Avalonia/GondwanaServer</span>
-                                    </div>
-                                </div>
-                                <div class="details">
-                                    <div>on branch <span class="code">adrenaline</span></div>
-                                    <div class="commit">
-                                        <div class="sha">#34c5395</div>
-                                        <div class="message">Merge remote-tracking branch 'upstream/master' into adrenaline</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#4738d5a</div>
-                                        <div class="message">Feat: Add base classes handling in MasterTrainer + many other game fixes
-- Base classes give training weapons ONLY if the player does not have one already
-- Base class Viking and Magician don't display Bainshee &amp; Valkyrie infos to male gender players
-- Add a serverproperty for territory mob resist regarding territory manager + 15% bonus on mob resist if guild level &gt;= 15
-- Add a serverproperty for guild buff duration + change the guild info display for buff duration based on time in minutes
-- Add translation for "Place assise" + fix the script because players weren't able to sit
-- Guild dues are now available at level 2 for guilds + refactor how guild dues increase regarding guild's level and set a limit with the property "GUILD DUES MAX VALUE"
-- Add more infos, regarding how many territories can be captured, how many guards can be bought, misc infos regarding new bonuses and commands + translations
-- Add 2 more NPCtemplate slots for the Spawner Mob &amp; refactor the code to evenly separate the 6 NPCtemplates when spawning + add column "PercentageOfPlayerInRadius" in Spawner table
-- Increase rate of item drops for lootgenerators Metal / Wood / Gems for mobs having level &gt; 59
-- Fix Guild.txt command list regarding alliances &amp; guild buffs, remove useless texts + fix EN translation for the item enchanter</div>
-                                    </div>
-                                </div>
-                                <div class="timestamp">24 Mar 2024, 11:15:11</div>
+                                <div class="timestamp">24 Mar 2024, 18:59:54</div>
                             </section>
                         </div>
                         <div class="row fill-width">
@@ -301,17 +196,80 @@
                                     </svg>
                                     <div class="content">
                                         Pushed 1 commit in
-                                        <span class="repo">brainboxdotcc/DPP</span>
+                                        <span class="repo">DOL-Avalonia/GondwanaServer</span>
                                     </div>
                                 </div>
                                 <div class="details">
-                                    <div>on branch <span class="code">dev</span></div>
+                                    <div>on branch <span class="code">adrenaline</span></div>
                                     <div class="commit">
-                                        <div class="sha">#4f83914</div>
-                                        <div class="message">Ability to suppress embeds (#1107)</div>
+                                        <div class="sha">#4c04641</div>
+                                        <div class="message">fix: first dot tick is a spell, not a dot (triggers tension)</div>
                                     </div>
                                 </div>
-                                <div class="timestamp">23 Mar 2024, 12:54:56</div>
+                                <div class="timestamp">24 Mar 2024, 18:09:57</div>
+                            </section>
+                        </div>
+                        <div class="row fill-width">
+                            <section class="activity">
+                                <div class="field">
+                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
+                                    </svg>
+                                    <div class="content">
+                                        Pushed 1 commit in
+                                        <span class="repo">DOL-Avalonia/GondwanaServer</span>
+                                    </div>
+                                </div>
+                                <div class="details">
+                                    <div>on branch <span class="code">adrenaline</span></div>
+                                    <div class="commit">
+                                        <div class="sha">#0f07a8e</div>
+                                        <div class="message">misc: non-damaging spells give 1/4 tension</div>
+                                    </div>
+                                </div>
+                                <div class="timestamp">24 Mar 2024, 18:07:13</div>
+                            </section>
+                        </div>
+                        <div class="row fill-width">
+                            <section class="activity">
+                                <div class="field">
+                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
+                                    </svg>
+                                    <div class="content">
+                                        Pushed 1 commit in
+                                        <span class="repo">DOL-Avalonia/GondwanaServer</span>
+                                    </div>
+                                </div>
+                                <div class="details">
+                                    <div>on branch <span class="code">adrenaline</span></div>
+                                    <div class="commit">
+                                        <div class="sha">#0b58dc9</div>
+                                        <div class="message">fix: players under res sickness, damnation or summonmonster cannot gain tension</div>
+                                    </div>
+                                </div>
+                                <div class="timestamp">24 Mar 2024, 17:50:37</div>
+                            </section>
+                        </div>
+                        <div class="row fill-width">
+                            <section class="activity">
+                                <div class="field">
+                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
+                                    </svg>
+                                    <div class="content">
+                                        Pushed 1 commit in
+                                        <span class="repo">DOL-Avalonia/GondwanaServer</span>
+                                    </div>
+                                </div>
+                                <div class="details">
+                                    <div>on branch <span class="code">adrenaline</span></div>
+                                    <div class="commit">
+                                        <div class="sha">#219d93c</div>
+                                        <div class="message">fix: set tension to 0 on reload</div>
+                                    </div>
+                                </div>
+                                <div class="timestamp">24 Mar 2024, 17:43:28</div>
                             </section>
                         </div>
                     </section>
