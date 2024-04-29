@@ -1,8 +1,8 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="480" height="713" class="">
+<svg xmlns="http://www.w3.org/2000/svg" width="480" height="980" class="">
     <defs>
         <style/>
     </defs>
-    <style>@keyframes animation-gauge{0%{stroke-dasharray:0 329}}@keyframes animation-rainbow{0%,to{color:#7f00ff;fill:#7f00ff}14%{color:#a933ff;fill:#a933ff}29%{color:#007fff;fill:#007fff}43%{color:#00ff7f;fill:#00ff7f}57%{color:#ff0;fill:#ff0}71%{color:#ff7f00;fill:#ff7f00}86%{color:red;fill:red}}svg{font-family:-apple-system,BlinkMacSystemFont,Segoe UI,Helvetica,Arial,sans-serif,Apple Color Emoji,Segoe UI Emoji;font-size:14px;color:#777}h1,h2,h3{margin:8px 0 2px;padding:0;color:#0366d6}h1{font-size:20px;font-weight:700}h2,h3{font-weight:400}h1 svg,h2 svg,h3 svg{fill:currentColor}h2{font-size:16px}h3{font-size:14px}section&gt;.field{margin-left:5px;margin-right:5px}.field{display:flex;align-items:center;margin-bottom:2px;white-space:nowrap}.field svg{margin:0 8px;fill:#959da5;flex-shrink:0}.row{display:flex;flex-wrap:wrap}.row section{flex:1 1 0}.column{display:flex;flex-direction:column;align-items:center}.no-wrap{white-space:nowrap}#metrics-end,.fill-width{width:100%}.no-margin-top{margin-top:0}.avatar{border-radius:50%;margin:0 6px}.calendar.field{margin:4px 0 4px 7px}.calendar .day{outline:1px solid rgba(27,31,35,.04);outline-offset:-1px}svg.bar{margin:4px 0}.followup.legend{font-size:12px;flex-wrap:wrap}.followup.legend .field{width:46%;justify-content:flex-start;margin-left:8px}.followup.legend svg{margin:0 3px;width:14px;height:14px}.followup.legend svg:first-child{margin-left:0}.followup.legend svg:last-child{margin-right:0}.followup-title{white-space:initial}.activity{margin-bottom:12px}.activity .field{width:100%;overflow:hidden;text-overflow:ellipsis;max-width:450px;white-space:nowrap;margin-bottom:0}.activity .field .content{flex-grow:1;text-overflow:ellipsis;overflow:hidden}.activity .commit .sha,.activity .repo{display:inline;color:#58a6ff}.activity .code,span.code{background-color:#7777771f;padding:1px 5px;font-size:80%;border-radius:6px;color:#777;font-family:SFMono-Regular,Consolas,Liberation Mono,Menlo,monospace;margin:0 4px -3px}.activity .details,.activity .timestamp{padding-left:38px;display:flex;flex-direction:column;font-size:13px;color:#666}.activity .timestamp{font-size:10px;margin-top:4px}.activity .commit{display:flex;align-items:center}.activity .commit .sha,code{font-family:SFMono-Regular,Consolas,Liberation Mono,Menlo,monospace}.activity .commit .sha{margin-right:4px}.activity .commit .message{overflow:hidden;text-overflow:ellipsis;width:360px;white-space:nowrap}svg.calendar{margin-left:13px;margin-top:4px}code{background-color:#7777771f;display:inline-block;border-radius:6px;color:#777;padding:1px 5px;font-size:80%}:root{--color-calendar-graph-day-bg:#ebedf0;--color-calendar-graph-day-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L1-bg:#9be9a8;--color-calendar-graph-day-L2-bg:#40c463;--color-calendar-graph-day-L3-bg:#30a14e;--color-calendar-graph-day-L4-bg:#216e39;--color-calendar-halloween-graph-day-L1-bg:#ffee4a;--color-calendar-halloween-graph-day-L2-bg:#ffc501;--color-calendar-halloween-graph-day-L3-bg:#fe9600;--color-calendar-halloween-graph-day-L4-bg:#03001c;--color-calendar-winter-graph-day-L1-bg:#0a3069;--color-calendar-winter-graph-day-L2-bg:#0969da;--color-calendar-winter-graph-day-L3-bg:#54aeff;--color-calendar-winter-graph-day-L4-bg:#b6e3ff;--color-calendar-graph-day-L4-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L3-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L2-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L1-border:rgba(27,31,35,0.06)}</style>
+    <style>@keyframes animation-gauge{0%{stroke-dasharray:0 329}}@keyframes animation-rainbow{0%,to{color:#7f00ff;fill:#7f00ff}14%{color:#a933ff;fill:#a933ff}29%{color:#007fff;fill:#007fff}43%{color:#00ff7f;fill:#00ff7f}57%{color:#ff0;fill:#ff0}71%{color:#ff7f00;fill:#ff7f00}86%{color:red;fill:red}}svg{font-family:-apple-system,BlinkMacSystemFont,Segoe UI,Helvetica,Arial,sans-serif,Apple Color Emoji,Segoe UI Emoji;font-size:14px;color:#777}h1,h2,h3{margin:8px 0 2px;padding:0;color:#0366d6}h1{font-size:20px;font-weight:700}h2,h3{font-weight:400}h1 svg,h2 svg,h3 svg{fill:currentColor}h2{font-size:16px}h3{font-size:14px}section&gt;.field{margin-left:5px;margin-right:5px}.field{display:flex;align-items:center;margin-bottom:2px;white-space:nowrap}.field svg{margin:0 8px;fill:#959da5;flex-shrink:0}.row{display:flex;flex-wrap:wrap}.row section{flex:1 1 0}.column{display:flex;flex-direction:column;align-items:center}.no-wrap{white-space:nowrap}#metrics-end,.fill-width{width:100%}.no-margin-top{margin-top:0}.avatar{border-radius:50%;margin:0 6px}.calendar.field{margin:4px 0 4px 7px}.calendar .day{outline:1px solid rgba(27,31,35,.04);outline-offset:-1px}svg.bar{margin:4px 0}.followup.legend{font-size:12px;flex-wrap:wrap}.followup.legend .field{width:46%;justify-content:flex-start;margin-left:8px}.followup.legend svg{margin:0 3px;width:14px;height:14px}.followup.legend svg:first-child{margin-left:0}.followup.legend svg:last-child{margin-right:0}.followup-title{white-space:initial}.activity{margin-bottom:12px}.activity .field{width:100%;overflow:hidden;text-overflow:ellipsis;max-width:450px;white-space:nowrap;margin-bottom:0}.activity .field .content{flex-grow:1;text-overflow:ellipsis;overflow:hidden}.activity .commit .sha,.activity .issue,.activity .repo{display:inline;color:#58a6ff}.activity .code,span.code{background-color:#7777771f;padding:1px 5px;font-size:80%;border-radius:6px;color:#777;font-family:SFMono-Regular,Consolas,Liberation Mono,Menlo,monospace;margin:0 4px -3px}.activity .details,.activity .timestamp{padding-left:38px;display:flex;flex-direction:column;font-size:13px;color:#666}.activity .timestamp{font-size:10px;margin-top:4px}.activity .commit{display:flex;align-items:center}.activity .commit .sha,code{font-family:SFMono-Regular,Consolas,Liberation Mono,Menlo,monospace}.activity .commit .sha{margin-right:4px}.activity .commit .message{overflow:hidden;text-overflow:ellipsis;width:360px;white-space:nowrap}svg.calendar{margin-left:13px;margin-top:4px}.added{color:#3fb950}code{background-color:#7777771f;display:inline-block;border-radius:6px;color:#777;padding:1px 5px;font-size:80%}:root{--color-calendar-graph-day-bg:#ebedf0;--color-calendar-graph-day-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L1-bg:#9be9a8;--color-calendar-graph-day-L2-bg:#40c463;--color-calendar-graph-day-L3-bg:#30a14e;--color-calendar-graph-day-L4-bg:#216e39;--color-calendar-halloween-graph-day-L1-bg:#ffee4a;--color-calendar-halloween-graph-day-L2-bg:#ffc501;--color-calendar-halloween-graph-day-L3-bg:#fe9600;--color-calendar-halloween-graph-day-L4-bg:#03001c;--color-calendar-winter-graph-day-L1-bg:#0a3069;--color-calendar-winter-graph-day-L2-bg:#0969da;--color-calendar-winter-graph-day-L3-bg:#54aeff;--color-calendar-winter-graph-day-L4-bg:#b6e3ff;--color-calendar-graph-day-L4-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L3-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L2-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L1-border:rgba(27,31,35,0.06)}</style>
     <style/>
     <foreignObject x="0" y="0" width="100%" height="100%">
         <div xmlns="http://www.w3.org/1999/xhtml" xmlns:xlink="http://www.w3.org/1999/xlink" class="items-wrapper">
@@ -31,19 +31,19 @@
                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 210 11" width="210" height="16">
                                 <g>
                                     <rect class="day" x="0" y="0" width="11" height="11" fill="#9be9a8" rx="2" ry="2"/>
-                                    <rect class="day" x="15" y="0" width="11" height="11" fill="#9be9a8" rx="2" ry="2"/>
-                                    <rect class="day" x="30" y="0" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
-                                    <rect class="day" x="45" y="0" width="11" height="11" fill="#30a14e" rx="2" ry="2"/>
-                                    <rect class="day" x="60" y="0" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
-                                    <rect class="day" x="75" y="0" width="11" height="11" fill="#9be9a8" rx="2" ry="2"/>
-                                    <rect class="day" x="90" y="0" width="11" height="11" fill="#40c463" rx="2" ry="2"/>
-                                    <rect class="day" x="105" y="0" width="11" height="11" fill="#216e39" rx="2" ry="2"/>
+                                    <rect class="day" x="15" y="0" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
+                                    <rect class="day" x="30" y="0" width="11" height="11" fill="#30a14e" rx="2" ry="2"/>
+                                    <rect class="day" x="45" y="0" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
+                                    <rect class="day" x="60" y="0" width="11" height="11" fill="#9be9a8" rx="2" ry="2"/>
+                                    <rect class="day" x="75" y="0" width="11" height="11" fill="#40c463" rx="2" ry="2"/>
+                                    <rect class="day" x="90" y="0" width="11" height="11" fill="#216e39" rx="2" ry="2"/>
+                                    <rect class="day" x="105" y="0" width="11" height="11" fill="#40c463" rx="2" ry="2"/>
                                     <rect class="day" x="120" y="0" width="11" height="11" fill="#40c463" rx="2" ry="2"/>
-                                    <rect class="day" x="135" y="0" width="11" height="11" fill="#40c463" rx="2" ry="2"/>
-                                    <rect class="day" x="150" y="0" width="11" height="11" fill="#30a14e" rx="2" ry="2"/>
-                                    <rect class="day" x="165" y="0" width="11" height="11" fill="#9be9a8" rx="2" ry="2"/>
-                                    <rect class="day" x="180" y="0" width="11" height="11" fill="#40c463" rx="2" ry="2"/>
-                                    <rect class="day" x="195" y="0" width="11" height="11" fill="#9be9a8" rx="2" ry="2"/>
+                                    <rect class="day" x="135" y="0" width="11" height="11" fill="#30a14e" rx="2" ry="2"/>
+                                    <rect class="day" x="150" y="0" width="11" height="11" fill="#9be9a8" rx="2" ry="2"/>
+                                    <rect class="day" x="165" y="0" width="11" height="11" fill="#40c463" rx="2" ry="2"/>
+                                    <rect class="day" x="180" y="0" width="11" height="11" fill="#9be9a8" rx="2" ry="2"/>
+                                    <rect class="day" x="195" y="0" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
                                 </g>
                             </svg>
                         </div>
@@ -174,22 +174,26 @@
                                         <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
                                     </svg>
                                     <div class="content">
-                                        Pushed 2 commits in
-                                        <span class="repo">Mishura4/GondwanaServer</span>
+                                        Pushed 3 commits in
+                                        <span class="repo">DOL-Avalonia/GondwanaServer</span>
                                     </div>
                                 </div>
                                 <div class="details">
                                     <div>on branch <span class="code">master</span></div>
+                                    <div class="commit">
+                                        <div class="sha">#e829e76</div>
+                                        <div class="message">feat: bonuses to guild banner effectiveness depending on level</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#65ec402</div>
+                                        <div class="message">feat: Banner of Haste</div>
+                                    </div>
                                     <div class="commit">
                                         <div class="sha">#3ac2e20</div>
                                         <div class="message">fix: set Banner of Besieging siege speed to 20%</div>
                                     </div>
-                                    <div class="commit">
-                                        <div class="sha">#296fbad</div>
-                                        <div class="message">fix: fix territory debuff resist affecting petrify</div>
-                                    </div>
                                 </div>
-                                <div class="timestamp">28 Apr 2024, 13:26:56</div>
+                                <div class="timestamp">28 Apr 2024, 20:01:43</div>
                             </section>
                         </div>
                         <div class="row fill-width">
@@ -199,24 +203,297 @@
                                         <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
                                     </svg>
                                     <div class="content">
-                                        Pushed 2 commits in
+                                        Pushed 1 commit in
                                         <span class="repo">DOL-Avalonia/GondwanaServer</span>
                                     </div>
                                 </div>
                                 <div class="details">
-                                    <div>on branch <span class="code">master</span></div>
+                                    <div>on branch <span class="code">territories</span></div>
                                     <div class="commit">
-                                        <div class="sha">#296fbad</div>
-                                        <div class="message">fix: fix territory debuff resist affecting petrify</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#94f478e</div>
-                                        <div class="message">fix: fix errors with Petrify / Damnation
-
-fixes the spells assuming every IGameEffect on a GameLiving is a GameSpellEffect, causing issues with e.g. guild banners</div>
+                                        <div class="sha">#d290676</div>
+                                        <div class="message">feat: Guild territory infos section for `/gc territories`</div>
                                     </div>
                                 </div>
-                                <div class="timestamp">28 Apr 2024, 13:15:04</div>
+                                <div class="timestamp">28 Apr 2024, 20:00:32</div>
+                            </section>
+                        </div>
+                        <div class="row fill-width">
+                            <section class="activity">
+                                <div class="field">
+                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
+                                    </svg>
+                                    <div class="content">
+                                        Pushed 334 commits in
+                                        <span class="repo">DOL-Avalonia/GondwanaServer</span>
+                                    </div>
+                                </div>
+                                <div class="details">
+                                    <div>on branch <span class="code">territories</span></div>
+                                    <div class="commit">
+                                        <div class="sha">#737352d</div>
+                                        <div class="message">position obsolete fix</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#34a9d72</div>
+                                        <div class="message">RenaissanceNPC icon fix</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#9a2c6ed</div>
+                                        <div class="message">New parameters for Gamedoors, Areaeffects &amp; other fixes
+- Areaeffects : add the possibility to cast a spell in place to apply the effect.
+- Areaeffects : Move the call of the spell
+- Areaeffects :  Add the possibility to enable or disable the AreaEffect
+- Areaeffects : Link a areaeffect with a chain in a family
+- Areaeffects : Add the groupmobs
+- Areaeffects : Add the possibility to enable a chain of areaeffect
+- Areaeffects : Add OneUse property
+- Areaeffects : Fix several issues
+
+- Add /chest command as a translation of /coffre command + translations for both commands
+
+- Add new GameDoors properties and conditions (GroupMob, IsRenaissance, Punishspells...)
+
+- Make copy and deletion of Nightmobs, Chests/Coffres, Areaeffects, FollowingMobs much more easier for the worldbuilder
+All values are now replicated and stored in the DB while copying.
+Deletion now deletes all infos in all related tables, especially "AmtebrainParam" to avoid accumulation of unnecessary lines</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#a8993d7</div>
+                                        <div class="message">WIP : Full Event system + GroupMobs &amp; interactions + Spawners + fixes
+
+//////////////////////////////// EVENTS /////////////////////////////////
+
+- Event Start condition 0 : Timer
+- Event Start condition 1 : Kill &amp; GroupMob killed
+- Event Start condition 2 : From a previous event
+- Event Start condition 3 : Money or ressource given to the MoneyNPC
+- Event Start condition 4 : Interval
+- Event Announce Types
+- Event ending condition 0 : Timer ends
+- Event ending condition 1 : Kill
+- Event ending condition 2 : Start of an antagonist event
+- Event ending action 0 : None
+- Event ending action 1 : Bindstone
+- Event ending action 2 : Start new event
+- Event ending action 3 : Reset event and connected events
+
+- Implementation of the MoneyNPC class for events starting with condition 3
+- New Discord options for Events display
+
+//////////////////////////////// GROUPMOBS /////////////////////////////////
+
+- Full GroupMob system implementation to generate interactions between mobs and events or goup of mobs with other group of mobs
+- Groupmob Status to manage hierearchy between 2 GroupMobs. Mobs from a GroupMob "slave" can change temporarily their properties depending on players actions on the "origin" GroupMob.
+
+- The SpawnerMob is a specific mob that can generate adds if attacked, Those adds can be NPCtemplates or stored GroupMobs. Those GroupMobs themselves can have some influence on their parent mob.
+
+/////////////////////////// OTHER fixes ////////////////////////////////////
+
+- Copyist &amp; Librarian had some issues and could crash the server
+- Typo in RealmRankTitles.cs</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#489cb0e</div>
+                                        <div class="message">Fix compiling errors, GuarksRings, added debug, temp removal of mailxml
+
+All compiling errors have been fixed
+GuarksRings canceling issue has been fixed
+Added debug to point out where things should be modified to fix Renaissance NPC Icon not showing until NPC is reloaded
+The xml file that was created at every server start is temporarly removed to avoid inconvenience</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#5d46dea</div>
+                                        <div class="message">New additions : TeleportSpellHandler, Combinelist, Old crafting system, more BAF properties
+- Assign the faction when a pet is created in SummonSpellHandler
+- Fix issues with craft master, apply new system to update skills
+- Add a new property to limit the additional chance in the BAF system for turrets
+- Add new server property to manage BAF range
+- Add combine list command + ShadowNPC
+- (Re)Add TeleportSpellHandler</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#316759d</div>
+                                        <div class="message">- (Re) adding partially the Artifacts system amd manager + CombineScrolls  (some more fixes are necessary)
+- Combine Item implementation based on CombineScroll, having crafting features as well (some more fixes are necessary)
+- Improvements on the Echangeur NPC
+- Areas can provide RP bonuses and allow or not players to steal on each other
+- Unique items created with crafting are now tradable
+- Fix artifact issue when craft/take on the floor/loot them: item is not consider as an artifact when it was added
+- PVEImmunity timer implementatiom
+- Increase the concentration for class: Cleric, Minstrel, Healer, Shaman, Druid and Bard
+- Limit guild/unguild with a new timer (default 60 minutes)
+- Fix commands promote and demote
+- Add information to guild buff and change time to recast the buff at 6h
+- Fix bug "respond to sender" + add missing langage fields in en folder
+- fix invite command + join / quit guild bonus update</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#ecd94a6</div>
+                                        <div class="message">Merge pull request #1 from DOL-Avalonia/Scripts-Spellhandlers-Coffre-to-fix-vector3issue
+
+- Adding and fixing with Vector3 &amp; Geometry:
+TeleportMgr.cs(gameutils), tppoint.cs(gmcommands), TPPoint.cs (gameutils), EarthquakeSpellHandler.cs, Earthquake (GM Command), /mob reload radius (gm command), /xmob (GMcommand), FeuDeCamp.cs, Antipass.cs
+
+-Fixing MobHirule.cs
+
+-Fixing "Gameliving.cs" while implementing Triggerspellhandler.cs
+
+-Fixing errors in GameCoffre.cs + Geometry corrections
+
+-Added DOL.Geometry namespace for TPPoint
+
+-Fix MissionMaster respawn at spawnpoint instead of last location
+-Make RespawnTimerCallback() use Spawn()
+-Remove duplicate warnings from Champion styles
+-Add /jump to target command
+-Fix /keepguard path command : Patrol guards wouldn't use the created path previously</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#20015bd</div>
+                                        <div class="message">Various DOL fixes:
+-Fix MissionMaster respawn at spawnpoint instead of last location
+-Make RespawnTimerCallback() use Spawn()
+-Remove duplicate warnings from Champion styles
+-Add /jump to target command
+-Fix /keepguard path command : Patrol guards wouldn't use the created path previously</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#4038de7</div>
+                                        <div class="message">Project can compile again + remove TeleportSpellHandler.cs
+
+~50 (all) errors and ~150 warnings removed
+TeleportSpellHandler.cs has been removed
+Few functions needed adaptation and some adjustments were made because of the Vector3 migration (I had to use replacement functions that apparently do not exist in our codebase), everything SHOULD be working correctly.</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#53883ff</div>
+                                        <div class="message">Cleaned up errors in GameCoffre
+
+namespace and datatype problems</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#3ca6a06</div>
+                                        <div class="message">Added DOL.Geometry namespace for TPPoint</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#aa21eb7</div>
+                                        <div class="message">So many errors to fix for coffres/chest implementation :
+
+Erreur CS1061 'GameLocation' ne contient pas de définition pour 'X' et aucune méthode d'extension accessible 'X' acceptant un premier argument de type 'GameLocation' n'a été trouvée (une directive using ou une référence d'assembly est-elle manquante ?) GameServer D:\JEUX\Electronic Arts\__Sourcretree projects\GONDWANA\GameServer\_scripts\AmteScripts\GameObjects\Coffre\GameCoffre.cs 419 Actif
+----&gt; fix to do in relation with vector3 system
+
+Erreur CS0103 Name 'GetRandomItem' does not exist GameServer D:\JEUX\Electronic Arts\__Sourcretree projects\GONDWANA\GameServer\_scripts\AmteScripts\GameObjects\Coffre\GameCoffre.cs 296 Actif
+
+Erreur CS0103 Name  'HandlePopMob' does not exist actuel GameServer D:\JEUX\Electronic Arts\__Sourcretree projects\GONDWANA\GameServer\_scripts\AmteScripts\GameObjects\Coffre\GameCoffre.cs 336 Actif
+
+Erreur CS0103 Name  'Unlock' does not exist GameServer D:\JEUX\Electronic Arts\__Sourcretree projects\GONDWANA\GameServer\_scripts\AmteScripts\GameObjects\Coffre\GameCoffre.cs 249 Actif
+
+Many other errors with private/public modifier</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#0cc4c5a</div>
+                                        <div class="message">Scripts to fix due to various issues :
+- TeleportSpellHandler.cs,TeleportMgr.cs(gameutils), tppoint.cs(gmcommands), TPPoint.cs (gameutils), EarthquakeSpellHandler.cs, Earthquake (GM Command), /mob reload radius (gm command), /xmob (GMcommand) /// Not working especially due to vector3 implementation replacing Point3D.
+
+-Warnings to fix regarding scripts "FeuDeCamp.cs" &amp; "Äntipass.cs" because positions X Y Z are obsolete due to vector3 implementation
+
+-Error implementing "MobHirule.cs
+CS1061 'object' ne contient pas de définition pour 'Key' et aucune méthode d'extension accessible 'Key' acceptant un premier argument de type 'object' n'a été trouvée"
+
+-Error in "Gameliving.cs" while implementing Triggerspellhandler.cs
+ligne 5560 :Erreur CS1503 Argument 2 : conversion impossible de 'bool' en 'DOL.Database.InventoryItem'</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#e3cec66</div>
+                                        <div class="message">Adding Steal (VOL) &amp; AFK abilities + commands</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#b339bf0</div>
+                                        <div class="message">New spellhandlers :
+-Demi
+-Quarter
+-Omniheal
+-Petrify
+-Unpetrify
+-Damnation
+-Triggerspell
+-Slow spellhandler
+-FakeSpellHandler
+-SpellReflectionDebuff
+
+- Corrections for parchment usage and item timers
+- First implementation of TPPoint tables</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#595de72</div>
+                                        <div class="message">Firecamp + Renaissance system + Item bonus condition implementation
+(based on Avalonia Code)</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#82031e2</div>
+                                        <div class="message">Global Update with code from Avalonia and DOL
+- New mobs : Static Mob, Antipass, SplitMob, MobChieftain, MobBoss, MobKamikaze
+- New NPC : Master trainer, Douanier
+- New GM command /ngg
+- Realmabilities fixes : ShadowStrike, Assassinate, Remedy, Thornweed Field
+- Lootchanger fixes
+- Casting spells from horses fixes
+- New properties/fixes for Necro pet melee damages, Spear Merlee damages, Hand to hand Melee damages
+- Added Group XP MAX Limitation Level Interval
+- Fixes for /release city
+- Remove the subspell limitation + subspell delay possible
+- Fix damages for mobs level 0 &amp; 1
+- Add UTILITY infos for ALL item bonuses in Delves (Classic + TOA + Mythical Utility calculation)
+- Set initial aggro of 'added' mobs to 1
+- Fix aggro switch on stun/mezz
+- Display MythicalStatCap correctly
+- Fix weapons with 0 DPS doing infinite style damage
+- Fix casting GamePets
+- Remove BP cap
+- Force respawn MissionMaster on Tower/Keep take
+- Set Respawn Time of MissionMaster to 2 min
+- Fix Market Search
+- Fix /object fastcreate &lt;name&gt; &lt;model_id&gt;
+- Fix InterceptEffect.InterceptChance (null check)
+- New InventoryItem subclasses to create catapult, ballista, siegeram and trebuchet
+- Use a static dictionary to hold the locks for all logins
+- Auto heal on lord is based on % of max health
+- Add more length restrictions to WritePascalStringIntLE
+- Do not delve the 'weapon' stats of an instrument
+- Add Mithril to eMerchantWindowType
+- Fix turret creation on 1.127
+- Fix animist turret when target is running through
+- Fix GM commands /mob and /object in order to allow much more new models in the game</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#dae5b4b</div>
+                                        <div class="message">Initial commit : Amtenael server with pathing system
+(info : Commit 2e1478e removed due to several ingame issues "refactor: use GameTimer, XPGainers to ConcurrentDic, better Position system")</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#900ade4</div>
+                                        <div class="message">Initial commit</div>
+                                    </div>
+                                </div>
+                                <div class="timestamp">28 Apr 2024, 17:38:08</div>
+                            </section>
+                        </div>
+                        <div class="row fill-width">
+                            <section class="activity">
+                                <div class="field">
+                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+                                        <path fill-rule="evenodd" d="M11.75 2.5a.75.75 0 100 1.5.75.75 0 000-1.5zm-2.25.75a2.25 2.25 0 113 2.122V6A2.5 2.5 0 0110 8.5H6a1 1 0 00-1 1v1.128a2.251 2.251 0 11-1.5 0V5.372a2.25 2.25 0 111.5 0v1.836A2.492 2.492 0 016 7h4a1 1 0 001-1v-.628A2.25 2.25 0 019.5 3.25zM4.25 12a.75.75 0 100 1.5.75.75 0 000-1.5zM3.5 3.25a.75.75 0 111.5 0 .75.75 0 01-1.5 0z"/>
+                                    </svg>
+                                    <div class="content">
+                                        Created new
+                      branch
+                                        <span class="code">territories</span>
+                                        in
+                                        <span class="repo">DOL-Avalonia/GondwanaServer</span>
+                                    </div>
+                                </div>
+                                <div class="timestamp">28 Apr 2024, 17:38:08</div>
                             </section>
                         </div>
                         <div class="row fill-width">
@@ -233,59 +510,11 @@ fixes the spells assuming every IGameEffect on a GameLiving is a GameSpellEffect
                                 <div class="details">
                                     <div>on branch <span class="code">master</span></div>
                                     <div class="commit">
-                                        <div class="sha">#94f478e</div>
-                                        <div class="message">fix: fix errors with Petrify / Damnation
-
-fixes the spells assuming every IGameEffect on a GameLiving is a GameSpellEffect, causing issues with e.g. guild banners</div>
+                                        <div class="sha">#e829e76</div>
+                                        <div class="message">feat: bonuses to guild banner effectiveness depending on level</div>
                                     </div>
                                 </div>
-                                <div class="timestamp">28 Apr 2024, 13:04:57</div>
-                            </section>
-                        </div>
-                        <div class="row fill-width">
-                            <section class="activity">
-                                <div class="field">
-                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
-                                    </svg>
-                                    <div class="content">
-                                        Pushed 2 commits in
-                                        <span class="repo">DOL-Avalonia/GondwanaServer</span>
-                                    </div>
-                                </div>
-                                <div class="details">
-                                    <div>on branch <span class="code">master</span></div>
-                                    <div class="commit">
-                                        <div class="sha">#83c68e5</div>
-                                        <div class="message">feat: remove cap on territory resists (still cap at 100%)</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#b13b1f5</div>
-                                        <div class="message">feat: add guild banner effect value to effect name</div>
-                                    </div>
-                                </div>
-                                <div class="timestamp">28 Apr 2024, 12:33:28</div>
-                            </section>
-                        </div>
-                        <div class="row fill-width">
-                            <section class="activity">
-                                <div class="field">
-                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
-                                    </svg>
-                                    <div class="content">
-                                        Pushed 1 commit in
-                                        <span class="repo">Mishura4/GondwanaServer</span>
-                                    </div>
-                                </div>
-                                <div class="details">
-                                    <div>on branch <span class="code">master</span></div>
-                                    <div class="commit">
-                                        <div class="sha">#83c68e5</div>
-                                        <div class="message">feat: remove cap on territory resists (still cap at 100%)</div>
-                                    </div>
-                                </div>
-                                <div class="timestamp">28 Apr 2024, 12:33:10</div>
+                                <div class="timestamp">28 Apr 2024, 16:38:40</div>
                             </section>
                         </div>
                     </section>
