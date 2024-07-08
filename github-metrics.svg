@@ -1,4 +1,4 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="480" height="730" class="">
+<svg xmlns="http://www.w3.org/2000/svg" width="480" height="663" class="">
     <defs>
         <style/>
     </defs>
@@ -34,16 +34,16 @@
                                     <rect class="day" x="15" y="0" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
                                     <rect class="day" x="30" y="0" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
                                     <rect class="day" x="45" y="0" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
-                                    <rect class="day" x="60" y="0" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
-                                    <rect class="day" x="75" y="0" width="11" height="11" fill="#40c463" rx="2" ry="2"/>
-                                    <rect class="day" x="90" y="0" width="11" height="11" fill="#216e39" rx="2" ry="2"/>
-                                    <rect class="day" x="105" y="0" width="11" height="11" fill="#9be9a8" rx="2" ry="2"/>
+                                    <rect class="day" x="60" y="0" width="11" height="11" fill="#9be9a8" rx="2" ry="2"/>
+                                    <rect class="day" x="75" y="0" width="11" height="11" fill="#30a14e" rx="2" ry="2"/>
+                                    <rect class="day" x="90" y="0" width="11" height="11" fill="#9be9a8" rx="2" ry="2"/>
+                                    <rect class="day" x="105" y="0" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
                                     <rect class="day" x="120" y="0" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
                                     <rect class="day" x="135" y="0" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
                                     <rect class="day" x="150" y="0" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
-                                    <rect class="day" x="165" y="0" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
+                                    <rect class="day" x="165" y="0" width="11" height="11" fill="#30a14e" rx="2" ry="2"/>
                                     <rect class="day" x="180" y="0" width="11" height="11" fill="#216e39" rx="2" ry="2"/>
-                                    <rect class="day" x="195" y="0" width="11" height="11" fill="#40c463" rx="2" ry="2"/>
+                                    <rect class="day" x="195" y="0" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
                                 </g>
                             </svg>
                         </div>
@@ -174,30 +174,18 @@
                                         <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
                                     </svg>
                                     <div class="content">
-                                        Pushed 4 commits in
+                                        Pushed 1 commit in
                                         <span class="repo">DOL-Avalonia/GondwanaServer</span>
                                     </div>
                                 </div>
                                 <div class="details">
                                     <div>on branch <span class="code">master</span></div>
                                     <div class="commit">
-                                        <div class="sha">#9f698e4</div>
-                                        <div class="message">fix: use bitshifts for eTitleFlags values to prevent mistakes</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#1e2307d</div>
-                                        <div class="message">improv: use GamePlayer method to calculate RPs to gain realm rank in taskmaster</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#53f7486</div>
-                                        <div class="message">feat: allow quests to reward a negative amount of XP, signifying % of level</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#e1b11aa</div>
-                                        <div class="message">fix: fix guild bonus xp overflow &amp; math</div>
+                                        <div class="sha">#979fbe4</div>
+                                        <div class="message">refactor: cleanup /settitle</div>
                                     </div>
                                 </div>
-                                <div class="timestamp">7 Jul 2024, 13:10:53</div>
+                                <div class="timestamp">7 Jul 2024, 17:28:52</div>
                             </section>
                         </div>
                         <div class="row fill-width">
@@ -214,11 +202,32 @@
                                 <div class="details">
                                     <div>on branch <span class="code">master</span></div>
                                     <div class="commit">
-                                        <div class="sha">#9f698e4</div>
-                                        <div class="message">fix: use bitshifts for eTitleFlags values to prevent mistakes</div>
+                                        <div class="sha">#979fbe4</div>
+                                        <div class="message">refactor: cleanup /settitle</div>
                                     </div>
                                 </div>
-                                <div class="timestamp">7 Jul 2024, 13:10:52</div>
+                                <div class="timestamp">7 Jul 2024, 17:28:28</div>
+                            </section>
+                        </div>
+                        <div class="row fill-width">
+                            <section class="activity">
+                                <div class="field">
+                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
+                                    </svg>
+                                    <div class="content">
+                                        Pushed 1 commit in
+                                        <span class="repo">DOL-Avalonia/GondwanaServer</span>
+                                    </div>
+                                </div>
+                                <div class="details">
+                                    <div>on branch <span class="code">master</span></div>
+                                    <div class="commit">
+                                        <div class="sha">#75afdbb</div>
+                                        <div class="message">refactor: cleanup /settitle</div>
+                                    </div>
+                                </div>
+                                <div class="timestamp">7 Jul 2024, 17:26:57</div>
                             </section>
                         </div>
                         <div class="row fill-width">
@@ -235,11 +244,11 @@
                                 <div class="details">
                                     <div>on branch <span class="code">master</span></div>
                                     <div class="commit">
-                                        <div class="sha">#1e2307d</div>
-                                        <div class="message">improv: use GamePlayer method to calculate RPs to gain realm rank in taskmaster</div>
+                                        <div class="sha">#75afdbb</div>
+                                        <div class="message">refactor: cleanup /settitle</div>
                                     </div>
                                 </div>
-                                <div class="timestamp">7 Jul 2024, 13:01:50</div>
+                                <div class="timestamp">7 Jul 2024, 17:26:56</div>
                             </section>
                         </div>
                         <div class="row fill-width">
@@ -250,42 +259,17 @@
                                     </svg>
                                     <div class="content">
                                         Pushed 1 commit in
-                                        <span class="repo">Mishura4/GondwanaServer</span>
+                                        <span class="repo">DOL-Avalonia/GondwanaServer</span>
                                     </div>
                                 </div>
                                 <div class="details">
                                     <div>on branch <span class="code">master</span></div>
                                     <div class="commit">
-                                        <div class="sha">#53f7486</div>
-                                        <div class="message">feat: allow quests to reward a negative amount of XP, signifying % of level</div>
+                                        <div class="sha">#5a1d71c</div>
+                                        <div class="message">fix: send stats again when changing active title</div>
                                     </div>
                                 </div>
-                                <div class="timestamp">7 Jul 2024, 13:00:54</div>
-                            </section>
-                        </div>
-                        <div class="row fill-width">
-                            <section class="activity">
-                                <div class="field">
-                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
-                                    </svg>
-                                    <div class="content">
-                                        Pushed 2 commits in
-                                        <span class="repo">Mishura4/GondwanaServer</span>
-                                    </div>
-                                </div>
-                                <div class="details">
-                                    <div>on branch <span class="code">master</span></div>
-                                    <div class="commit">
-                                        <div class="sha">#e1b11aa</div>
-                                        <div class="message">fix: fix guild bonus xp overflow &amp; math</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#07571dd</div>
-                                        <div class="message">Translation fixes for Mythical Spell Reflect bonuses &amp; Basic implementation for news player classes</div>
-                                    </div>
-                                </div>
-                                <div class="timestamp">7 Jul 2024, 12:59:08</div>
+                                <div class="timestamp">7 Jul 2024, 17:23:36</div>
                             </section>
                         </div>
                     </section>
