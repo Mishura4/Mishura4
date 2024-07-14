@@ -1,4 +1,4 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="480" height="713" class="">
+<svg xmlns="http://www.w3.org/2000/svg" width="480" height="663" class="">
     <defs>
         <style/>
     </defs>
@@ -43,7 +43,7 @@
                                     <rect class="day" x="150" y="0" width="11" height="11" fill="#9be9a8" rx="2" ry="2"/>
                                     <rect class="day" x="165" y="0" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
                                     <rect class="day" x="180" y="0" width="11" height="11" fill="#40c463" rx="2" ry="2"/>
-                                    <rect class="day" x="195" y="0" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
+                                    <rect class="day" x="195" y="0" width="11" height="11" fill="#9be9a8" rx="2" ry="2"/>
                                 </g>
                             </svg>
                         </div>
@@ -174,22 +174,18 @@
                                         <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
                                     </svg>
                                     <div class="content">
-                                        Pushed 2 commits in
+                                        Pushed 1 commit in
                                         <span class="repo">DOL-Avalonia/GondwanaServer</span>
                                     </div>
                                 </div>
                                 <div class="details">
                                     <div>on branch <span class="code">master</span></div>
                                     <div class="commit">
-                                        <div class="sha">#ff763bc</div>
-                                        <div class="message">feat: change eProperty to ushort (this could have wide repercussions), add Bountyhunter &amp; Thief title bonuses &amp; their properties</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#c7ae6a5</div>
-                                        <div class="message">improv: remove IGamePlayer, GamePlayerMoq</div>
+                                        <div class="sha">#01c6543</div>
+                                        <div class="message">improv: add attack logs in Debug mode</div>
                                     </div>
                                 </div>
-                                <div class="timestamp">13 Jul 2024, 21:29:38</div>
+                                <div class="timestamp">14 Jul 2024, 13:33:05</div>
                             </section>
                         </div>
                         <div class="row fill-width">
@@ -206,32 +202,11 @@
                                 <div class="details">
                                     <div>on branch <span class="code">master</span></div>
                                     <div class="commit">
-                                        <div class="sha">#ff763bc</div>
-                                        <div class="message">feat: change eProperty to ushort (this could have wide repercussions), add Bountyhunter &amp; Thief title bonuses &amp; their properties</div>
+                                        <div class="sha">#01c6543</div>
+                                        <div class="message">improv: add attack logs in Debug mode</div>
                                     </div>
                                 </div>
-                                <div class="timestamp">13 Jul 2024, 21:29:37</div>
-                            </section>
-                        </div>
-                        <div class="row fill-width">
-                            <section class="activity">
-                                <div class="field">
-                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
-                                    </svg>
-                                    <div class="content">
-                                        Pushed 1 commit in
-                                        <span class="repo">Mishura4/GondwanaServer</span>
-                                    </div>
-                                </div>
-                                <div class="details">
-                                    <div>on branch <span class="code">master</span></div>
-                                    <div class="commit">
-                                        <div class="sha">#c7ae6a5</div>
-                                        <div class="message">improv: remove IGamePlayer, GamePlayerMoq</div>
-                                    </div>
-                                </div>
-                                <div class="timestamp">13 Jul 2024, 19:09:51</div>
+                                <div class="timestamp">14 Jul 2024, 13:33:04</div>
                             </section>
                         </div>
                         <div class="row fill-width">
@@ -248,11 +223,11 @@
                                 <div class="details">
                                     <div>on branch <span class="code">master</span></div>
                                     <div class="commit">
-                                        <div class="sha">#01c711f</div>
-                                        <div class="message">improv: decouple steal/vol command</div>
+                                        <div class="sha">#c493b4f</div>
+                                        <div class="message">improv: DPS property is disabled in RvR</div>
                                     </div>
                                 </div>
-                                <div class="timestamp">13 Jul 2024, 18:47:44</div>
+                                <div class="timestamp">14 Jul 2024, 12:32:58</div>
                             </section>
                         </div>
                         <div class="row fill-width">
@@ -262,26 +237,39 @@
                                         <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
                                     </svg>
                                     <div class="content">
-                                        Pushed 3 commits in
+                                        Pushed 1 commit in
                                         <span class="repo">Mishura4/GondwanaServer</span>
                                     </div>
                                 </div>
                                 <div class="details">
                                     <div>on branch <span class="code">master</span></div>
                                     <div class="commit">
-                                        <div class="sha">#01c711f</div>
-                                        <div class="message">improv: decouple steal/vol command</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#314ea31</div>
-                                        <div class="message">feat: implement demonslayer &amp; trader title bonuses</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#c92cb40</div>
-                                        <div class="message">fix: fix `/settitle`</div>
+                                        <div class="sha">#c493b4f</div>
+                                        <div class="message">improv: DPS property is disabled in RvR</div>
                                     </div>
                                 </div>
-                                <div class="timestamp">13 Jul 2024, 18:47:39</div>
+                                <div class="timestamp">14 Jul 2024, 12:32:57</div>
+                            </section>
+                        </div>
+                        <div class="row fill-width">
+                            <section class="activity">
+                                <div class="field">
+                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
+                                    </svg>
+                                    <div class="content">
+                                        Pushed 1 commit in
+                                        <span class="repo">DOL-Avalonia/GondwanaServer</span>
+                                    </div>
+                                </div>
+                                <div class="details">
+                                    <div>on branch <span class="code">master</span></div>
+                                    <div class="commit">
+                                        <div class="sha">#14eb392</div>
+                                        <div class="message">fix: use DPS property to calculate damage cap</div>
+                                    </div>
+                                </div>
+                                <div class="timestamp">14 Jul 2024, 12:30:51</div>
                             </section>
                         </div>
                     </section>
