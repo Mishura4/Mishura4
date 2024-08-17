@@ -1,4 +1,4 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="480" height="693" class="">
+<svg xmlns="http://www.w3.org/2000/svg" width="480" height="737" class="">
     <defs>
         <style/>
     </defs>
@@ -43,7 +43,7 @@
                                     <rect class="day" x="150" y="0" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
                                     <rect class="day" x="165" y="0" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
                                     <rect class="day" x="180" y="0" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
-                                    <rect class="day" x="195" y="0" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
+                                    <rect class="day" x="195" y="0" width="11" height="11" fill="#40c463" rx="2" ry="2"/>
                                 </g>
                             </svg>
                         </div>
@@ -171,6 +171,67 @@
                             <section class="activity">
                                 <div class="field">
                                     <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
+                                    </svg>
+                                    <div class="content">
+                                        Pushed 4 commits in
+                                        <span class="repo">Mishura4/GondwanaServer</span>
+                                    </div>
+                                </div>
+                                <div class="details">
+                                    <div>on branch <span class="code">master</span></div>
+                                    <div class="commit">
+                                        <div class="sha">#4e732e5</div>
+                                        <div class="message">fix(BumpSpellHandler): fix landing too early, and increase fall damage</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#ebb847b</div>
+                                        <div class="message">Merge branch 'master' of github.com:DOL-Avalonia/GondwanaServer</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#d80608f</div>
+                                        <div class="message">Feat: Create SpellShield spellhandler &amp; related itembonus + CounterAttack Method &amp; itembonus + other additions...
+- Finalize LootChance bonus addition in all LootGenerators as well as in TemplateGenerators and Coffres
+- Fix LootGenerators (AlanteanGlass, Aurulite, Dragonscales, DreadedSeals) to accomodate IsBoss condition instead of "NamedMob"
+- Improve and add more conditions for loot generator class «DOL.GS.LootGeneratorMobTemplate »</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#b89fbfb</div>
+                                        <div class="message">Feat: Preliminary implementation of LootChance item bonus in Gem - Metal - Wood Generators + various fixes
+- Fix Chest english translatons for GM commands
+- Fix Combineitem with some items not combining due to “dictionary” error
+- Addition and fixes for new eProperties in GlobalConstants + translations + GameInventoryItem Utility adapation
+- Fix: CraftingSpeed Buff should not be able to be disabled on mouse right click</div>
+                                    </div>
+                                </div>
+                                <div class="timestamp">17 Aug 2024, 14:03:25</div>
+                            </section>
+                        </div>
+                        <div class="row fill-width">
+                            <section class="activity">
+                                <div class="field">
+                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
+                                    </svg>
+                                    <div class="content">
+                                        Pushed 1 commit in
+                                        <span class="repo">DOL-Avalonia/GondwanaServer</span>
+                                    </div>
+                                </div>
+                                <div class="details">
+                                    <div>on branch <span class="code">master</span></div>
+                                    <div class="commit">
+                                        <div class="sha">#4e732e5</div>
+                                        <div class="message">fix(BumpSpellHandler): fix landing too early, and increase fall damage</div>
+                                    </div>
+                                </div>
+                                <div class="timestamp">17 Aug 2024, 14:03:26</div>
+                            </section>
+                        </div>
+                        <div class="row fill-width">
+                            <section class="activity">
+                                <div class="field">
+                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                         <path fill-rule="evenodd" d="M2.75 2.5a.25.25 0 00-.25.25v7.5c0 .138.112.25.25.25h2a.75.75 0 01.75.75v2.19l2.72-2.72a.75.75 0 01.53-.22h4.5a.25.25 0 00.25-.25v-7.5a.25.25 0 00-.25-.25H2.75zM1 2.75C1 1.784 1.784 1 2.75 1h10.5c.966 0 1.75.784 1.75 1.75v7.5A1.75 1.75 0 0113.25 12H9.06l-2.573 2.573A1.457 1.457 0 014 13.543V12H2.75A1.75 1.75 0 011 10.25v-7.5z"/>
                                     </svg>
                                     <div class="content">
@@ -227,45 +288,6 @@ With that said we could document this better</div>
                                     </div>
                                 </div>
                                 <div class="timestamp">11 Aug 2024, 19:21:14</div>
-                            </section>
-                        </div>
-                        <div class="row fill-width">
-                            <section class="activity">
-                                <div class="field">
-                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                        <path fill-rule="evenodd" d="M2.75 2.5a.25.25 0 00-.25.25v7.5c0 .138.112.25.25.25h2a.75.75 0 01.75.75v2.19l2.72-2.72a.75.75 0 01.53-.22h4.5a.25.25 0 00.25-.25v-7.5a.25.25 0 00-.25-.25H2.75zM1 2.75C1 1.784 1.784 1 2.75 1h10.5c.966 0 1.75.784 1.75 1.75v7.5A1.75 1.75 0 0113.25 12H9.06l-2.573 2.573A1.457 1.457 0 014 13.543V12H2.75A1.75 1.75 0 011 10.25v-7.5z"/>
-                                    </svg>
-                                    <div class="content">
-                                        Commented on
-                                        <span class="issue">#1153 when_all method</span>
-                                    </div>
-                                </div>
-                                <div class="details">
-                                    <div>opened by tarolling in <span class="repo">brainboxdotcc/DPP</span></div>
-                                    <div class="comment">Bump</div>
-                                </div>
-                                <div class="timestamp">8 Aug 2024, 23:47:39</div>
-                            </section>
-                        </div>
-                        <div class="row fill-width">
-                            <section class="activity">
-                                <div class="field">
-                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
-                                    </svg>
-                                    <div class="content">
-                                        Pushed 1 commit in
-                                        <span class="repo">DOL-Avalonia/GondwanaServer</span>
-                                    </div>
-                                </div>
-                                <div class="details">
-                                    <div>on branch <span class="code">master</span></div>
-                                    <div class="commit">
-                                        <div class="sha">#f0b9209</div>
-                                        <div class="message">fix: quick fix for Forceful Zephyr master ability</div>
-                                    </div>
-                                </div>
-                                <div class="timestamp">4 Aug 2024, 17:48:10</div>
                             </section>
                         </div>
                     </section>
