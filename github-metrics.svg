@@ -1,4 +1,4 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="480" height="754" class="">
+<svg xmlns="http://www.w3.org/2000/svg" width="480" height="688" class="">
     <defs>
         <style/>
     </defs>
@@ -34,15 +34,15 @@
                                     <rect class="day" x="15" y="0" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
                                     <rect class="day" x="30" y="0" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
                                     <rect class="day" x="45" y="0" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
-                                    <rect class="day" x="60" y="0" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
-                                    <rect class="day" x="75" y="0" width="11" height="11" fill="#40c463" rx="2" ry="2"/>
-                                    <rect class="day" x="90" y="0" width="11" height="11" fill="#216e39" rx="2" ry="2"/>
-                                    <rect class="day" x="105" y="0" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
+                                    <rect class="day" x="60" y="0" width="11" height="11" fill="#40c463" rx="2" ry="2"/>
+                                    <rect class="day" x="75" y="0" width="11" height="11" fill="#216e39" rx="2" ry="2"/>
+                                    <rect class="day" x="90" y="0" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
+                                    <rect class="day" x="105" y="0" width="11" height="11" fill="#9be9a8" rx="2" ry="2"/>
                                     <rect class="day" x="120" y="0" width="11" height="11" fill="#9be9a8" rx="2" ry="2"/>
-                                    <rect class="day" x="135" y="0" width="11" height="11" fill="#9be9a8" rx="2" ry="2"/>
-                                    <rect class="day" x="150" y="0" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
+                                    <rect class="day" x="135" y="0" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
+                                    <rect class="day" x="150" y="0" width="11" height="11" fill="#9be9a8" rx="2" ry="2"/>
                                     <rect class="day" x="165" y="0" width="11" height="11" fill="#9be9a8" rx="2" ry="2"/>
-                                    <rect class="day" x="180" y="0" width="11" height="11" fill="#9be9a8" rx="2" ry="2"/>
+                                    <rect class="day" x="180" y="0" width="11" height="11" fill="#40c463" rx="2" ry="2"/>
                                     <rect class="day" x="195" y="0" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
                                 </g>
                             </svg>
@@ -175,17 +175,19 @@
                                     </svg>
                                     <div class="content">
                                         Commented on
-                                        <span class="issue">#1229 Improve compatiblity</span>
+                                        <span class="issue">#1229 fix: Improve compatiblity with socket</span>
                                     </div>
                                 </div>
                                 <div class="details">
                                     <div>opened by TracerDS in <span class="repo">brainboxdotcc/DPP</span></div>
                                     <div class="comment">
-                                        Agreed. If you want to change the define, it could be a type alias instead something like
-                                        <code>dpp::socket</code>
+                                        Which including a
+                                        <code>pragma disable</code>
+                                        is not.
+And unfortunately C4251 is hell to solve. We would need to ditch the standard library entirely for function parameters. woohoo :)
                                     </div>
                                 </div>
-                                <div class="timestamp">25 Aug 2024, 11:18:58</div>
+                                <div class="timestamp">25 Aug 2024, 19:52:38</div>
                             </section>
                         </div>
                         <div class="row fill-width">
@@ -196,13 +198,13 @@
                                     </svg>
                                     <div class="content">
                                         Reviewed
-                                        <span class="issue">#1229 Improve compatiblity</span>
+                                        <span class="issue">#1229 fix: Improve compatiblity with socket</span>
                                     </div>
                                 </div>
                                 <div class="details">
                                     <div>opened by TracerDS in <span class="repo">brainboxdotcc/DPP</span></div>
                                 </div>
-                                <div class="timestamp">25 Aug 2024, 11:18:59</div>
+                                <div class="timestamp">25 Aug 2024, 19:52:39</div>
                             </section>
                         </div>
                         <div class="row fill-width">
@@ -219,60 +221,11 @@
                                 <div class="details">
                                     <div>on branch <span class="code">master</span></div>
                                     <div class="commit">
-                                        <div class="sha">#15e5023</div>
-                                        <div class="message">improv: work-in-progress consolidation of NPC Owners from IControlledBrain into GameObject - MAY HAVE ISSUES</div>
+                                        <div class="sha">#5b3c089</div>
+                                        <div class="message">fix: fix bad casts in LifedrainSpellHandler</div>
                                     </div>
                                 </div>
-                                <div class="timestamp">24 Aug 2024, 17:26:28</div>
-                            </section>
-                        </div>
-                        <div class="row fill-width">
-                            <section class="activity">
-                                <div class="field">
-                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
-                                    </svg>
-                                    <div class="content">
-                                        Pushed 6 commits in
-                                        <span class="repo">Mishura4/GondwanaServer</span>
-                                    </div>
-                                </div>
-                                <div class="details">
-                                    <div>on branch <span class="code">master</span></div>
-                                    <div class="commit">
-                                        <div class="sha">#15e5023</div>
-                                        <div class="message">improv: work-in-progress consolidation of NPC Owners from IControlledBrain into GameObject - MAY HAVE ISSUES</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#2062d32</div>
-                                        <div class="message">Feat: Allow spell Messages from database to have translations + Finalizing SpellHandler translations</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#04c8dbf</div>
-                                        <div class="message">Improv: Remove "check so that AOEs from non-outlaws will not automatically select non-outlaw players + More Spellhandler related translations...</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#79790d8</div>
-                                        <div class="message">Improv: More Spellhandler related translations</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#d113da5</div>
-                                        <div class="message">Feat: Translations for SpellHandler.cs &amp; CCSpellHandler as well as some associated scripts + fix various translations</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#5607431</div>
-                                        <div class="message">Various fixes - Bump/Bounty Points item bonus/Adrenaline/SpellShield Chance/translations:
--Bounty point bonus from items are capped at 10%, better to cap it at 20%
--Fix Mob Hirule not throwing players and change Throw animation for MobHirule and Gamedragons
--Make Adrenaline buffs non-clickable as well as SpellShield
--Make bump spellhandler do only half the damages they did since the last update
--Add commit from DOL regarding instances: https://github.com/Dawn-of-Light/DOLSharp/commit/beb1d268c75aed3907e7c1f9cb9ed320bc380965
--Translations for BumpSpell and MobHirule + Title texts and translation fixes
--Fix SpellShieldChance triggering
--Now, SpellShieldChance will trigger only if non-armor parts are hit (spells) in GamePlayer,cs, and CounterAttack will be triggered only in melee when armor parts are hit.</div>
-                                    </div>
-                                </div>
-                                <div class="timestamp">24 Aug 2024, 17:26:27</div>
+                                <div class="timestamp">25 Aug 2024, 19:04:01</div>
                             </section>
                         </div>
                         <div class="row fill-width">
@@ -283,17 +236,44 @@
                                     </svg>
                                     <div class="content">
                                         Pushed 1 commit in
-                                        <span class="repo">Mishura4/shion</span>
+                                        <span class="repo">Mishura4/GondwanaServer</span>
                                     </div>
                                 </div>
                                 <div class="details">
-                                    <div>on branch <span class="code">main</span></div>
+                                    <div>on branch <span class="code">master</span></div>
                                     <div class="commit">
-                                        <div class="sha">#9068b44</div>
-                                        <div class="message">feat: add uuidv7</div>
+                                        <div class="sha">#5b3c089</div>
+                                        <div class="message">fix: fix bad casts in LifedrainSpellHandler</div>
                                     </div>
                                 </div>
-                                <div class="timestamp">23 Aug 2024, 21:08:45</div>
+                                <div class="timestamp">25 Aug 2024, 19:04:00</div>
+                            </section>
+                        </div>
+                        <div class="row fill-width">
+                            <section class="activity">
+                                <div class="field">
+                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
+                                    </svg>
+                                    <div class="content">
+                                        Pushed 2 commits in
+                                        <span class="repo">DOL-Avalonia/GondwanaServer</span>
+                                    </div>
+                                </div>
+                                <div class="details">
+                                    <div>on branch <span class="code">master</span></div>
+                                    <div class="commit">
+                                        <div class="sha">#c6b812c</div>
+                                        <div class="message">fix: merge EarthquakeSpellHandler fixes
+
+Co-authored-by: DESKTOP-JNB25O1\dell &lt;idclick.nc@gmail.com&gt;</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#e27528f</div>
+                                        <div class="message">fix: set LoadedFromScript = true for BumpNPC, CallAreaEffect spawns</div>
+                                    </div>
+                                </div>
+                                <div class="timestamp">25 Aug 2024, 17:45:51</div>
                             </section>
                         </div>
                     </section>
