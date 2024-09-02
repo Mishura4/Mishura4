@@ -1,4 +1,4 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="480" height="847" class="">
+<svg xmlns="http://www.w3.org/2000/svg" width="480" height="763" class="">
     <defs>
         <style/>
     </defs>
@@ -35,13 +35,13 @@
                                     <rect class="day" x="30" y="0" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
                                     <rect class="day" x="45" y="0" width="11" height="11" fill="#9be9a8" rx="2" ry="2"/>
                                     <rect class="day" x="60" y="0" width="11" height="11" fill="#9be9a8" rx="2" ry="2"/>
-                                    <rect class="day" x="75" y="0" width="11" height="11" fill="#30a14e" rx="2" ry="2"/>
+                                    <rect class="day" x="75" y="0" width="11" height="11" fill="#40c463" rx="2" ry="2"/>
                                     <rect class="day" x="90" y="0" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
-                                    <rect class="day" x="105" y="0" width="11" height="11" fill="#30a14e" rx="2" ry="2"/>
+                                    <rect class="day" x="105" y="0" width="11" height="11" fill="#40c463" rx="2" ry="2"/>
                                     <rect class="day" x="120" y="0" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
-                                    <rect class="day" x="135" y="0" width="11" height="11" fill="#216e39" rx="2" ry="2"/>
+                                    <rect class="day" x="135" y="0" width="11" height="11" fill="#40c463" rx="2" ry="2"/>
                                     <rect class="day" x="150" y="0" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
-                                    <rect class="day" x="165" y="0" width="11" height="11" fill="#40c463" rx="2" ry="2"/>
+                                    <rect class="day" x="165" y="0" width="11" height="11" fill="#9be9a8" rx="2" ry="2"/>
                                     <rect class="day" x="180" y="0" width="11" height="11" fill="#216e39" rx="2" ry="2"/>
                                     <rect class="day" x="195" y="0" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
                                 </g>
@@ -174,6 +174,72 @@
                                         <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
                                     </svg>
                                     <div class="content">
+                                        Pushed 4 commits in
+                                        <span class="repo">DOL-Avalonia/GondwanaServer</span>
+                                    </div>
+                                </div>
+                                <div class="details">
+                                    <div>on branch <span class="code">master</span></div>
+                                    <div class="commit">
+                                        <div class="sha">#497da7b</div>
+                                        <div class="message">fix: remove Owner from TeleportIndicator since it's in GameNPC now</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#e0a31ed</div>
+                                        <div class="message">feat: add 50% rp bonus for defending a territory against players</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#c9cdd1f</div>
+                                        <div class="message">fix: fix realm points math (server RP rates were applied twice on bonuses), add territorybonus rp parameter</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#156c5a9</div>
+                                        <div class="message">fix: fix another null dereference when taking environmental damage</div>
+                                    </div>
+                                </div>
+                                <div class="timestamp">1 Sept 2024, 23:27:52</div>
+                            </section>
+                        </div>
+                        <div class="row fill-width">
+                            <section class="activity">
+                                <div class="field">
+                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
+                                    </svg>
+                                    <div class="content">
+                                        Pushed 4 commits in
+                                        <span class="repo">Mishura4/GondwanaServer</span>
+                                    </div>
+                                </div>
+                                <div class="details">
+                                    <div>on branch <span class="code">master</span></div>
+                                    <div class="commit">
+                                        <div class="sha">#497da7b</div>
+                                        <div class="message">fix: remove Owner from TeleportIndicator since it's in GameNPC now</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#e0a31ed</div>
+                                        <div class="message">feat: add 50% rp bonus for defending a territory against players</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#c9cdd1f</div>
+                                        <div class="message">fix: fix realm points math (server RP rates were applied twice on bonuses), add territorybonus rp parameter</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#156c5a9</div>
+                                        <div class="message">fix: fix another null dereference when taking environmental damage</div>
+                                    </div>
+                                </div>
+                                <div class="timestamp">1 Sept 2024, 23:27:51</div>
+                            </section>
+                        </div>
+                        <div class="row fill-width">
+                            <section class="activity">
+                                <div class="field">
+                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
+                                    </svg>
+                                    <div class="content">
                                         Pushed 1 commit in
                                         <span class="repo">DOL-Avalonia/GondwanaServer</span>
                                     </div>
@@ -181,11 +247,11 @@
                                 <div class="details">
                                     <div>on branch <span class="code">master</span></div>
                                     <div class="commit">
-                                        <div class="sha">#f23a947</div>
-                                        <div class="message">fix: use ImmutableList instead of ReadOnlyCollection for MobGroups to avoid the list changing</div>
+                                        <div class="sha">#5dd8ad0</div>
+                                        <div class="message">fix: fix null dereference when taking environmental damage</div>
                                     </div>
                                 </div>
-                                <div class="timestamp">1 Sept 2024, 17:58:53</div>
+                                <div class="timestamp">1 Sept 2024, 22:37:16</div>
                             </section>
                         </div>
                         <div class="row fill-width">
@@ -202,60 +268,11 @@
                                 <div class="details">
                                     <div>on branch <span class="code">master</span></div>
                                     <div class="commit">
-                                        <div class="sha">#f23a947</div>
-                                        <div class="message">fix: use ImmutableList instead of ReadOnlyCollection for MobGroups to avoid the list changing</div>
+                                        <div class="sha">#5dd8ad0</div>
+                                        <div class="message">fix: fix null dereference when taking environmental damage</div>
                                     </div>
                                 </div>
-                                <div class="timestamp">1 Sept 2024, 17:58:53</div>
-                            </section>
-                        </div>
-                        <div class="row fill-width">
-                            <section class="activity">
-                                <div class="field">
-                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
-                                    </svg>
-                                    <div class="content">
-                                        Pushed 8 commits in
-                                        <span class="repo">Mishura4/GondwanaServer</span>
-                                    </div>
-                                </div>
-                                <div class="details">
-                                    <div>on branch <span class="code">master</span></div>
-                                    <div class="commit">
-                                        <div class="sha">#2962d5b</div>
-                                        <div class="message">fix: fix race conditions with MobGroups</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#55b0f0d</div>
-                                        <div class="message">feat: limit GroundAreaSpellHandler to 1 per caster, and remove if caster is removed</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#39e6e44</div>
-                                        <div class="message">fix: allow GM `/player kill` on self</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#b01526f</div>
-                                        <div class="message">improv: NPCs cannot attack NPCs with CANTTARGET flags</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#1a28e4b</div>
-                                        <div class="message">improv: remove Owner from MasterLevel custom NPCs since it's in GameLiving now</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#2ec3250</div>
-                                        <div class="message">feat: add GroundAreaSpellHandler</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#15f3520</div>
-                                        <div class="message">Improv: Fix translation methods for spellhandlers to inclute "GetPersonalizedName" + add more DBSpell transations</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#3dab52f</div>
-                                        <div class="message">Fix: Earthquake Spell pulse damages not working and DoTSpellHandler non working translations when mobs are hit</div>
-                                    </div>
-                                </div>
-                                <div class="timestamp">1 Sept 2024, 17:56:56</div>
+                                <div class="timestamp">1 Sept 2024, 22:37:16</div>
                             </section>
                         </div>
                         <div class="row fill-width">
@@ -272,48 +289,11 @@
                                 <div class="details">
                                     <div>on branch <span class="code">master</span></div>
                                     <div class="commit">
-                                        <div class="sha">#2962d5b</div>
-                                        <div class="message">fix: fix race conditions with MobGroups</div>
+                                        <div class="sha">#7121c1b</div>
+                                        <div class="message">feat: mobs in a territory give 40% of realm points a PVP kill would give, and 40% exp a PVE kill would give</div>
                                     </div>
                                 </div>
-                                <div class="timestamp">1 Sept 2024, 17:56:48</div>
-                            </section>
-                        </div>
-                        <div class="row fill-width">
-                            <section class="activity">
-                                <div class="field">
-                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
-                                    </svg>
-                                    <div class="content">
-                                        Pushed 5 commits in
-                                        <span class="repo">DOL-Avalonia/GondwanaServer</span>
-                                    </div>
-                                </div>
-                                <div class="details">
-                                    <div>on branch <span class="code">master</span></div>
-                                    <div class="commit">
-                                        <div class="sha">#55b0f0d</div>
-                                        <div class="message">feat: limit GroundAreaSpellHandler to 1 per caster, and remove if caster is removed</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#39e6e44</div>
-                                        <div class="message">fix: allow GM `/player kill` on self</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#b01526f</div>
-                                        <div class="message">improv: NPCs cannot attack NPCs with CANTTARGET flags</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#1a28e4b</div>
-                                        <div class="message">improv: remove Owner from MasterLevel custom NPCs since it's in GameLiving now</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#2ec3250</div>
-                                        <div class="message">feat: add GroundAreaSpellHandler</div>
-                                    </div>
-                                </div>
-                                <div class="timestamp">1 Sept 2024, 16:00:26</div>
+                                <div class="timestamp">1 Sept 2024, 22:08:32</div>
                             </section>
                         </div>
                     </section>
