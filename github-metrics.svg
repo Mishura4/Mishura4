@@ -1,4 +1,4 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="480" height="713" class="">
+<svg xmlns="http://www.w3.org/2000/svg" width="480" height="763" class="">
     <defs>
         <style/>
     </defs>
@@ -36,13 +36,13 @@
                                     <rect class="day" x="45" y="0" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
                                     <rect class="day" x="60" y="0" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
                                     <rect class="day" x="75" y="0" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
-                                    <rect class="day" x="90" y="0" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
-                                    <rect class="day" x="105" y="0" width="11" height="11" fill="#9be9a8" rx="2" ry="2"/>
-                                    <rect class="day" x="120" y="0" width="11" height="11" fill="#30a14e" rx="2" ry="2"/>
+                                    <rect class="day" x="90" y="0" width="11" height="11" fill="#9be9a8" rx="2" ry="2"/>
+                                    <rect class="day" x="105" y="0" width="11" height="11" fill="#30a14e" rx="2" ry="2"/>
+                                    <rect class="day" x="120" y="0" width="11" height="11" fill="#216e39" rx="2" ry="2"/>
                                     <rect class="day" x="135" y="0" width="11" height="11" fill="#216e39" rx="2" ry="2"/>
-                                    <rect class="day" x="150" y="0" width="11" height="11" fill="#216e39" rx="2" ry="2"/>
-                                    <rect class="day" x="165" y="0" width="11" height="11" fill="#40c463" rx="2" ry="2"/>
-                                    <rect class="day" x="180" y="0" width="11" height="11" fill="#30a14e" rx="2" ry="2"/>
+                                    <rect class="day" x="150" y="0" width="11" height="11" fill="#40c463" rx="2" ry="2"/>
+                                    <rect class="day" x="165" y="0" width="11" height="11" fill="#30a14e" rx="2" ry="2"/>
+                                    <rect class="day" x="180" y="0" width="11" height="11" fill="#9be9a8" rx="2" ry="2"/>
                                     <rect class="day" x="195" y="0" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
                                 </g>
                             </svg>
@@ -174,48 +174,6 @@
                                         <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
                                     </svg>
                                     <div class="content">
-                                        Pushed 1 commit in
-                                        <span class="repo">DOL-Avalonia/GondwanaServer</span>
-                                    </div>
-                                </div>
-                                <div class="details">
-                                    <div>on branch <span class="code">master</span></div>
-                                    <div class="commit">
-                                        <div class="sha">#1e064ce</div>
-                                        <div class="message">misc: cap debuff duration reduction attributes to 25% from items</div>
-                                    </div>
-                                </div>
-                                <div class="timestamp">12 Oct 2024, 12:08:05</div>
-                            </section>
-                        </div>
-                        <div class="row fill-width">
-                            <section class="activity">
-                                <div class="field">
-                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
-                                    </svg>
-                                    <div class="content">
-                                        Pushed 1 commit in
-                                        <span class="repo">Mishura4/GondwanaServer</span>
-                                    </div>
-                                </div>
-                                <div class="details">
-                                    <div>on branch <span class="code">master</span></div>
-                                    <div class="commit">
-                                        <div class="sha">#1e064ce</div>
-                                        <div class="message">misc: cap debuff duration reduction attributes to 25% from items</div>
-                                    </div>
-                                </div>
-                                <div class="timestamp">12 Oct 2024, 12:08:04</div>
-                            </section>
-                        </div>
-                        <div class="row fill-width">
-                            <section class="activity">
-                                <div class="field">
-                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
-                                    </svg>
-                                    <div class="content">
                                         Pushed 2 commits in
                                         <span class="repo">DOL-Avalonia/GondwanaServer</span>
                                     </div>
@@ -223,15 +181,15 @@
                                 <div class="details">
                                     <div>on branch <span class="code">master</span></div>
                                     <div class="commit">
-                                        <div class="sha">#222fed7</div>
-                                        <div class="message">fix: add NegativeReductionCalculator.cs</div>
+                                        <div class="sha">#bf48e5f</div>
+                                        <div class="message">feat: implement DefensiveBonus</div>
                                     </div>
                                     <div class="commit">
-                                        <div class="sha">#4f840a7</div>
-                                        <div class="message">feat: Add per-living named shuffle bags</div>
+                                        <div class="sha">#48011ac</div>
+                                        <div class="message">fix: fix ToHitBonus not being counted from items</div>
                                     </div>
                                 </div>
-                                <div class="timestamp">11 Oct 2024, 20:29:41</div>
+                                <div class="timestamp">13 Oct 2024, 19:27:09</div>
                             </section>
                         </div>
                         <div class="row fill-width">
@@ -248,15 +206,15 @@
                                 <div class="details">
                                     <div>on branch <span class="code">master</span></div>
                                     <div class="commit">
-                                        <div class="sha">#222fed7</div>
-                                        <div class="message">fix: add NegativeReductionCalculator.cs</div>
+                                        <div class="sha">#bf48e5f</div>
+                                        <div class="message">feat: implement DefensiveBonus</div>
                                     </div>
                                     <div class="commit">
-                                        <div class="sha">#4f840a7</div>
-                                        <div class="message">feat: Add per-living named shuffle bags</div>
+                                        <div class="sha">#48011ac</div>
+                                        <div class="message">fix: fix ToHitBonus not being counted from items</div>
                                     </div>
                                 </div>
-                                <div class="timestamp">11 Oct 2024, 20:29:40</div>
+                                <div class="timestamp">13 Oct 2024, 19:27:08</div>
                             </section>
                         </div>
                         <div class="row fill-width">
@@ -266,22 +224,76 @@
                                         <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
                                     </svg>
                                     <div class="content">
-                                        Pushed 2 commits in
+                                        Pushed 5 commits in
+                                        <span class="repo">Mishura4/GondwanaServer</span>
+                                    </div>
+                                </div>
+                                <div class="details">
+                                    <div>on branch <span class="code">master</span></div>
+                                    <div class="commit">
+                                        <div class="sha">#2d4447d</div>
+                                        <div class="message">feat: implement BladeturnReinforcement</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#4298372</div>
+                                        <div class="message">Feat: Add CriticalMelee and CriticalMagical Buffs + increase CriticalMelee and CriticalSpell properties Cap from 50% to 75%</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#f7e649e</div>
+                                        <div class="message">Improv: Implement Debuff Effectiveness bonus effect into HealDebuff effect for all healing spells + fix missing healing spells where HealDebuff effects were not implemented</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#7ea3f2f</div>
+                                        <div class="message">Improv: Add DebuffImmunity into HealDebuff + some fixe related to HealBebuff usage when damned</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#be73473</div>
+                                        <div class="message">Feat: Add Heal Debuff spellhandler and change all related heal spells to combine heal effectiveness reduction effects from HealDebuff and Disease spells</div>
+                                    </div>
+                                </div>
+                                <div class="timestamp">13 Oct 2024, 19:14:01</div>
+                            </section>
+                        </div>
+                        <div class="row fill-width">
+                            <section class="activity">
+                                <div class="field">
+                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
+                                    </svg>
+                                    <div class="content">
+                                        Pushed 1 commit in
                                         <span class="repo">DOL-Avalonia/GondwanaServer</span>
                                     </div>
                                 </div>
                                 <div class="details">
                                     <div>on branch <span class="code">master</span></div>
                                     <div class="commit">
-                                        <div class="sha">#0c9629f</div>
-                                        <div class="message">fix: `/player purge all` also removes immunity effects</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#8f2924b</div>
-                                        <div class="message">feat: add `/player purge all` to also remove positive effects</div>
+                                        <div class="sha">#2d4447d</div>
+                                        <div class="message">feat: implement BladeturnReinforcement</div>
                                     </div>
                                 </div>
-                                <div class="timestamp">11 Oct 2024, 15:23:57</div>
+                                <div class="timestamp">13 Oct 2024, 19:13:48</div>
+                            </section>
+                        </div>
+                        <div class="row fill-width">
+                            <section class="activity">
+                                <div class="field">
+                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
+                                    </svg>
+                                    <div class="content">
+                                        Pushed 1 commit in
+                                        <span class="repo">Mishura4/GondwanaServer</span>
+                                    </div>
+                                </div>
+                                <div class="details">
+                                    <div>on branch <span class="code">master</span></div>
+                                    <div class="commit">
+                                        <div class="sha">#741ac13</div>
+                                        <div class="message">feat: implement BladeturnReinforcement</div>
+                                    </div>
+                                </div>
+                                <div class="timestamp">13 Oct 2024, 19:12:23</div>
                             </section>
                         </div>
                     </section>
