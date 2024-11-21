@@ -1,8 +1,8 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="480" height="1313" class="">
+<svg xmlns="http://www.w3.org/2000/svg" width="480" height="563" class="">
     <defs>
         <style/>
     </defs>
-    <style>@keyframes animation-gauge{0%{stroke-dasharray:0 329}}@keyframes animation-rainbow{0%,to{color:#7f00ff;fill:#7f00ff}14%{color:#a933ff;fill:#a933ff}29%{color:#007fff;fill:#007fff}43%{color:#00ff7f;fill:#00ff7f}57%{color:#ff0;fill:#ff0}71%{color:#ff7f00;fill:#ff7f00}86%{color:red;fill:red}}svg{font-family:-apple-system,BlinkMacSystemFont,Segoe UI,Helvetica,Arial,sans-serif,Apple Color Emoji,Segoe UI Emoji;font-size:14px;color:#777}h1,h2,h3{margin:8px 0 2px;padding:0;color:#0366d6}h1{font-size:20px;font-weight:700}h2,h3{font-weight:400}h1 svg,h2 svg,h3 svg{fill:currentColor}h2{font-size:16px}h3{font-size:14px}section&gt;.field{margin-left:5px;margin-right:5px}.field{display:flex;align-items:center;margin-bottom:2px;white-space:nowrap}.field svg{margin:0 8px;fill:#959da5;flex-shrink:0}.row{display:flex;flex-wrap:wrap}.row section{flex:1 1 0}.column{display:flex;flex-direction:column;align-items:center}.no-wrap{white-space:nowrap}#metrics-end,.fill-width{width:100%}.no-margin-top{margin-top:0}.avatar{border-radius:50%;margin:0 6px}.calendar.field{margin:4px 0 4px 7px}.calendar .day{outline:1px solid rgba(27,31,35,.04);outline-offset:-1px}svg.bar{margin:4px 0}.followup.legend{font-size:12px;flex-wrap:wrap}.followup.legend .field{width:46%;justify-content:flex-start;margin-left:8px}.followup.legend svg{margin:0 3px;width:14px;height:14px}.followup.legend svg:first-child{margin-left:0}.followup.legend svg:last-child{margin-right:0}.followup-title{white-space:initial}.activity{margin-bottom:12px}.activity .field{width:100%;overflow:hidden;text-overflow:ellipsis;max-width:450px;white-space:nowrap;margin-bottom:0}.activity .field .content{flex-grow:1;text-overflow:ellipsis;overflow:hidden}.activity .commit .sha,.activity .repo{display:inline;color:#58a6ff}.activity .code,span.code{background-color:#7777771f;padding:1px 5px;font-size:80%;border-radius:6px;color:#777;font-family:SFMono-Regular,Consolas,Liberation Mono,Menlo,monospace;margin:0 4px -3px}.activity .details,.activity .timestamp{padding-left:38px;display:flex;flex-direction:column;font-size:13px;color:#666}.activity .timestamp{font-size:10px;margin-top:4px}.activity .commit{display:flex;align-items:center}.activity .commit .sha,code{font-family:SFMono-Regular,Consolas,Liberation Mono,Menlo,monospace}.activity .commit .sha{margin-right:4px}.activity .commit .message{overflow:hidden;text-overflow:ellipsis;width:360px;white-space:nowrap}svg.calendar{margin-left:13px;margin-top:4px}svg.calendar text{font-size:18px;fill:currentColor}code{background-color:#7777771f;display:inline-block;border-radius:6px;color:#777;padding:1px 5px;font-size:80%}:root{--color-calendar-graph-day-bg:#ebedf0;--color-calendar-graph-day-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L1-bg:#9be9a8;--color-calendar-graph-day-L2-bg:#40c463;--color-calendar-graph-day-L3-bg:#30a14e;--color-calendar-graph-day-L4-bg:#216e39;--color-calendar-halloween-graph-day-L1-bg:#ffee4a;--color-calendar-halloween-graph-day-L2-bg:#ffc501;--color-calendar-halloween-graph-day-L3-bg:#fe9600;--color-calendar-halloween-graph-day-L4-bg:#03001c;--color-calendar-winter-graph-day-L1-bg:#0a3069;--color-calendar-winter-graph-day-L2-bg:#0969da;--color-calendar-winter-graph-day-L3-bg:#54aeff;--color-calendar-winter-graph-day-L4-bg:#b6e3ff;--color-calendar-graph-day-L4-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L3-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L2-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L1-border:rgba(27,31,35,0.06)}</style>
+    <style>@keyframes animation-gauge{0%{stroke-dasharray:0 329}}@keyframes animation-rainbow{0%,to{color:#7f00ff;fill:#7f00ff}14%{color:#a933ff;fill:#a933ff}29%{color:#007fff;fill:#007fff}43%{color:#00ff7f;fill:#00ff7f}57%{color:#ff0;fill:#ff0}71%{color:#ff7f00;fill:#ff7f00}86%{color:red;fill:red}}svg{font-family:-apple-system,BlinkMacSystemFont,Segoe UI,Helvetica,Arial,sans-serif,Apple Color Emoji,Segoe UI Emoji;font-size:14px;color:#777}h1,h2,h3{margin:8px 0 2px;padding:0;color:#0366d6}h1{font-size:20px;font-weight:700}h2,h3{font-weight:400}h1 svg,h2 svg,h3 svg{fill:currentColor}h2{font-size:16px}h3{font-size:14px}section&gt;.field{margin-left:5px;margin-right:5px}.field{display:flex;align-items:center;margin-bottom:2px;white-space:nowrap}.field svg{margin:0 8px;fill:#959da5;flex-shrink:0}.row{display:flex;flex-wrap:wrap}.row section{flex:1 1 0}.column{display:flex;flex-direction:column;align-items:center}.no-wrap{white-space:nowrap}#metrics-end,.fill-width{width:100%}.no-margin-top{margin-top:0}.avatar{border-radius:50%;margin:0 6px}.calendar.field{margin:4px 0 4px 7px}.calendar .day{outline:1px solid rgba(27,31,35,.04);outline-offset:-1px}svg.bar{margin:4px 0}.followup.legend{font-size:12px;flex-wrap:wrap}.followup.legend .field{width:46%;justify-content:flex-start;margin-left:8px}.followup.legend svg{margin:0 3px;width:14px;height:14px}.followup.legend svg:first-child{margin-left:0}.followup.legend svg:last-child{margin-right:0}.followup-title{white-space:initial}.activity{margin-bottom:12px}.activity .field{width:100%;overflow:hidden;text-overflow:ellipsis;max-width:450px;white-space:nowrap;margin-bottom:0}.activity .field .content{flex-grow:1;text-overflow:ellipsis;overflow:hidden}.activity .commit .sha,.activity .repo{display:inline;color:#58a6ff}.activity .code,span.code{background-color:#7777771f;padding:1px 5px;font-size:80%;border-radius:6px;color:#777;font-family:SFMono-Regular,Consolas,Liberation Mono,Menlo,monospace;margin:0 4px -3px}.activity .details,.activity .timestamp{padding-left:38px;display:flex;flex-direction:column;font-size:13px;color:#666}.activity .timestamp{font-size:10px;margin-top:4px}.activity .commit{display:flex;align-items:center}.activity .commit .sha,code{font-family:SFMono-Regular,Consolas,Liberation Mono,Menlo,monospace}.activity .commit .sha{margin-right:4px}.activity .commit .message{overflow:hidden;text-overflow:ellipsis;width:360px;white-space:nowrap}svg.calendar{margin-left:13px;margin-top:4px}code{background-color:#7777771f;display:inline-block;border-radius:6px;color:#777;padding:1px 5px;font-size:80%}:root{--color-calendar-graph-day-bg:#ebedf0;--color-calendar-graph-day-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L1-bg:#9be9a8;--color-calendar-graph-day-L2-bg:#40c463;--color-calendar-graph-day-L3-bg:#30a14e;--color-calendar-graph-day-L4-bg:#216e39;--color-calendar-halloween-graph-day-L1-bg:#ffee4a;--color-calendar-halloween-graph-day-L2-bg:#ffc501;--color-calendar-halloween-graph-day-L3-bg:#fe9600;--color-calendar-halloween-graph-day-L4-bg:#03001c;--color-calendar-winter-graph-day-L1-bg:#0a3069;--color-calendar-winter-graph-day-L2-bg:#0969da;--color-calendar-winter-graph-day-L3-bg:#54aeff;--color-calendar-winter-graph-day-L4-bg:#b6e3ff;--color-calendar-graph-day-L4-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L3-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L2-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L1-border:rgba(27,31,35,0.06)}</style>
     <style/>
     <foreignObject x="0" y="0" width="100%" height="100%">
         <div xmlns="http://www.w3.org/1999/xhtml" xmlns:xlink="http://www.w3.org/1999/xlink" class="items-wrapper">
@@ -171,6 +171,57 @@
                             <section class="activity">
                                 <div class="field">
                                     <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+                                        <path fill-rule="evenodd" d="M11.75 2.5a.75.75 0 100 1.5.75.75 0 000-1.5zm-2.25.75a2.25 2.25 0 113 2.122V6A2.5 2.5 0 0110 8.5H6a1 1 0 00-1 1v1.128a2.251 2.251 0 11-1.5 0V5.372a2.25 2.25 0 111.5 0v1.836A2.492 2.492 0 016 7h4a1 1 0 001-1v-.628A2.25 2.25 0 019.5 3.25zM4.25 12a.75.75 0 100 1.5.75.75 0 000-1.5zM3.5 3.25a.75.75 0 111.5 0 .75.75 0 01-1.5 0z"/>
+                                    </svg>
+                                    <div class="content">
+                                        Deleted
+                      branch
+                                        <span class="code">grid</span>
+                                        in
+                                        <span class="repo">Myth-Games/MythServerSource</span>
+                                    </div>
+                                </div>
+                                <div class="timestamp">20 Nov 2024, 07:47:20</div>
+                            </section>
+                        </div>
+                        <div class="row fill-width">
+                            <section class="activity">
+                                <div class="field">
+                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+                                        <path fill-rule="evenodd" d="M11.75 2.5a.75.75 0 100 1.5.75.75 0 000-1.5zm-2.25.75a2.25 2.25 0 113 2.122V6A2.5 2.5 0 0110 8.5H6a1 1 0 00-1 1v1.128a2.251 2.251 0 11-1.5 0V5.372a2.25 2.25 0 111.5 0v1.836A2.492 2.492 0 016 7h4a1 1 0 001-1v-.628A2.25 2.25 0 019.5 3.25zM4.25 12a.75.75 0 100 1.5.75.75 0 000-1.5zM3.5 3.25a.75.75 0 111.5 0 .75.75 0 01-1.5 0z"/>
+                                    </svg>
+                                    <div class="content">
+                                        Deleted
+                      branch
+                                        <span class="code">ci</span>
+                                        in
+                                        <span class="repo">Myth-Games/MythServerSource</span>
+                                    </div>
+                                </div>
+                                <div class="timestamp">20 Nov 2024, 07:47:07</div>
+                            </section>
+                        </div>
+                        <div class="row fill-width">
+                            <section class="activity">
+                                <div class="field">
+                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+                                        <path fill-rule="evenodd" d="M11.75 2.5a.75.75 0 100 1.5.75.75 0 000-1.5zm-2.25.75a2.25 2.25 0 113 2.122V6A2.5 2.5 0 0110 8.5H6a1 1 0 00-1 1v1.128a2.251 2.251 0 11-1.5 0V5.372a2.25 2.25 0 111.5 0v1.836A2.492 2.492 0 016 7h4a1 1 0 001-1v-.628A2.25 2.25 0 019.5 3.25zM4.25 12a.75.75 0 100 1.5.75.75 0 000-1.5zM3.5 3.25a.75.75 0 111.5 0 .75.75 0 01-1.5 0z"/>
+                                    </svg>
+                                    <div class="content">
+                                        Deleted
+                      branch
+                                        <span class="code">combat</span>
+                                        in
+                                        <span class="repo">Myth-Games/MythServerSource</span>
+                                    </div>
+                                </div>
+                                <div class="timestamp">20 Nov 2024, 07:46:48</div>
+                            </section>
+                        </div>
+                        <div class="row fill-width">
+                            <section class="activity">
+                                <div class="field">
+                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                         <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
                                     </svg>
                                     <div class="content">
@@ -207,259 +258,6 @@
                                     </div>
                                 </div>
                                 <div class="timestamp">19 Nov 2024, 13:03:45</div>
-                            </section>
-                        </div>
-                        <div class="row fill-width">
-                            <section class="activity">
-                                <div class="field">
-                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
-                                    </svg>
-                                    <div class="content">
-                                        Pushed 51 commits in
-                                        <span class="repo">Myth-Games/MythServerSource</span>
-                                    </div>
-                                </div>
-                                <div class="details">
-                                    <div>on branch <span class="code">movement</span></div>
-                                    <div class="commit">
-                                        <div class="sha">#3e01894</div>
-                                        <div class="message">Restore now required dependency.</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#36aca92</div>
-                                        <div class="message">Remove container from CMakeLists</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#acf1a80</div>
-                                        <div class="message">Merge branch 'dev' into fix-clear-legacy</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#2ad5afd</div>
-                                        <div class="message">Fix MSG_Action opcode</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#6dd41fd</div>
-                                        <div class="message">Fix missing Boost requirement.</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#fc85b3f</div>
-                                        <div class="message">Fixup after merging "dev".</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#4c1acbd</div>
-                                        <div class="message">Merge branch 'dev' into fix-clear-legacy</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#4ef89cd</div>
-                                        <div class="message">Notify about interaction start.</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#0953716</div>
-                                        <div class="message">Merge branch 'dev' into skills-and-tasks</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#81feff8</div>
-                                        <div class="message">Merge branch 'dev' into skills-and-tasks</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#2d15371</div>
-                                        <div class="message">WIP Added Lumbering task.</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#8db8e4c</div>
-                                        <div class="message">Update st_Item vars name</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#9193a5d</div>
-                                        <div class="message">Remove old st_Item var references</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#7424c33</div>
-                                        <div class="message">Merge branch 'dev' into fix-clear-legacy</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#8c5de18</div>
-                                        <div class="message">Merge branch 'dev' into fix-clear-legacy
-
-# Conflicts:
-#	Projects/Gameserver/CPlayer.cpp
-#	Projects/Gameserver/CPlayer.h
-#	Projects/Gameserver/CUser.cpp
-#	Projects/Gameserver/CUser.h
-#	Projects/Gameserver/GameServer.vcxproj
-#	Projects/Gameserver/GameServer.vcxproj.filters
-#	Projects/Gameserver/Packets/PacketTable.h
-#	Projects/MythLibrary</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#decd9a5</div>
-                                        <div class="message">Merge branch 'dev' into fix-clear-legacy
-
-# Conflicts:
-#	Projects/Gameserver/Basedef.cpp
-#	Projects/Gameserver/CMobBase.cpp
-#	Projects/Gameserver/CNpc.cpp
-#	Projects/Gameserver/CPlayer.cpp
-#	Projects/Gameserver/CUser.cpp
-#	Projects/Gameserver/GameServer.vcxproj.filters
-#	Projects/Gameserver/GetFunc.cpp
-#	Projects/Gameserver/Packets/PacketTable.h
-#	Projects/Gameserver/RequestActivateItem.cpp
-#	Projects/Gameserver/RequestAdminCommand.cpp
-#	Projects/Gameserver/RequestCharacterDelete.cpp
-#	Projects/Gameserver/RequestCharacterLogin.cpp
-#	Projects/Gameserver/RequestPremiumStore.cpp
-#	Projects/Gameserver/RequestTeleport.cpp
-#	Projects/Gameserver/ScheduleMng.cpp
-#	Projects/Gameserver/Skills/SkillTree.cpp
-#	Projects/Gameserver/UserTimer.cpp
-#	Projects/ServerLibrary/ServerLibrary.vcxproj.filters</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#e1e559e</div>
-                                        <div class="message">Dep: Update MythLibrary</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#8439d15</div>
-                                        <div class="message">Dep: Fix MythLibrary</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#9ce183d</div>
-                                        <div class="message">Dep: Restore MythLibrary</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#93e3e14</div>
-                                        <div class="message">Clear legacy code &amp; rename opcodes</div>
-                                    </div>
-                                </div>
-                                <div class="timestamp">19 Nov 2024, 11:28:02</div>
-                            </section>
-                        </div>
-                        <div class="row fill-width">
-                            <section class="activity">
-                                <div class="field">
-                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
-                                    </svg>
-                                    <div class="content">
-                                        Pushed 26 commits in
-                                        <span class="repo">Myth-Games/MythSharedLibrary</span>
-                                    </div>
-                                </div>
-                                <div class="details">
-                                    <div>on branch <span class="code">movement</span></div>
-                                    <div class="commit">
-                                        <div class="sha">#785d0a7</div>
-                                        <div class="message">Add fishing animation</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#f2d2566</div>
-                                        <div class="message">Merge branch 'main' into fix-clear-legacy</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#5ddc7ff</div>
-                                        <div class="message">Fix release build</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#9afb201</div>
-                                        <div class="message">Move MYTH_ASSERT to Functions.h, add overwritable assert handler function</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#fda6892</div>
-                                        <div class="message">Fix include for narrow_cast in Vector2/Vector3</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#abc466e</div>
-                                        <div class="message">Merge branch 'main' into fix-clear-legacy</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#1339803</div>
-                                        <div class="message">Fix g++ build</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#8cf7df4</div>
-                                        <div class="message">Merge branch 'main' into fix-clear-legacy</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#9f7bb23</div>
-                                        <div class="message">Remove redundant definitions.</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#76394d7</div>
-                                        <div class="message">Merge branch 'main' into fix-clear-legacy</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#6a6e3fa</div>
-                                        <div class="message">Fix json converter</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#6acfe52</div>
-                                        <div class="message">Merge branch 'main' into fix-clear-legacy</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#e1c720c</div>
-                                        <div class="message">Add new st_Item</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#df72c71</div>
-                                        <div class="message">Re-add UserState::Loading</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#8f52b8a</div>
-                                        <div class="message">Merge branch 'main' into fix-clear-legacy</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#da86d3a</div>
-                                        <div class="message">Add formatter for UserStatus</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#961870c</div>
-                                        <div class="message">Merge branch 'fix-build' into fix-clear-legacy</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#18fc233</div>
-                                        <div class="message">Dep: Fix server build</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#811ba96</div>
-                                        <div class="message">Merge branch 'main' into fix-clear-legacy
-
-# Conflicts:
-#	MythLibrary.vcxproj
-#	src/Structs/PacketStructs.h</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#dce1480</div>
-                                        <div class="message">Clear legacy code &amp; change opcode to enum</div>
-                                    </div>
-                                </div>
-                                <div class="timestamp">19 Nov 2024, 11:24:11</div>
-                            </section>
-                        </div>
-                        <div class="row fill-width">
-                            <section class="activity">
-                                <div class="field">
-                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
-                                    </svg>
-                                    <div class="content">
-                                        Pushed 2 commits in
-                                        <span class="repo">DOL-Avalonia/GondwanaServer</span>
-                                    </div>
-                                </div>
-                                <div class="details">
-                                    <div>on branch <span class="code">master</span></div>
-                                    <div class="commit">
-                                        <div class="sha">#cc1ba5e</div>
-                                        <div class="message">improv: clean up item bonus condition text</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#f8957a9</div>
-                                        <div class="message">fix: fix bad cast in GameInventoryItem.GetBonusTypeFromBonusName for proc spells</div>
-                                    </div>
-                                </div>
-                                <div class="timestamp">16 Nov 2024, 16:45:41</div>
                             </section>
                         </div>
                     </section>
