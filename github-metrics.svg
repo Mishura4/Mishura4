@@ -1,4 +1,4 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="480" height="680" class="">
+<svg xmlns="http://www.w3.org/2000/svg" width="480" height="730" class="">
     <defs>
         <style/>
     </defs>
@@ -35,13 +35,13 @@
                                     <rect class="day" x="30" y="0" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
                                     <rect class="day" x="45" y="0" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
                                     <rect class="day" x="60" y="0" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
-                                    <rect class="day" x="75" y="0" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
-                                    <rect class="day" x="90" y="0" width="11" height="11" fill="#216e39" rx="2" ry="2"/>
+                                    <rect class="day" x="75" y="0" width="11" height="11" fill="#216e39" rx="2" ry="2"/>
+                                    <rect class="day" x="90" y="0" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
                                     <rect class="day" x="105" y="0" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
                                     <rect class="day" x="120" y="0" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
                                     <rect class="day" x="135" y="0" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
                                     <rect class="day" x="150" y="0" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
-                                    <rect class="day" x="165" y="0" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
+                                    <rect class="day" x="165" y="0" width="11" height="11" fill="#40c463" rx="2" ry="2"/>
                                     <rect class="day" x="180" y="0" width="11" height="11" fill="#40c463" rx="2" ry="2"/>
                                     <rect class="day" x="195" y="0" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
                                 </g>
@@ -181,11 +181,11 @@
                                 <div class="details">
                                     <div>on branch <span class="code">master</span></div>
                                     <div class="commit">
-                                        <div class="sha">#0691121</div>
-                                        <div class="message">feat: implement illusion spell randomization of positions, &amp; teleport of the player. this is very easy to exploit...</div>
+                                        <div class="sha">#ac185b4</div>
+                                        <div class="message">fix: fix IllusionSpell offsets, again</div>
                                     </div>
                                 </div>
-                                <div class="timestamp">30 Nov 2024, 19:11:37</div>
+                                <div class="timestamp">1 Dec 2024, 18:06:44</div>
                             </section>
                         </div>
                         <div class="row fill-width">
@@ -202,11 +202,69 @@
                                 <div class="details">
                                     <div>on branch <span class="code">master</span></div>
                                     <div class="commit">
-                                        <div class="sha">#0691121</div>
-                                        <div class="message">feat: implement illusion spell randomization of positions, &amp; teleport of the player. this is very easy to exploit...</div>
+                                        <div class="sha">#ac185b4</div>
+                                        <div class="message">fix: fix IllusionSpell offsets, again</div>
                                     </div>
                                 </div>
-                                <div class="timestamp">30 Nov 2024, 19:11:36</div>
+                                <div class="timestamp">1 Dec 2024, 18:06:43</div>
+                            </section>
+                        </div>
+                        <div class="row fill-width">
+                            <section class="activity">
+                                <div class="field">
+                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
+                                    </svg>
+                                    <div class="content">
+                                        Pushed 3 commits in
+                                        <span class="repo">DOL-Avalonia/GondwanaServer</span>
+                                    </div>
+                                </div>
+                                <div class="details">
+                                    <div>on branch <span class="code">master</span></div>
+                                    <div class="commit">
+                                        <div class="sha">#45e3b3d</div>
+                                        <div class="message">fix: fix bad offsets in IllusionSpell spawns</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#0403470</div>
+                                        <div class="message">fix: fix IllusionSpell duration</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#f43ef0a</div>
+                                        <div class="message">misc: use DamageType for IllusionSpell spawn mode</div>
+                                    </div>
+                                </div>
+                                <div class="timestamp">1 Dec 2024, 17:18:44</div>
+                            </section>
+                        </div>
+                        <div class="row fill-width">
+                            <section class="activity">
+                                <div class="field">
+                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
+                                    </svg>
+                                    <div class="content">
+                                        Pushed 3 commits in
+                                        <span class="repo">Mishura4/GondwanaServer</span>
+                                    </div>
+                                </div>
+                                <div class="details">
+                                    <div>on branch <span class="code">master</span></div>
+                                    <div class="commit">
+                                        <div class="sha">#45e3b3d</div>
+                                        <div class="message">fix: fix bad offsets in IllusionSpell spawns</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#0403470</div>
+                                        <div class="message">fix: fix IllusionSpell duration</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#f43ef0a</div>
+                                        <div class="message">misc: use DamageType for IllusionSpell spawn mode</div>
+                                    </div>
+                                </div>
+                                <div class="timestamp">1 Dec 2024, 17:18:44</div>
                             </section>
                         </div>
                         <div class="row fill-width">
@@ -223,60 +281,11 @@
                                 <div class="details">
                                     <div>on branch <span class="code">master</span></div>
                                     <div class="commit">
-                                        <div class="sha">#8c29b90</div>
-                                        <div class="message">fix: don't stop the spell pipeline on success, oops!</div>
+                                        <div class="sha">#0691121</div>
+                                        <div class="message">feat: implement illusion spell randomization of positions, &amp; teleport of the player. this is very easy to exploit...</div>
                                     </div>
                                 </div>
-                                <div class="timestamp">30 Nov 2024, 16:22:19</div>
-                            </section>
-                        </div>
-                        <div class="row fill-width">
-                            <section class="activity">
-                                <div class="field">
-                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
-                                    </svg>
-                                    <div class="content">
-                                        Pushed 1 commit in
-                                        <span class="repo">Mishura4/GondwanaServer</span>
-                                    </div>
-                                </div>
-                                <div class="details">
-                                    <div>on branch <span class="code">master</span></div>
-                                    <div class="commit">
-                                        <div class="sha">#8c29b90</div>
-                                        <div class="message">fix: don't stop the spell pipeline on success, oops!</div>
-                                    </div>
-                                </div>
-                                <div class="timestamp">30 Nov 2024, 16:22:18</div>
-                            </section>
-                        </div>
-                        <div class="row fill-width">
-                            <section class="activity">
-                                <div class="field">
-                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
-                                    </svg>
-                                    <div class="content">
-                                        Pushed 2 commits in
-                                        <span class="repo">Mishura4/GondwanaServer</span>
-                                    </div>
-                                </div>
-                                <div class="details">
-                                    <div>on branch <span class="code">master</span></div>
-                                    <div class="commit">
-                                        <div class="sha">#d7b4baa</div>
-                                        <div class="message">fix: fix pulse spells (revert e4e688fc7bc8f6838f4134e84d7f1c16978ac64f &amp; find another solution for /cast)</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#be15a22</div>
-                                        <div class="message">Improv: Texts for MagicHealAbsorb, DebuffImmunity, PowerShield spells + Warlock spells translations + Basic WraithSummoner trainers implementation
-+ fixes for AreaGameEvents
-+ fixes for Bonus condition translation in GameInventoryItem
-+ fixes for Geometry in Assassinate &amp; Shadowstrike RR5 abilities</div>
-                                    </div>
-                                </div>
-                                <div class="timestamp">30 Nov 2024, 15:46:43</div>
+                                <div class="timestamp">30 Nov 2024, 19:11:37</div>
                             </section>
                         </div>
                     </section>
