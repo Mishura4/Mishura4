@@ -1,4 +1,4 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="480" height="663" class="">
+<svg xmlns="http://www.w3.org/2000/svg" width="480" height="697" class="">
     <defs>
         <style/>
     </defs>
@@ -174,43 +174,68 @@
                                         <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
                                     </svg>
                                     <div class="content">
+                                        Pushed 1 commit in
+                                        <span class="repo">Myth-Games/MythServerSource</span>
+                                    </div>
+                                </div>
+                                <div class="details">
+                                    <div>on branch <span class="code">experimental</span></div>
+                                    <div class="commit">
+                                        <div class="sha">#b1f5c5f</div>
+                                        <div class="message">CI: Fix github secrets on release CI</div>
+                                    </div>
+                                </div>
+                                <div class="timestamp">5 Dec 2024, 16:58:25</div>
+                            </section>
+                        </div>
+                        <div class="row fill-width">
+                            <section class="activity">
+                                <div class="field">
+                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
+                                    </svg>
+                                    <div class="content">
+                                        Pushed 1 commit in
+                                        <span class="repo">Myth-Games/MythServerSource</span>
+                                    </div>
+                                </div>
+                                <div class="details">
+                                    <div>on branch <span class="code">dev</span></div>
+                                    <div class="commit">
+                                        <div class="sha">#b1f5c5f</div>
+                                        <div class="message">CI: Fix github secrets on release CI</div>
+                                    </div>
+                                </div>
+                                <div class="timestamp">5 Dec 2024, 16:56:51</div>
+                            </section>
+                        </div>
+                        <div class="row fill-width">
+                            <section class="activity">
+                                <div class="field">
+                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
+                                    </svg>
+                                    <div class="content">
                                         Pushed 3 commits in
                                         <span class="repo">Myth-Games/MythServerSource</span>
                                     </div>
                                 </div>
                                 <div class="details">
-                                    <div>on branch <span class="code">visibility</span></div>
+                                    <div>on branch <span class="code">experimental</span></div>
                                     <div class="commit">
-                                        <div class="sha">#982a5b4</div>
-                                        <div class="message">Debug: Set network threads to 1 to workaround retry loop.</div>
+                                        <div class="sha">#1915721</div>
+                                        <div class="message">CI: Fix release-ci dependency</div>
                                     </div>
                                     <div class="commit">
-                                        <div class="sha">#f610001</div>
-                                        <div class="message">Build: Remove .rc from clang-cl build</div>
+                                        <div class="sha">#fe5a82d</div>
+                                        <div class="message">CI: That, but in the right place</div>
                                     </div>
                                     <div class="commit">
-                                        <div class="sha">#d2e5cb3</div>
-                                        <div class="message">Game/Network: Add logs for signals &amp; slots connections</div>
+                                        <div class="sha">#24e0ce9</div>
+                                        <div class="message">CI: Make it possible to manually run the release action</div>
                                     </div>
                                 </div>
-                                <div class="timestamp">5 Dec 2024, 12:58:12</div>
-                            </section>
-                        </div>
-                        <div class="row fill-width">
-                            <section class="activity">
-                                <div class="field">
-                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                        <path fill-rule="evenodd" d="M11.75 2.5a.75.75 0 100 1.5.75.75 0 000-1.5zm-2.25.75a2.25 2.25 0 113 2.122V6A2.5 2.5 0 0110 8.5H6a1 1 0 00-1 1v1.128a2.251 2.251 0 11-1.5 0V5.372a2.25 2.25 0 111.5 0v1.836A2.492 2.492 0 016 7h4a1 1 0 001-1v-.628A2.25 2.25 0 019.5 3.25zM4.25 12a.75.75 0 100 1.5.75.75 0 000-1.5zM3.5 3.25a.75.75 0 111.5 0 .75.75 0 01-1.5 0z"/>
-                                    </svg>
-                                    <div class="content">
-                                        Deleted
-                      branch
-                                        <span class="code">housekeeping</span>
-                                        in
-                                        <span class="repo">Myth-Games/MythServerSource</span>
-                                    </div>
-                                </div>
-                                <div class="timestamp">5 Dec 2024, 10:36:03</div>
+                                <div class="timestamp">5 Dec 2024, 16:55:16</div>
                             </section>
                         </div>
                         <div class="row fill-width">
@@ -225,13 +250,13 @@
                                     </div>
                                 </div>
                                 <div class="details">
-                                    <div>on branch <span class="code">visibility</span></div>
+                                    <div>on branch <span class="code">dev</span></div>
                                     <div class="commit">
-                                        <div class="sha">#2625fca</div>
-                                        <div class="message">Game/Movement: Reasons why I hate boost...</div>
+                                        <div class="sha">#1915721</div>
+                                        <div class="message">CI: Fix release-ci dependency</div>
                                     </div>
                                 </div>
-                                <div class="timestamp">3 Dec 2024, 19:26:17</div>
+                                <div class="timestamp">5 Dec 2024, 16:53:22</div>
                             </section>
                         </div>
                         <div class="row fill-width">
@@ -246,34 +271,13 @@
                                     </div>
                                 </div>
                                 <div class="details">
-                                    <div>on branch <span class="code">visibility</span></div>
+                                    <div>on branch <span class="code">dev</span></div>
                                     <div class="commit">
-                                        <div class="sha">#36b3a4f</div>
-                                        <div class="message">DB/Map: Add visibility radius to mapinfo</div>
+                                        <div class="sha">#fe5a82d</div>
+                                        <div class="message">CI: That, but in the right place</div>
                                     </div>
                                 </div>
-                                <div class="timestamp">3 Dec 2024, 17:48:35</div>
-                            </section>
-                        </div>
-                        <div class="row fill-width">
-                            <section class="activity">
-                                <div class="field">
-                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
-                                    </svg>
-                                    <div class="content">
-                                        Pushed 1 commit in
-                                        <span class="repo">Myth-Games/MythServerSource</span>
-                                    </div>
-                                </div>
-                                <div class="details">
-                                    <div>on branch <span class="code">visibility</span></div>
-                                    <div class="commit">
-                                        <div class="sha">#a9caf79</div>
-                                        <div class="message">Game/Movement: Fix many issues with SetFacing, SetMotion</div>
-                                    </div>
-                                </div>
-                                <div class="timestamp">3 Dec 2024, 17:10:55</div>
+                                <div class="timestamp">5 Dec 2024, 16:52:25</div>
                             </section>
                         </div>
                     </section>
