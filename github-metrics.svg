@@ -1,8 +1,8 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="480" height="356" class="">
+<svg xmlns="http://www.w3.org/2000/svg" width="480" height="1429" class="">
     <defs>
         <style/>
     </defs>
-    <style>@keyframes animation-gauge{0%{stroke-dasharray:0 329}}@keyframes animation-rainbow{0%,to{color:#7f00ff;fill:#7f00ff}14%{color:#a933ff;fill:#a933ff}29%{color:#007fff;fill:#007fff}43%{color:#00ff7f;fill:#00ff7f}57%{color:#ff0;fill:#ff0}71%{color:#ff7f00;fill:#ff7f00}86%{color:red;fill:red}}svg{font-family:-apple-system,BlinkMacSystemFont,Segoe UI,Helvetica,Arial,sans-serif,Apple Color Emoji,Segoe UI Emoji;font-size:14px;color:#777}svg.large .largeable{width:474px}svg.large .largeable&gt;.row{width:100%}svg.large .column.largeable,svg.large .row.largeable{display:inline-flex}h1,h2,h3{margin:8px 0 2px;padding:0;color:#0366d6}h1{font-size:20px;font-weight:700}h2,h3{font-weight:400}h1 svg,h2 svg,h3 svg{fill:currentColor}h2{font-size:16px}h3{font-size:14px}section&gt;.field{margin-left:5px;margin-right:5px}.field{display:flex;align-items:center;margin-bottom:2px;white-space:nowrap}.field svg{margin:0 8px;fill:#959da5;flex-shrink:0}.row{display:flex;flex-wrap:wrap}.row section{flex:1 1 0}.column{display:flex;flex-direction:column;align-items:center}.no-wrap{white-space:nowrap}#metrics-end,.fill-width{width:100%}.no-margin-top{margin-top:0}.avatar{border-radius:50%;margin:0 6px}.calendar.field{margin:4px 0 4px 7px}.calendar .day{outline:1px solid rgba(27,31,35,.04);outline-offset:-1px}svg.bar{margin:4px 0}.followup.legend{font-size:12px;flex-wrap:wrap}.followup.legend .field{width:46%;justify-content:flex-start;margin-left:8px}.followup.legend svg{margin:0 3px;width:14px;height:14px}.followup.legend svg:first-child{margin-left:0}.followup.legend svg:last-child{margin-right:0}.followup-title{white-space:initial}.activity{margin-bottom:12px}.activity .field{width:100%;overflow:hidden;text-overflow:ellipsis;max-width:450px;white-space:nowrap;margin-bottom:0}.activity .field .content{flex-grow:1;text-overflow:ellipsis;overflow:hidden}.activity .commit .sha,.activity .repo{display:inline;color:#58a6ff}.activity .code,span.code{background-color:#7777771f;padding:1px 5px;font-size:80%;border-radius:6px;color:#777;font-family:SFMono-Regular,Consolas,Liberation Mono,Menlo,monospace;margin:0 4px -3px}.activity .details,.activity .timestamp{padding-left:38px;display:flex;flex-direction:column;font-size:13px;color:#666}.activity .timestamp{font-size:10px;margin-top:4px}.activity .commit{display:flex;align-items:center}.activity .commit .sha,code{font-family:SFMono-Regular,Consolas,Liberation Mono,Menlo,monospace}.activity .commit .sha{margin-right:4px}.activity .commit .message{overflow:hidden;text-overflow:ellipsis;width:360px;white-space:nowrap}svg.large .activity .field{max-width:900px}svg.calendar{margin-left:13px;margin-top:4px}code{background-color:#7777771f;display:inline-block;border-radius:6px;color:#777;padding:1px 5px;font-size:80%}:root{--color-calendar-graph-day-bg:#ebedf0;--color-calendar-graph-day-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L1-bg:#9be9a8;--color-calendar-graph-day-L2-bg:#40c463;--color-calendar-graph-day-L3-bg:#30a14e;--color-calendar-graph-day-L4-bg:#216e39;--color-calendar-halloween-graph-day-L1-bg:#ffee4a;--color-calendar-halloween-graph-day-L2-bg:#ffc501;--color-calendar-halloween-graph-day-L3-bg:#fe9600;--color-calendar-halloween-graph-day-L4-bg:#03001c;--color-calendar-winter-graph-day-L1-bg:#0a3069;--color-calendar-winter-graph-day-L2-bg:#0969da;--color-calendar-winter-graph-day-L3-bg:#54aeff;--color-calendar-winter-graph-day-L4-bg:#b6e3ff;--color-calendar-graph-day-L4-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L3-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L2-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L1-border:rgba(27,31,35,0.06)}</style>
+    <style>@keyframes animation-gauge{0%{stroke-dasharray:0 329}}@keyframes animation-rainbow{0%,to{color:#7f00ff;fill:#7f00ff}14%{color:#a933ff;fill:#a933ff}29%{color:#007fff;fill:#007fff}43%{color:#00ff7f;fill:#00ff7f}57%{color:#ff0;fill:#ff0}71%{color:#ff7f00;fill:#ff7f00}86%{color:red;fill:red}}svg{font-family:-apple-system,BlinkMacSystemFont,Segoe UI,Helvetica,Arial,sans-serif,Apple Color Emoji,Segoe UI Emoji;font-size:14px;color:#777}h1,h2,h3{margin:8px 0 2px;padding:0;color:#0366d6}h1{font-size:20px;font-weight:700}h2,h3{font-weight:400}h1 svg,h2 svg,h3 svg{fill:currentColor}h2{font-size:16px}h3{font-size:14px}section&gt;.field{margin-left:5px;margin-right:5px}.field{display:flex;align-items:center;margin-bottom:2px;white-space:nowrap}.field svg{margin:0 8px;fill:#959da5;flex-shrink:0}.row{display:flex;flex-wrap:wrap}.row section{flex:1 1 0}.column{display:flex;flex-direction:column;align-items:center}.no-wrap{white-space:nowrap}#metrics-end,.fill-width{width:100%}.no-margin-top{margin-top:0}.avatar{border-radius:50%;margin:0 6px}.calendar.field{margin:4px 0 4px 7px}.calendar .day{outline:1px solid rgba(27,31,35,.04);outline-offset:-1px}svg.bar{margin:4px 0}.followup.legend{font-size:12px;flex-wrap:wrap}.followup.legend .field{width:46%;justify-content:flex-start;margin-left:8px}.followup.legend svg{margin:0 3px;width:14px;height:14px}.followup.legend svg:first-child{margin-left:0}.followup.legend svg:last-child{margin-right:0}.followup-title{white-space:initial}.activity{margin-bottom:12px}.activity .field{width:100%;overflow:hidden;text-overflow:ellipsis;max-width:450px;white-space:nowrap;margin-bottom:0}.activity .field .content{flex-grow:1;text-overflow:ellipsis;overflow:hidden}.activity .commit .sha,.activity .issue,.activity .repo{display:inline;color:#58a6ff}.activity .code,span.code{background-color:#7777771f;padding:1px 5px;font-size:80%;border-radius:6px;color:#777;font-family:SFMono-Regular,Consolas,Liberation Mono,Menlo,monospace;margin:0 4px -3px}.activity .bold,.activity .user{font-weight:600}.activity .details,.activity .timestamp{padding-left:38px;display:flex;flex-direction:column;font-size:13px;color:#666}.activity .timestamp{font-size:10px;margin-top:4px}.activity .commit{display:flex;align-items:center}.activity .commit .sha,code{font-family:SFMono-Regular,Consolas,Liberation Mono,Menlo,monospace}.activity .commit .sha{margin-right:4px}.activity .commit .message{overflow:hidden;text-overflow:ellipsis;width:360px;white-space:nowrap}svg.calendar{margin-left:13px;margin-top:4px}code{background-color:#7777771f;display:inline-block;border-radius:6px;color:#777;padding:1px 5px;font-size:80%}:root{--color-calendar-graph-day-bg:#ebedf0;--color-calendar-graph-day-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L1-bg:#9be9a8;--color-calendar-graph-day-L2-bg:#40c463;--color-calendar-graph-day-L3-bg:#30a14e;--color-calendar-graph-day-L4-bg:#216e39;--color-calendar-halloween-graph-day-L1-bg:#ffee4a;--color-calendar-halloween-graph-day-L2-bg:#ffc501;--color-calendar-halloween-graph-day-L3-bg:#fe9600;--color-calendar-halloween-graph-day-L4-bg:#03001c;--color-calendar-winter-graph-day-L1-bg:#0a3069;--color-calendar-winter-graph-day-L2-bg:#0969da;--color-calendar-winter-graph-day-L3-bg:#54aeff;--color-calendar-winter-graph-day-L4-bg:#b6e3ff;--color-calendar-graph-day-L4-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L3-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L2-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L1-border:rgba(27,31,35,0.06)}</style>
     <style/>
     <foreignObject x="0" y="0" width="100%" height="100%">
         <div xmlns="http://www.w3.org/1999/xhtml" xmlns:xlink="http://www.w3.org/1999/xlink" class="items-wrapper">
@@ -42,8 +42,8 @@
                                     <rect class="day" x="135" y="0" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
                                     <rect class="day" x="150" y="0" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
                                     <rect class="day" x="165" y="0" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
-                                    <rect class="day" x="180" y="0" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
-                                    <rect class="day" x="195" y="0" width="11" height="11" fill="#216e39" rx="2" ry="2"/>
+                                    <rect class="day" x="180" y="0" width="11" height="11" fill="#216e39" rx="2" ry="2"/>
+                                    <rect class="day" x="195" y="0" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
                                 </g>
                             </svg>
                         </div>
@@ -174,26 +174,312 @@
                                         <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
                                     </svg>
                                     <div class="content">
-                                        Pushed 2 commits in
+                                        Pushed 50 commits in
                                         <span class="repo">Myth-Games/MythServerSource</span>
                                     </div>
                                 </div>
                                 <div class="details">
-                                    <div>on branch <span class="code">experimental</span></div>
+                                    <div>on branch <span class="code">affect-persist</span></div>
                                     <div class="commit">
-                                        <div class="sha">#2ce8949</div>
-                                        <div class="message">Revert "REVERT ME: Game/Map: Hardcode a large visibility radius if present"
-
-This reverts commit 9f1e567e831db84eca148df93a3638811eba8005.</div>
+                                        <div class="sha">#4f16d5d</div>
+                                        <div class="message">Fix sp_swap_item_slot SQL procedure.</div>
                                     </div>
                                     <div class="commit">
-                                        <div class="sha">#d05749f</div>
-                                        <div class="message">Revert "REVERT ME: Hard disable the visibility system."
+                                        <div class="sha">#c37498c</div>
+                                        <div class="message">Fix broken unordered_flat_set include.</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#1414d64</div>
+                                        <div class="message">Merge branch 'items-manager' into experimental</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#620de7f</div>
+                                        <div class="message">Align with MythSharedLibrary.</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#12dbfd7</div>
+                                        <div class="message">Fix RequestMoveItem.
 
-This reverts commit 24b88f7775aa3a4b303a28727de9ec74e447d2c7.</div>
+This is a commit which will be released
+for the demo. RequestMoveItem and CanEquip will be
+reviewed and refactored.</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#14d04d0</div>
+                                        <div class="message">Game/AI: Fix &amp; improve NPC combat movement</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#a5fc889</div>
+                                        <div class="message">Util/Log: Fix (i think?) migration failures not being logged</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#9e56174</div>
+                                        <div class="message">Core/Init: Don't catch InitException if a debugger is present</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#18864b2</div>
+                                        <div class="message">WIP Working on moving items in hands.</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#7555298</div>
+                                        <div class="message">Merge branch 'experimental' into items-manager</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#7dd9245</div>
+                                        <div class="message">Merge branch 'experimental' of https://github.com/Myth-Games/MythServerSource into experimental</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#99247f4</div>
+                                        <div class="message">Fix RequestChat opcode</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#3325ed2</div>
+                                        <div class="message">Merge branch 'experimental' into items-manager</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#9a6e8f0</div>
+                                        <div class="message">Minor cleanup of RequestMoveItem.</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#2c90f7e</div>
+                                        <div class="message">Fix mob class check condition.</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#f447e2f</div>
+                                        <div class="message">Clean up CanEquip logic.</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#88d254e</div>
+                                        <div class="message">Fix force dual wield into right hand.</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#ff725ee</div>
+                                        <div class="message">Fix put anything on jewellery slots.</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#6fd1e8b</div>
+                                        <div class="message">Partially working moving items.</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#e6626a1</div>
+                                        <div class="message">WIP Working on ItemsManager.</div>
                                     </div>
                                 </div>
-                                <div class="timestamp">6 Jan 2025, 11:05:01</div>
+                                <div class="timestamp">6 Jan 2025, 13:27:42</div>
+                            </section>
+                        </div>
+                        <div class="row fill-width">
+                            <section class="activity">
+                                <div class="field">
+                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
+                                    </svg>
+                                    <div class="content">
+                                        Pushed 13 commits in
+                                        <span class="repo">Myth-Games/MythSharedLibrary</span>
+                                    </div>
+                                </div>
+                                <div class="details">
+                                    <div>on branch <span class="code">affect-persist</span></div>
+                                    <div class="commit">
+                                        <div class="sha">#36703f0</div>
+                                        <div class="message">Merge commit 'dcc0ce2735523a974a4e9aeee7712bc78de701fe' into affect-persist</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#dcc0ce2</div>
+                                        <div class="message">Add power restore effects &amp; fix loading of affect periodicity</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#e623480</div>
+                                        <div class="message">Adapt Spells loading for the server</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#bd5a22f</div>
+                                        <div class="message">More improvements to st_Item structure.</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#43e4a4e</div>
+                                        <div class="message">Add Math::invlerp</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#7d49a9e</div>
+                                        <div class="message">Fix st_Item structure</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#efd2205</div>
+                                        <div class="message">Add Math::lerp</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#e10eb47</div>
+                                        <div class="message">Merge branch 'dev' into experimental</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#4eb98bc</div>
+                                        <div class="message">Fix the fix 🤔 how did that work</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#ad0e527</div>
+                                        <div class="message">Merge branch 'dev' of github.com:Myth-Games/MythSharedLibrary into experimental</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#a01bdb8</div>
+                                        <div class="message">Tidy up EquipType and EquipSlot.</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#ca6cc06</div>
+                                        <div class="message">Fix navmesh lookup</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#0f95931</div>
+                                        <div class="message">Option to ignore dumps for move packets</div>
+                                    </div>
+                                </div>
+                                <div class="timestamp">6 Jan 2025, 13:26:49</div>
+                            </section>
+                        </div>
+                        <div class="row fill-width">
+                            <section class="activity">
+                                <div class="field">
+                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+                                        <path fill-rule="evenodd" d="M8.878.392a1.75 1.75 0 00-1.756 0l-5.25 3.045A1.75 1.75 0 001 4.951v6.098c0 .624.332 1.2.872 1.514l5.25 3.045a1.75 1.75 0 001.756 0l5.25-3.045c.54-.313.872-.89.872-1.514V4.951c0-.624-.332-1.2-.872-1.514L8.878.392zM7.875 1.69a.25.25 0 01.25 0l4.63 2.685L8 7.133 3.245 4.375l4.63-2.685zM2.5 5.677v5.372c0 .09.047.171.125.216l4.625 2.683V8.432L2.5 5.677zm6.25 8.271l4.625-2.683a.25.25 0 00.125-.216V5.677L8.75 8.432v5.516z"/>
+                                    </svg>
+                                    <div class="content">
+                                        Pre-released
+                                        <span class="bold">v0.0.0.49</span>
+                                        of
+                                        <span class="repo">Myth-Games/MythServerSource</span>
+                                    </div>
+                                </div>
+                                <div class="timestamp">6 Jan 2025, 12:02:19</div>
+                            </section>
+                        </div>
+                        <div class="row fill-width">
+                            <section class="activity">
+                                <div class="field">
+                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+                                        <path fill-rule="evenodd" d="M2.5 7.775V2.75a.25.25 0 01.25-.25h5.025a.25.25 0 01.177.073l6.25 6.25a.25.25 0 010 .354l-5.025 5.025a.25.25 0 01-.354 0l-6.25-6.25a.25.25 0 01-.073-.177zm-1.5 0V2.75C1 1.784 1.784 1 2.75 1h5.025c.464 0 .91.184 1.238.513l6.25 6.25a1.75 1.75 0 010 2.474l-5.026 5.026a1.75 1.75 0 01-2.474 0l-6.25-6.25A1.75 1.75 0 011 7.775zM6 5a1 1 0 100 2 1 1 0 000-2z"/>
+                                    </svg>
+                                    <div class="content">
+                                        Created new
+                      tag
+                                        <span class="code">v0.0.0.49</span>
+                                        in
+                                        <span class="repo">Myth-Games/MythServerSource</span>
+                                    </div>
+                                </div>
+                                <div class="timestamp">6 Jan 2025, 11:51:11</div>
+                            </section>
+                        </div>
+                        <div class="row fill-width">
+                            <section class="activity">
+                                <div class="field">
+                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
+                                    </svg>
+                                    <div class="content">
+                                        Pushed 75 commits in
+                                        <span class="repo">Myth-Games/MythServerSource</span>
+                                    </div>
+                                </div>
+                                <div class="details">
+                                    <div>on branch <span class="code">dev</span></div>
+                                    <div class="commit">
+                                        <div class="sha">#a886109</div>
+                                        <div class="message">Remove dbId struct.</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#271c2f7</div>
+                                        <div class="message">Modify MapObject to use UUID traits.</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#202fe5e</div>
+                                        <div class="message">DB: Comment out WIP migration 226</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#a774cf3</div>
+                                        <div class="message">Util/Log: Fix "user" logs to "session" / remove "user" mentions, also improve time sync log</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#877367d</div>
+                                        <div class="message">Merge branch 'experimental' into affect-persist
+
+The commit was supposed to be on this branch...
+
+# Conflicts:
+#	Projects/Gameserver/Entities/MapObject.cpp
+#	Projects/Gameserver/Entities/MobArrayHelper.h
+#	Projects/Gameserver/Entities/Player.cpp
+#	Projects/Gameserver/Entities/Player.h
+#	Projects/Gameserver/Migrations/MigrationManager.cpp
+#	Projects/Gameserver/Migrations/MigrationManager.h
+#	Projects/Gameserver/Misc/SendFunc.cpp
+#	Projects/Gameserver/Session/Session.cpp
+#	Projects/Gameserver/Session/Session.h
+#	Projects/Gameserver/Session/SessionsManager.cpp
+#	Projects/Gameserver/User/UsersManager.h</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#a120022</div>
+                                        <div class="message">Architecture: Rename CUser =&gt; Session</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#cf65aeb</div>
+                                        <div class="message">Game/User: Fix minor display issue with session ID</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#b33869e</div>
+                                        <div class="message">Fix clang &lt; 19 build</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#5cc60d2</div>
+                                        <div class="message">Game/Entities: Add persisting UUIDs</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#68b4e9c</div>
+                                        <div class="message">Fix migration script.</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#5609d5d</div>
+                                        <div class="message">Game/World: Add try/catch around world tasks to prevent yoinking the world loop</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#31f23d1</div>
+                                        <div class="message">Game/Combat: Use MobRole to determine if NPC can be attacked</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#0a3b2c1</div>
+                                        <div class="message">Game/User: Fix a lot of uses of User ID instead of Player ID, and unnecessary uses of direct unbounded array pointers</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#5fc2871</div>
+                                        <div class="message">Game/User: Send the player UUID in SMSG_CharacterLogin</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#dd17725</div>
+                                        <div class="message">Use Map Object type instead of ObjectId, remove interaction hack.</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#0e51f13</div>
+                                        <div class="message">Random map objects respawn time.</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#6ecb4d5</div>
+                                        <div class="message">Merge branch 'experimental' into skills-and-tasks</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#c90d900</div>
+                                        <div class="message">Game/Entities: Remove EntityType::Monster, and experiment with baking DB IDs into EntityUUID</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#f9f87cf</div>
+                                        <div class="message">Game/Entities: Experiment with splitting Session ID and Player ID</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#3a209b0</div>
+                                        <div class="message">Altered MapObjec model.</div>
+                                    </div>
+                                </div>
+                                <div class="timestamp">6 Jan 2025, 11:49:25</div>
                             </section>
                         </div>
                     </section>
