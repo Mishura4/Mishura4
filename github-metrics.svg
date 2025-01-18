@@ -1,4 +1,4 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="480" height="663" class="">
+<svg xmlns="http://www.w3.org/2000/svg" width="480" height="797" class="">
     <defs>
         <style/>
     </defs>
@@ -179,76 +179,87 @@
                                     </div>
                                 </div>
                                 <div class="details">
-                                    <div>on branch <span class="code">visibility</span></div>
+                                    <div>on branch <span class="code">experimental</span></div>
+                                    <div class="commit">
+                                        <div class="sha">#7df46dd</div>
+                                        <div class="message">CI: Attempt to fix boost install path, again</div>
+                                    </div>
+                                </div>
+                                <div class="timestamp">17 Jan 2025, 18:54:19</div>
+                            </section>
+                        </div>
+                        <div class="row fill-width">
+                            <section class="activity">
+                                <div class="field">
+                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
+                                    </svg>
+                                    <div class="content">
+                                        Pushed 1 commit in
+                                        <span class="repo">Myth-Games/MythServerSource</span>
+                                    </div>
+                                </div>
+                                <div class="details">
+                                    <div>on branch <span class="code">experimental</span></div>
+                                    <div class="commit">
+                                        <div class="sha">#fdbab43</div>
+                                        <div class="message">CI: Build boost with Ninja</div>
+                                    </div>
+                                </div>
+                                <div class="timestamp">17 Jan 2025, 18:28:34</div>
+                            </section>
+                        </div>
+                        <div class="row fill-width">
+                            <section class="activity">
+                                <div class="field">
+                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
+                                    </svg>
+                                    <div class="content">
+                                        Pushed 9 commits in
+                                        <span class="repo">Myth-Games/MythServerSource</span>
+                                    </div>
+                                </div>
+                                <div class="details">
+                                    <div>on branch <span class="code">experimental</span></div>
+                                    <div class="commit">
+                                        <div class="sha">#d190acc</div>
+                                        <div class="message">CI: Try to fix boost install</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#eee3c25</div>
+                                        <div class="message">Game/IMOs: remove multicast param from IMO loading as this is done in WorldSyncSystem, &amp; fix some DistanceTo calls</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#e35a121</div>
+                                        <div class="message">Game/World: Add more convenience functions to World::Actor for distance &amp; visibility checking</div>
+                                    </div>
                                     <div class="commit">
                                         <div class="sha">#c17ed12</div>
                                         <div class="message">Game/World: Remove obsolete checks for an actor being a mob in WorldSyncSystem</div>
                                     </div>
-                                </div>
-                                <div class="timestamp">17 Jan 2025, 17:32:30</div>
-                            </section>
-                        </div>
-                        <div class="row fill-width">
-                            <section class="activity">
-                                <div class="field">
-                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
-                                    </svg>
-                                    <div class="content">
-                                        Pushed 1 commit in
-                                        <span class="repo">Myth-Games/MythServerSource</span>
-                                    </div>
-                                </div>
-                                <div class="details">
-                                    <div>on branch <span class="code">visibility</span></div>
                                     <div class="commit">
                                         <div class="sha">#9adedbc</div>
                                         <div class="message">Game/World: Integrate MapObjects into the visibility system; needs polishing later</div>
                                     </div>
-                                </div>
-                                <div class="timestamp">17 Jan 2025, 17:20:23</div>
-                            </section>
-                        </div>
-                        <div class="row fill-width">
-                            <section class="activity">
-                                <div class="field">
-                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
-                                    </svg>
-                                    <div class="content">
-                                        Pushed 1 commit in
-                                        <span class="repo">Myth-Games/MythServerSource</span>
-                                    </div>
-                                </div>
-                                <div class="details">
-                                    <div>on branch <span class="code">visibility</span></div>
                                     <div class="commit">
                                         <div class="sha">#5cc1584</div>
                                         <div class="message">Game/World: Add MapObjects to Map's Actor finder</div>
                                     </div>
-                                </div>
-                                <div class="timestamp">17 Jan 2025, 14:59:40</div>
-                            </section>
-                        </div>
-                        <div class="row fill-width">
-                            <section class="activity">
-                                <div class="field">
-                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
-                                    </svg>
-                                    <div class="content">
-                                        Pushed 1 commit in
-                                        <span class="repo">Myth-Games/MythServerSource</span>
-                                    </div>
-                                </div>
-                                <div class="details">
-                                    <div>on branch <span class="code">visibility</span></div>
                                     <div class="commit">
                                         <div class="sha">#f488ba0</div>
                                         <div class="message">Game/IMOs: Add map object create &amp; delete old map events. We should really review this event system, &amp; the IMO integration</div>
                                     </div>
+                                    <div class="commit">
+                                        <div class="sha">#86e9fc8</div>
+                                        <div class="message">Game/IMOs: std::back_inserter is the devil</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#757fea5</div>
+                                        <div class="message">Game/Map: Rename Map::GetWorldObject to Map::GetWorldActor</div>
+                                    </div>
                                 </div>
-                                <div class="timestamp">17 Jan 2025, 13:27:19</div>
+                                <div class="timestamp">17 Jan 2025, 18:25:48</div>
                             </section>
                         </div>
                         <div class="row fill-width">
@@ -265,11 +276,32 @@
                                 <div class="details">
                                     <div>on branch <span class="code">visibility</span></div>
                                     <div class="commit">
-                                        <div class="sha">#86e9fc8</div>
-                                        <div class="message">Game/IMOs: std::back_inserter is the devil</div>
+                                        <div class="sha">#d190acc</div>
+                                        <div class="message">CI: Try to fix boost install</div>
                                     </div>
                                 </div>
-                                <div class="timestamp">17 Jan 2025, 13:05:50</div>
+                                <div class="timestamp">17 Jan 2025, 18:25:38</div>
+                            </section>
+                        </div>
+                        <div class="row fill-width">
+                            <section class="activity">
+                                <div class="field">
+                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
+                                    </svg>
+                                    <div class="content">
+                                        Pushed 1 commit in
+                                        <span class="repo">Myth-Games/MythServerSource</span>
+                                    </div>
+                                </div>
+                                <div class="details">
+                                    <div>on branch <span class="code">visibility</span></div>
+                                    <div class="commit">
+                                        <div class="sha">#eee3c25</div>
+                                        <div class="message">Game/IMOs: remove multicast param from IMO loading as this is done in WorldSyncSystem, &amp; fix some DistanceTo calls</div>
+                                    </div>
+                                </div>
+                                <div class="timestamp">17 Jan 2025, 18:19:09</div>
                             </section>
                         </div>
                     </section>
