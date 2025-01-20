@@ -30,20 +30,20 @@
                         <div class="field calendar">
                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 210 11" width="210" height="16">
                                 <g>
-                                    <rect class="day" x="0" y="0" width="11" height="11" fill="#9be9a8" rx="2" ry="2"/>
+                                    <rect class="day" x="0" y="0" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
                                     <rect class="day" x="15" y="0" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
                                     <rect class="day" x="30" y="0" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
                                     <rect class="day" x="45" y="0" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
-                                    <rect class="day" x="60" y="0" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
-                                    <rect class="day" x="75" y="0" width="11" height="11" fill="#9be9a8" rx="2" ry="2"/>
+                                    <rect class="day" x="60" y="0" width="11" height="11" fill="#9be9a8" rx="2" ry="2"/>
+                                    <rect class="day" x="75" y="0" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
                                     <rect class="day" x="90" y="0" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
                                     <rect class="day" x="105" y="0" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
                                     <rect class="day" x="120" y="0" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
                                     <rect class="day" x="135" y="0" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
                                     <rect class="day" x="150" y="0" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
-                                    <rect class="day" x="165" y="0" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
-                                    <rect class="day" x="180" y="0" width="11" height="11" fill="#9be9a8" rx="2" ry="2"/>
-                                    <rect class="day" x="195" y="0" width="11" height="11" fill="#216e39" rx="2" ry="2"/>
+                                    <rect class="day" x="165" y="0" width="11" height="11" fill="#9be9a8" rx="2" ry="2"/>
+                                    <rect class="day" x="180" y="0" width="11" height="11" fill="#216e39" rx="2" ry="2"/>
+                                    <rect class="day" x="195" y="0" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
                                 </g>
                             </svg>
                         </div>
@@ -175,17 +175,17 @@
                                     </svg>
                                     <div class="content">
                                         Pushed 1 commit in
-                                        <span class="repo">Myth-Games/MythServerSource</span>
+                                        <span class="repo">DOL-Avalonia/GondwanaServer</span>
                                     </div>
                                 </div>
                                 <div class="details">
-                                    <div>on branch <span class="code">experimental</span></div>
+                                    <div>on branch <span class="code">master</span></div>
                                     <div class="commit">
-                                        <div class="sha">#7b6277b</div>
-                                        <div class="message">CI: or this</div>
+                                        <div class="sha">#f03353e</div>
+                                        <div class="message">improv: use contains instead of equal for whisper area triggers, I think that makes more sense...</div>
                                     </div>
                                 </div>
-                                <div class="timestamp">19 Jan 2025, 12:57:28</div>
+                                <div class="timestamp">19 Jan 2025, 16:29:58</div>
                             </section>
                         </div>
                         <div class="row fill-width">
@@ -196,17 +196,17 @@
                                     </svg>
                                     <div class="content">
                                         Pushed 1 commit in
-                                        <span class="repo">Myth-Games/MythServerSource</span>
+                                        <span class="repo">Mishura4/GondwanaServer</span>
                                     </div>
                                 </div>
                                 <div class="details">
-                                    <div>on branch <span class="code">experimental</span></div>
+                                    <div>on branch <span class="code">master</span></div>
                                     <div class="commit">
-                                        <div class="sha">#d46e154</div>
-                                        <div class="message">CI: Let's try this</div>
+                                        <div class="sha">#f03353e</div>
+                                        <div class="message">improv: use contains instead of equal for whisper area triggers, I think that makes more sense...</div>
                                     </div>
                                 </div>
-                                <div class="timestamp">19 Jan 2025, 12:56:18</div>
+                                <div class="timestamp">19 Jan 2025, 16:29:57</div>
                             </section>
                         </div>
                         <div class="row fill-width">
@@ -217,17 +217,17 @@
                                     </svg>
                                     <div class="content">
                                         Pushed 1 commit in
-                                        <span class="repo">Mishura4/test-boost-ci</span>
+                                        <span class="repo">DOL-Avalonia/GondwanaServer</span>
                                     </div>
                                 </div>
                                 <div class="details">
-                                    <div>on branch <span class="code">main</span></div>
+                                    <div>on branch <span class="code">master</span></div>
                                     <div class="commit">
-                                        <div class="sha">#647e176</div>
-                                        <div class="message">aeaie</div>
+                                        <div class="sha">#5fddb36</div>
+                                        <div class="message">fix: fix event ending actions being applied to every player regardless of instance</div>
                                     </div>
                                 </div>
-                                <div class="timestamp">19 Jan 2025, 12:53:04</div>
+                                <div class="timestamp">19 Jan 2025, 16:09:56</div>
                             </section>
                         </div>
                         <div class="row fill-width">
@@ -238,17 +238,17 @@
                                     </svg>
                                     <div class="content">
                                         Pushed 1 commit in
-                                        <span class="repo">Mishura4/test-boost-ci</span>
+                                        <span class="repo">Mishura4/GondwanaServer</span>
                                     </div>
                                 </div>
                                 <div class="details">
-                                    <div>on branch <span class="code">main</span></div>
+                                    <div>on branch <span class="code">master</span></div>
                                     <div class="commit">
-                                        <div class="sha">#c5e9c00</div>
-                                        <div class="message">e</div>
+                                        <div class="sha">#5fddb36</div>
+                                        <div class="message">fix: fix event ending actions being applied to every player regardless of instance</div>
                                     </div>
                                 </div>
-                                <div class="timestamp">19 Jan 2025, 12:37:32</div>
+                                <div class="timestamp">19 Jan 2025, 16:09:55</div>
                             </section>
                         </div>
                         <div class="row fill-width">
@@ -259,17 +259,17 @@
                                     </svg>
                                     <div class="content">
                                         Pushed 1 commit in
-                                        <span class="repo">Mishura4/test-boost-ci</span>
+                                        <span class="repo">DOL-Avalonia/GondwanaServer</span>
                                     </div>
                                 </div>
                                 <div class="details">
-                                    <div>on branch <span class="code">main</span></div>
+                                    <div>on branch <span class="code">master</span></div>
                                     <div class="commit">
-                                        <div class="sha">#0b6fb5c</div>
-                                        <div class="message">ee</div>
+                                        <div class="sha">#3be9a87</div>
+                                        <div class="message">fix: fix event zone messages being sent to everyone regardless of instance</div>
                                     </div>
                                 </div>
-                                <div class="timestamp">19 Jan 2025, 12:32:58</div>
+                                <div class="timestamp">19 Jan 2025, 16:05:47</div>
                             </section>
                         </div>
                     </section>
