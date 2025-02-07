@@ -2,7 +2,7 @@
     <defs>
         <style/>
     </defs>
-    <style>@keyframes animation-gauge{0%{stroke-dasharray:0 329}}@keyframes animation-rainbow{0%,to{color:#7f00ff;fill:#7f00ff}14%{color:#a933ff;fill:#a933ff}29%{color:#007fff;fill:#007fff}43%{color:#00ff7f;fill:#00ff7f}57%{color:#ff0;fill:#ff0}71%{color:#ff7f00;fill:#ff7f00}86%{color:red;fill:red}}svg{font-family:-apple-system,BlinkMacSystemFont,Segoe UI,Helvetica,Arial,sans-serif,Apple Color Emoji,Segoe UI Emoji;font-size:14px;color:#777}h1,h2,h3{margin:8px 0 2px;padding:0;color:#0366d6}h1{font-size:20px;font-weight:700}h2,h3{font-weight:400}h1 svg,h2 svg,h3 svg{fill:currentColor}h2{font-size:16px}h3{font-size:14px}section&gt;.field{margin-left:5px;margin-right:5px}.field{display:flex;align-items:center;margin-bottom:2px;white-space:nowrap}.field svg{margin:0 8px;fill:#959da5;flex-shrink:0}.row{display:flex;flex-wrap:wrap}.row section{flex:1 1 0}.column{display:flex;flex-direction:column;align-items:center}.no-wrap{white-space:nowrap}#metrics-end,.fill-width{width:100%}.no-margin-top{margin-top:0}.avatar{border-radius:50%;margin:0 6px}.calendar.field{margin:4px 0 4px 7px}.calendar .day{outline:1px solid rgba(27,31,35,.04);outline-offset:-1px}svg.bar{margin:4px 0}.followup.legend{font-size:12px;flex-wrap:wrap}.followup.legend .field{width:46%;justify-content:flex-start;margin-left:8px}.followup.legend svg{margin:0 3px;width:14px;height:14px}.followup.legend svg:first-child{margin-left:0}.followup.legend svg:last-child{margin-right:0}.followup-title{white-space:initial}.activity{margin-bottom:12px}.activity .field{width:100%;overflow:hidden;text-overflow:ellipsis;max-width:450px;white-space:nowrap;margin-bottom:0}.activity .field .content{flex-grow:1;text-overflow:ellipsis;overflow:hidden}.activity .commit .sha,.activity .repo{display:inline;color:#58a6ff}.activity .code,span.code{background-color:#7777771f;padding:1px 5px;font-size:80%;border-radius:6px;color:#777;font-family:SFMono-Regular,Consolas,Liberation Mono,Menlo,monospace;margin:0 4px -3px}.activity .details,.activity .timestamp{padding-left:38px;display:flex;flex-direction:column;font-size:13px;color:#666}.activity .timestamp{font-size:10px;margin-top:4px}.activity .commit{display:flex;align-items:center}.activity .commit .sha,code{font-family:SFMono-Regular,Consolas,Liberation Mono,Menlo,monospace}.activity .commit .sha{margin-right:4px}.activity .commit .message{overflow:hidden;text-overflow:ellipsis;width:360px;white-space:nowrap}svg.calendar{margin-left:13px;margin-top:4px}code{background-color:#7777771f;display:inline-block;border-radius:6px;color:#777;padding:1px 5px;font-size:80%}:root{--color-calendar-graph-day-bg:#ebedf0;--color-calendar-graph-day-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L1-bg:#9be9a8;--color-calendar-graph-day-L2-bg:#40c463;--color-calendar-graph-day-L3-bg:#30a14e;--color-calendar-graph-day-L4-bg:#216e39;--color-calendar-halloween-graph-day-L1-bg:#ffee4a;--color-calendar-halloween-graph-day-L2-bg:#ffc501;--color-calendar-halloween-graph-day-L3-bg:#fe9600;--color-calendar-halloween-graph-day-L4-bg:#03001c;--color-calendar-winter-graph-day-L1-bg:#0a3069;--color-calendar-winter-graph-day-L2-bg:#0969da;--color-calendar-winter-graph-day-L3-bg:#54aeff;--color-calendar-winter-graph-day-L4-bg:#b6e3ff;--color-calendar-graph-day-L4-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L3-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L2-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L1-border:rgba(27,31,35,0.06)}</style>
+    <style>@keyframes animation-gauge{0%{stroke-dasharray:0 329}}@keyframes animation-rainbow{0%,to{color:#7f00ff;fill:#7f00ff}14%{color:#a933ff;fill:#a933ff}29%{color:#007fff;fill:#007fff}43%{color:#00ff7f;fill:#00ff7f}57%{color:#ff0;fill:#ff0}71%{color:#ff7f00;fill:#ff7f00}86%{color:red;fill:red}}svg{font-family:-apple-system,BlinkMacSystemFont,Segoe UI,Helvetica,Arial,sans-serif,Apple Color Emoji,Segoe UI Emoji;font-size:14px;color:#777}h1,h2,h3{margin:8px 0 2px;padding:0;color:#0366d6}h1{font-size:20px;font-weight:700}h2,h3{font-weight:400}h1 svg,h2 svg,h3 svg{fill:currentColor}h2{font-size:16px}h3{font-size:14px}section&gt;.field{margin-left:5px;margin-right:5px}.field{display:flex;align-items:center;margin-bottom:2px;white-space:nowrap}.field svg{margin:0 8px;fill:#959da5;flex-shrink:0}.field.error{color:#cb2431}.field.error svg{fill:#cb2431}.field.warning{color:#d79533}.field.warning svg{fill:#d79533}.row{display:flex;flex-wrap:wrap}.row section{flex:1 1 0}.column{display:flex;flex-direction:column;align-items:center}.no-wrap{white-space:nowrap}#metrics-end,.fill-width{width:100%}.no-margin-top{margin-top:0}.avatar{border-radius:50%;margin:0 6px}.calendar.field{margin:4px 0 4px 7px}.calendar .day{outline:1px solid rgba(27,31,35,.04);outline-offset:-1px}svg.bar{margin:4px 0}.followup.legend{font-size:12px;flex-wrap:wrap}.followup.legend .field{width:46%;justify-content:flex-start;margin-left:8px}.followup.legend svg{margin:0 3px;width:14px;height:14px}.followup.legend svg:first-child{margin-left:0}.followup.legend svg:last-child{margin-right:0}.followup-title{white-space:initial}.activity{margin-bottom:12px}.activity .field{width:100%;overflow:hidden;text-overflow:ellipsis;max-width:450px;white-space:nowrap;margin-bottom:0}.activity .field .content{flex-grow:1;text-overflow:ellipsis;overflow:hidden}.activity .commit .sha,.activity .issue,.activity .repo{display:inline;color:#58a6ff}.activity .code,span.code{background-color:#7777771f;padding:1px 5px;font-size:80%;border-radius:6px;color:#777;font-family:SFMono-Regular,Consolas,Liberation Mono,Menlo,monospace;margin:0 4px -3px}.activity .details,.activity .timestamp{padding-left:38px;display:flex;flex-direction:column;font-size:13px;color:#666}.activity .timestamp{font-size:10px;margin-top:4px}.activity .commit{display:flex;align-items:center}.activity .commit .sha,code{font-family:SFMono-Regular,Consolas,Liberation Mono,Menlo,monospace}.activity .commit .sha{margin-right:4px}.activity .commit .message{overflow:hidden;text-overflow:ellipsis;width:360px;white-space:nowrap}svg.calendar{margin-left:13px;margin-top:4px}code{background-color:#7777771f;display:inline-block;border-radius:6px;color:#777;padding:1px 5px;font-size:80%}:root{--color-calendar-graph-day-bg:#ebedf0;--color-calendar-graph-day-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L1-bg:#9be9a8;--color-calendar-graph-day-L2-bg:#40c463;--color-calendar-graph-day-L3-bg:#30a14e;--color-calendar-graph-day-L4-bg:#216e39;--color-calendar-halloween-graph-day-L1-bg:#ffee4a;--color-calendar-halloween-graph-day-L2-bg:#ffc501;--color-calendar-halloween-graph-day-L3-bg:#fe9600;--color-calendar-halloween-graph-day-L4-bg:#03001c;--color-calendar-winter-graph-day-L1-bg:#0a3069;--color-calendar-winter-graph-day-L2-bg:#0969da;--color-calendar-winter-graph-day-L3-bg:#54aeff;--color-calendar-winter-graph-day-L4-bg:#b6e3ff;--color-calendar-graph-day-L4-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L3-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L2-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L1-border:rgba(27,31,35,0.06)}</style>
     <style/>
     <foreignObject x="0" y="0" width="100%" height="100%">
         <div xmlns="http://www.w3.org/1999/xhtml" xmlns:xlink="http://www.w3.org/1999/xlink" class="items-wrapper">
@@ -30,16 +30,16 @@
                         <div class="field calendar">
                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 210 11" width="210" height="16">
                                 <g>
-                                    <rect class="day" x="0" y="0" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
+                                    <rect class="day" x="0" y="0" width="11" height="11" fill="#216e39" rx="2" ry="2"/>
                                     <rect class="day" x="15" y="0" width="11" height="11" fill="#216e39" rx="2" ry="2"/>
-                                    <rect class="day" x="30" y="0" width="11" height="11" fill="#216e39" rx="2" ry="2"/>
-                                    <rect class="day" x="45" y="0" width="11" height="11" fill="#9be9a8" rx="2" ry="2"/>
+                                    <rect class="day" x="30" y="0" width="11" height="11" fill="#9be9a8" rx="2" ry="2"/>
+                                    <rect class="day" x="45" y="0" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
                                     <rect class="day" x="60" y="0" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
                                     <rect class="day" x="75" y="0" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
                                     <rect class="day" x="90" y="0" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
-                                    <rect class="day" x="105" y="0" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
-                                    <rect class="day" x="120" y="0" width="11" height="11" fill="#40c463" rx="2" ry="2"/>
-                                    <rect class="day" x="135" y="0" width="11" height="11" fill="#30a14e" rx="2" ry="2"/>
+                                    <rect class="day" x="105" y="0" width="11" height="11" fill="#40c463" rx="2" ry="2"/>
+                                    <rect class="day" x="120" y="0" width="11" height="11" fill="#30a14e" rx="2" ry="2"/>
+                                    <rect class="day" x="135" y="0" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
                                     <rect class="day" x="150" y="0" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
                                     <rect class="day" x="165" y="0" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
                                     <rect class="day" x="180" y="0" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
@@ -181,11 +181,207 @@
                                 <div class="details">
                                     <div>on branch <span class="code">experimental</span></div>
                                     <div class="commit">
-                                        <div class="sha">#7aff066</div>
-                                        <div class="message">Game/Combat: Quick fix for read-after-free of attack events</div>
+                                        <div class="sha">#d115a0d</div>
+                                        <div class="message">Float positions 🚀 (#34)
+
+Squashed commit of the following:
+
+commit 531365c1e5fcaee67b5aa92bcffba307a3983803
+Merge: c91517ce f372a748
+Author: Amber Ehrlich &lt;miuna.oshino@gmail.com&gt;
+Date:   Thu Feb 6 11:49:12 2025 -0500
+
+    Merge branch 'experimental' into floatpos
+
+commit c91517ce208a1dda1c0be523f8ea7369f685c01d
+Author: Amber Ehrlich &lt;miuna.oshino@gmail.com&gt;
+Date:   Wed Feb 5 09:30:45 2025 -0500
+
+    Game/Movement: Reset facing mode for a movement spline without facing
+
+commit 39f3c64bf26a8f9ea2d7227626a1a196b896804b
+Author: Amber Ehrlich &lt;miuna.oshino@gmail.com&gt;
+Date:   Wed Feb 5 08:57:36 2025 -0500
+
+    Game/Combat: Quick fix for read-after-free of attack events
+
+commit 9d7945ee3a78d468b2bc90ef68a6017b09d25f42
+Merge: 2ff6e4c9 f336fc9d
+Author: Amber Ehrlich &lt;miuna.oshino@gmail.com&gt;
+Date:   Wed Feb 5 08:28:56 2025 -0500
+
+    Merge branch 'experimental' into floatpos
+
+    # Conflicts:
+    #	Projects/Gameserver/Character/ActionSlots.h
+    #	Projects/MythSharedLibrary
+
+commit 2ff6e4c941757885ccb1d1706d84e8c50fc43706
+Author: Mishura4 &lt;miuna.oshino@gmail.com&gt;
+Date:   Thu Jan 30 17:22:28 2025 +0000
+
+    Util/DenseSet: Workaround std::ranges::const_iterator_t missing in libc++
+
+commit 6f4de6aec3a606498b1a0bc9f8530f9e30e34f5e
+Merge: 3a642b00 30df8110
+Author: Amber Ehrlich &lt;miuna.oshino@gmail.com&gt;
+Date:   Thu Jan 30 12:07:30 2025 -0500
+
+    Merge branch 'experimental' into floatpos
+
+commit 3a642b0032f42229164b315990a2bef83c70c90f
+Author: Mishura4 &lt;miuna.oshino@gmail.com&gt;
+Date:   Fri Jan 24 22:08:27 2025 +0000
+
+    [skip ci] DB: Fix migration 247
+
+commit 2d40bc913be788527ff840c3466cf9c68d0b1fa4
+Merge: 2d70fc56 c4a73c82
+Author: Amber Ehrlich &lt;miuna.oshino@gmail.com&gt;
+Date:   Fri Jan 24 16:59:08 2025 -0500
+
+    Merge branch 'experimental' into floatpos
+
+    # Conflicts:
+    #	Projects/Gameserver/Packets/RequestTeleport.cpp
+    #	Projects/MythSharedLibrary
+
+commit 2d70fc56566874faa2d761bdc738606416c1be90
+Author: Amber Ehrlich &lt;miuna.oshino@gmail.com&gt;
+Date:   Fri Jan 24 16:57:10 2025 -0500
+
+    Game/Movement: Fix SendMoveSpline coordinates
+
+commit 9a42c3d879af99e7a538601fe989fc323fb66940
+Author: Mishura4 &lt;miuna.oshino@gmail.com&gt;
+Date:   Fri Jan 24 21:56:36 2025 +0000
+
+    Game/Movement: Fix RequestMoveSpline error format
+
+commit 171ca8f109024270f13a25ce0b423fa7e1405cdb
+Author: Amber Ehrlich &lt;miuna.oshino@gmail.com&gt;
+Date:   Fri Jan 24 16:31:34 2025 -0500
+
+    Game/Movement: Fix uses of st_Coordinates in RequestMoveSpline
+
+commit 55e955f3af728b2a131fc3a56b774f3ce825ce51
+Merge: 4bf200e8 4d86e8ee
+Author: Mishura4 &lt;miuna.oshino@gmail.com&gt;
+Date:   Fri Jan 24 16:15:22 2025 +0000
+
+    Merge branch 'experimental' into floatpos
+
+commit 4bf200e8b55573e4b0c1f45cf22a98b157da07e0
+Merge: 66190023 58fce49c
+Author: Amber Ehrlich &lt;miuna.oshino@gmail.com&gt;
+Date:   Fri Jan 24 10:48:19 2025 -0500
+
+    Merge branch 'experimental' into floatpos
+
+    # Conflicts:
+    #	Projects/Gameserver/Entities/WorldActor.h
+    #	Projects/Gameserver/Misc/GetFunc.cpp
+    #	Projects/Gameserver/Packets/RequestCharacterLogin.cpp
+
+commit 58fce49cea6e2cabbe1ca239f574861eaa7e8b01
+Author: Amber Ehrlich &lt;miuna.oshino@gmail.com&gt;
+Date:   Fri Jan 24 10:11:39 2025 -0500
+
+    Dep: Update MythSharedLibrary
+
+commit 6619002395278045bcf6a382c72da12421127eda
+Author: Amber Ehrlich &lt;miuna.oshino@gmail.com&gt;
+Date:   Wed Jan 22 13:49:45 2025 -0500
+
+    Dep: Fix MythSharedLibrary ref
+
+commit 6697f0de8b6b4a8991ed9b3b5eead8f3784b9988
+Author: Amber Ehrlich &lt;miuna.oshino@gmail.com&gt;
+Date:   Wed Jan 22 13:48:03 2025 -0500
+
+    Game/Map: Maybe fix bad iterator access when moving between map cells
+
+commit a6a2dc2e06b42c6548d05c025d77d8e16f659a0b
+Merge: ebc01fba a35968d9
+Author: Amber Ehrlich &lt;miuna.oshino@gmail.com&gt;
+Date:   Mon Jan 20 13:29:51 2025 -0500
+
+    Merge branch 'experimental' into floatpos
+
+commit ebc01fbae11a5e5cc62dc322564221c73fac54e0
+Merge: 44498074 356eeeb3
+Author: Amber Ehrlich &lt;miuna.oshino@gmail.com&gt;
+Date:   Mon Jan 20 13:23:05 2025 -0500
+
+    Merge branch 'experimental' into floatpos
+
+commit 444980740de50adeae983785827e45c678bb8a83
+Merge: db84fc2e 2b43b0b4
+Author: Amber Ehrlich &lt;miuna.oshino@gmail.com&gt;
+Date:   Fri Jan 17 12:52:29 2025 -0500
+
+    Merge branch 'experimental' into floatpos
+
+commit db84fc2ea4380444f00431e6fce441a191b9b234
+Author: Amber Ehrlich &lt;miuna.oshino@gmail.com&gt;
+Date:   Fri Jan 17 12:12:49 2025 -0500
+
+    Dep: Update MythSharedLibrary
+
+commit f71a0cb4dc99b30bc114473fae4c4ce7c8cf2f79
+Merge: 5d1dafce c8ac0c66
+Author: Amber Ehrlich &lt;miuna.oshino@gmail.com&gt;
+Date:   Fri Jan 17 12:07:32 2025 -0500
+
+    Merge branch 'experimental' into floatpos
+
+    # Conflicts:
+    #	Projects/Gameserver/Entities/MapObjectsManager.cpp
+    #	Projects/Gameserver/Map/Cell.cpp
+    #	Projects/Gameserver/Map/Cell.h
+    #	Projects/Gameserver/Packets/RequestAdminCommand.cpp
+    #	Projects/Gameserver/Packets/RequestCharacterLogin.cpp
+    #	Projects/MythSharedLibrary
+
+commit 5d1dafce47c29b875d4439c36944aa4b7cc2e462
+Author: Amber Ehrlich &lt;miuna.oshino@gmail.com&gt;
+Date:   Fri Jan 10 17:58:13 2025 -0500
+
+    Dep: Update plf_colony
+
+commit 5630b92efdd5a3888f824182f8adc08a0087b22d
+Author: Amber Ehrlich &lt;miuna.oshino@gmail.com&gt;
+Date:   Fri Jan 10 17:55:20 2025 -0500
+
+    Net/Movement: Hardcode SMSG_MoveSpline::ForcedAnim to ECHAR_MOTION::NONE.
+
+commit c4e4862d183124c4b4c4ebf1cd6f7a89704e0249
+Author: Amber Ehrlich &lt;miuna.oshino@gmail.com&gt;
+Date:   Fri Jan 10 17:19:10 2025 -0500
+
+    Dep: Update MythSharedLibrary
+
+commit 9b0560eef17d5d2b08e39d3f5c132a64f9486b46
+Author: Amber Ehrlich &lt;miuna.oshino@gmail.com&gt;
+Date:   Fri Jan 10 17:12:05 2025 -0500
+
+    Net/Movement: Send spline point interpolation
+
+commit b3ee354621846fade4a557d29af630696ffc2c57
+Merge: 5a4ee538 ad705a84
+Author: Amber Ehrlich &lt;miuna.oshino@gmail.com&gt;
+Date:   Fri Jan 10 16:03:52 2025 -0500
+
+    Merge branch 'experimental' into floatpos
+
+commit 5a4ee53868281e7d426075aca105f75182eab94f
+Author: Amber Ehrlich &lt;miuna.oshino@gmail.com&gt;
+Date:   Wed Jan 8 17:34:44 2025 -0500
+
+    Game/Entities: Change all the positions to floats... A lot of those need to be reviewed / unified</div>
                                     </div>
                                 </div>
-                                <div class="timestamp">5 Feb 2025, 10:25:25</div>
+                                <div class="timestamp">6 Feb 2025, 11:51:09</div>
                             </section>
                         </div>
                         <div class="row fill-width">
@@ -195,18 +391,18 @@
                                         <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
                                     </svg>
                                     <div class="content">
-                                        Pushed 1 commit in
+                                        Pushed 3 commits in
                                         <span class="repo">Myth-Games/MythServerSource</span>
                                     </div>
                                 </div>
                                 <div class="details">
                                     <div>on branch <span class="code">floatpos</span></div>
                                     <div class="commit">
-                                        <div class="sha">#c91517c</div>
-                                        <div class="message">Game/Movement: Reset facing mode for a movement spline without facing</div>
+                                        <div class="sha">#531365c</div>
+                                        <div class="message">Merge branch 'experimental' into floatpos</div>
                                     </div>
                                 </div>
-                                <div class="timestamp">5 Feb 2025, 09:30:50</div>
+                                <div class="timestamp">6 Feb 2025, 11:49:20</div>
                             </section>
                         </div>
                         <div class="row fill-width">
@@ -221,59 +417,82 @@
                                     </div>
                                 </div>
                                 <div class="details">
-                                    <div>on branch <span class="code">floatpos</span></div>
+                                    <div>on branch <span class="code">experimental</span></div>
                                     <div class="commit">
-                                        <div class="sha">#9301e82</div>
-                                        <div class="message">Disable implicit conversions on st_FacingArgs::operator=</div>
-                                    </div>
-                                </div>
-                                <div class="timestamp">5 Feb 2025, 09:29:36</div>
-                            </section>
-                        </div>
-                        <div class="row fill-width">
-                            <section class="activity">
-                                <div class="field">
-                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
-                                    </svg>
-                                    <div class="content">
-                                        Pushed 1 commit in
-                                        <span class="repo">Myth-Games/MythServerSource</span>
-                                    </div>
-                                </div>
-                                <div class="details">
-                                    <div>on branch <span class="code">floatpos</span></div>
-                                    <div class="commit">
-                                        <div class="sha">#39f3c64</div>
-                                        <div class="message">Game/Combat: Quick fix for read-after-free of attack events</div>
-                                    </div>
-                                </div>
-                                <div class="timestamp">5 Feb 2025, 08:57:46</div>
-                            </section>
-                        </div>
-                        <div class="row fill-width">
-                            <section class="activity">
-                                <div class="field">
-                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
-                                    </svg>
-                                    <div class="content">
-                                        Pushed 20 commits in
-                                        <span class="repo">Myth-Games/MythServerSource</span>
-                                    </div>
-                                </div>
-                                <div class="details">
-                                    <div>on branch <span class="code">floatpos</span></div>
-                                    <div class="commit">
-                                        <div class="sha">#9d7945e</div>
-                                        <div class="message">Merge branch 'experimental' into floatpos
+                                        <div class="sha">#af54c1d</div>
+                                        <div class="message">Float positions 🚀 (#2)
 
-# Conflicts:
-#	Projects/Gameserver/Character/ActionSlots.h
-#	Projects/MythSharedLibrary</div>
+* Bring WorldPosition &amp; WorldCoordinates from ServerLibrary, &amp; change to float
+
+* Change SMSG_MoveSpline::CurrentPoint to a float
+
+* Move WorldPosition.h to the `Game` folder
+
+* Sneak EntityUUID into SMSG_CreateMob 👀
+
+* Remove Affects from SMSG_CreateMob, rename SMSG_CreateMob::st_PlayerData &amp; company
+
+* Use EntityUUID in st_FacingArgs, removing the need for the template argument.
+
+* Change Speed &amp; AttackRange attributes to float
+
+* Fix warnings
+
+* ...Fix comments
+
+* Fix warning on clang
+
+* Add EntityUUID.cpp to project
+
+* Add Math::Tuple3 constructors from tuple-like &amp; sized ranges
+
+* Disable implicit conversions on st_FacingArgs::operator=
+
+---------
+
+Co-authored-by: Cooler &lt;ivan@apus-software.com&gt;</div>
                                     </div>
                                 </div>
-                                <div class="timestamp">5 Feb 2025, 08:29:01</div>
+                                <div class="timestamp">6 Feb 2025, 11:47:55</div>
+                            </section>
+                        </div>
+                        <div class="row fill-width">
+                            <section class="activity">
+                                <div class="field">
+                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+                                        <path fill-rule="evenodd" d="M7.177 3.073L9.573.677A.25.25 0 0110 .854v4.792a.25.25 0 01-.427.177L7.177 3.427a.25.25 0 010-.354zM3.75 2.5a.75.75 0 100 1.5.75.75 0 000-1.5zm-2.25.75a2.25 2.25 0 113 2.122v5.256a2.251 2.251 0 11-1.5 0V5.372A2.25 2.25 0 011.5 3.25zM11 2.5h-1V4h1a1 1 0 011 1v5.628a2.251 2.251 0 101.5 0V5A2.5 2.5 0 0011 2.5zm1 10.25a.75.75 0 111.5 0 .75.75 0 01-1.5 0zM3.75 12a.75.75 0 100 1.5.75.75 0 000-1.5z"/>
+                                    </svg>
+                                    <div class="content">
+                                        Merged
+                                        <span class="issue">#2 Float positions</span>
+                                    </div>
+                                </div>
+                                <div class="details">
+                                    <div> in <span class="repo">Myth-Games/MythSharedLibrary</span></div>
+                                    <div>16 files changed <span class="code">++640 --286</span></div>
+                                </div>
+                                <div class="timestamp">6 Feb 2025, 11:47:54</div>
+                            </section>
+                        </div>
+                        <div class="row fill-width">
+                            <section class="activity">
+                                <div class="field">
+                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
+                                    </svg>
+                                    <div class="content">
+                                        Pushed 2 commits in
+                                        <span class="repo">Myth-Games/MythSharedLibrary</span>
+                                    </div>
+                                </div>
+                                <div class="details">
+                                    <div>on branch <span class="code">floatpos</span></div>
+                                    <div class="commit">
+                                        <div class="sha">#d453527</div>
+                                        <div class="message">Merge branch 'experimental' into floatpos</div>
+                                    </div>
+                                </div>
+                                <div class="timestamp">6 Feb 2025, 11:45:30</div>
                             </section>
                         </div>
                     </section>
