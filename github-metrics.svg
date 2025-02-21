@@ -1,8 +1,8 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="480" height="683" class="">
+<svg xmlns="http://www.w3.org/2000/svg" width="480" height="1612" class="">
     <defs>
         <style/>
     </defs>
-    <style>@keyframes animation-gauge{0%{stroke-dasharray:0 329}}@keyframes animation-rainbow{0%,to{color:#7f00ff;fill:#7f00ff}14%{color:#a933ff;fill:#a933ff}29%{color:#007fff;fill:#007fff}43%{color:#00ff7f;fill:#00ff7f}57%{color:#ff0;fill:#ff0}71%{color:#ff7f00;fill:#ff7f00}86%{color:red;fill:red}}svg{font-family:-apple-system,BlinkMacSystemFont,Segoe UI,Helvetica,Arial,sans-serif,Apple Color Emoji,Segoe UI Emoji;font-size:14px;color:#777}h1,h2,h3{margin:8px 0 2px;padding:0;color:#0366d6}h1{font-size:20px;font-weight:700}h2,h3{font-weight:400}h1 svg,h2 svg,h3 svg{fill:currentColor}h2{font-size:16px}h3{font-size:14px}section&gt;.field{margin-left:5px;margin-right:5px}.field{display:flex;align-items:center;margin-bottom:2px;white-space:nowrap}.field svg{margin:0 8px;fill:#959da5;flex-shrink:0}.row{display:flex;flex-wrap:wrap}.row section{flex:1 1 0}.column{display:flex;flex-direction:column;align-items:center}.no-wrap{white-space:nowrap}#metrics-end,.fill-width{width:100%}.no-margin-top{margin-top:0}.avatar{border-radius:50%;margin:0 6px}.calendar.field{margin:4px 0 4px 7px}.calendar .day{outline:1px solid rgba(27,31,35,.04);outline-offset:-1px}svg.bar{margin:4px 0}.followup.legend{font-size:12px;flex-wrap:wrap}.followup.legend .field{width:46%;justify-content:flex-start;margin-left:8px}.followup.legend svg{margin:0 3px;width:14px;height:14px}.followup.legend svg:first-child{margin-left:0}.followup.legend svg:last-child{margin-right:0}.followup-title{white-space:initial}.activity{margin-bottom:12px}.activity .field{width:100%;overflow:hidden;text-overflow:ellipsis;max-width:450px;white-space:nowrap;margin-bottom:0}.activity .field .content{flex-grow:1;text-overflow:ellipsis;overflow:hidden}.activity .commit .sha,.activity .issue,.activity .repo{display:inline;color:#58a6ff}.activity .code,span.code{background-color:#7777771f;padding:1px 5px;font-size:80%;border-radius:6px;color:#777;font-family:SFMono-Regular,Consolas,Liberation Mono,Menlo,monospace;margin:0 4px -3px}.activity .details,.activity .timestamp{padding-left:38px;display:flex;flex-direction:column;font-size:13px;color:#666}.activity .timestamp{font-size:10px;margin-top:4px}.activity .commit{display:flex;align-items:center}.activity .commit .sha,code{font-family:SFMono-Regular,Consolas,Liberation Mono,Menlo,monospace}.activity .commit .sha{margin-right:4px}.activity .commit .message{overflow:hidden;text-overflow:ellipsis;width:360px;white-space:nowrap}.activity .details&gt;.comment{overflow:hidden;text-overflow:ellipsis;display:block;width:420px;margin-top:6px;border-left:3px solid #777777b2;padding-left:6px;display:-webkit-box;-webkit-line-clamp:2;-webkit-box-orient:vertical}svg.calendar{margin-left:13px;margin-top:4px}code{background-color:#7777771f;display:inline-block;border-radius:6px;color:#777;padding:1px 5px;font-size:80%}:root{--color-calendar-graph-day-bg:#ebedf0;--color-calendar-graph-day-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L1-bg:#9be9a8;--color-calendar-graph-day-L2-bg:#40c463;--color-calendar-graph-day-L3-bg:#30a14e;--color-calendar-graph-day-L4-bg:#216e39;--color-calendar-halloween-graph-day-L1-bg:#ffee4a;--color-calendar-halloween-graph-day-L2-bg:#ffc501;--color-calendar-halloween-graph-day-L3-bg:#fe9600;--color-calendar-halloween-graph-day-L4-bg:#03001c;--color-calendar-winter-graph-day-L1-bg:#0a3069;--color-calendar-winter-graph-day-L2-bg:#0969da;--color-calendar-winter-graph-day-L3-bg:#54aeff;--color-calendar-winter-graph-day-L4-bg:#b6e3ff;--color-calendar-graph-day-L4-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L3-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L2-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L1-border:rgba(27,31,35,0.06)}</style>
+    <style>@keyframes animation-gauge{0%{stroke-dasharray:0 329}}@keyframes animation-rainbow{0%,to{color:#7f00ff;fill:#7f00ff}14%{color:#a933ff;fill:#a933ff}29%{color:#007fff;fill:#007fff}43%{color:#00ff7f;fill:#00ff7f}57%{color:#ff0;fill:#ff0}71%{color:#ff7f00;fill:#ff7f00}86%{color:red;fill:red}}svg{font-family:-apple-system,BlinkMacSystemFont,Segoe UI,Helvetica,Arial,sans-serif,Apple Color Emoji,Segoe UI Emoji;font-size:14px;color:#777}h1,h2,h3{margin:8px 0 2px;padding:0;color:#0366d6}h1{font-size:20px;font-weight:700}h2,h3{font-weight:400}h1 svg,h2 svg,h3 svg{fill:currentColor}h2{font-size:16px}h3{font-size:14px}section&gt;.field{margin-left:5px;margin-right:5px}.field{display:flex;align-items:center;margin-bottom:2px;white-space:nowrap}.field svg{margin:0 8px;fill:#959da5;flex-shrink:0}.field.error{color:#cb2431}.field.error svg{fill:#cb2431}.field.warning{color:#d79533}.field.warning svg{fill:#d79533}.row{display:flex;flex-wrap:wrap}.row section{flex:1 1 0}.column{display:flex;flex-direction:column;align-items:center}.no-wrap{white-space:nowrap}#metrics-end,.fill-width{width:100%}.no-margin-top{margin-top:0}.avatar{border-radius:50%;margin:0 6px}.calendar.field{margin:4px 0 4px 7px}.calendar .day{outline:1px solid rgba(27,31,35,.04);outline-offset:-1px}svg.bar{margin:4px 0}.followup.legend{font-size:12px;flex-wrap:wrap}.followup.legend .field{width:46%;justify-content:flex-start;margin-left:8px}.followup.legend svg{margin:0 3px;width:14px;height:14px}.followup.legend svg:first-child{margin-left:0}.followup.legend svg:last-child{margin-right:0}.followup-title{white-space:initial}.activity{margin-bottom:12px}.activity .field{width:100%;overflow:hidden;text-overflow:ellipsis;max-width:450px;white-space:nowrap;margin-bottom:0}.activity .field .content{flex-grow:1;text-overflow:ellipsis;overflow:hidden}.activity .commit .sha,.activity .repo{display:inline;color:#58a6ff}.activity .code,span.code{background-color:#7777771f;padding:1px 5px;font-size:80%;border-radius:6px;color:#777;font-family:SFMono-Regular,Consolas,Liberation Mono,Menlo,monospace;margin:0 4px -3px}.activity .details,.activity .timestamp{padding-left:38px;display:flex;flex-direction:column;font-size:13px;color:#666}.activity .timestamp{font-size:10px;margin-top:4px}.activity .commit{display:flex;align-items:center}.activity .commit .sha,code{font-family:SFMono-Regular,Consolas,Liberation Mono,Menlo,monospace}.activity .commit .sha{margin-right:4px}.activity .commit .message{overflow:hidden;text-overflow:ellipsis;width:360px;white-space:nowrap}svg.calendar{margin-left:13px;margin-top:4px}.added{color:#3fb950}code{background-color:#7777771f;display:inline-block;border-radius:6px;color:#777;padding:1px 5px;font-size:80%}:root{--color-calendar-graph-day-bg:#ebedf0;--color-calendar-graph-day-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L1-bg:#9be9a8;--color-calendar-graph-day-L2-bg:#40c463;--color-calendar-graph-day-L3-bg:#30a14e;--color-calendar-graph-day-L4-bg:#216e39;--color-calendar-halloween-graph-day-L1-bg:#ffee4a;--color-calendar-halloween-graph-day-L2-bg:#ffc501;--color-calendar-halloween-graph-day-L3-bg:#fe9600;--color-calendar-halloween-graph-day-L4-bg:#03001c;--color-calendar-winter-graph-day-L1-bg:#0a3069;--color-calendar-winter-graph-day-L2-bg:#0969da;--color-calendar-winter-graph-day-L3-bg:#54aeff;--color-calendar-winter-graph-day-L4-bg:#b6e3ff;--color-calendar-graph-day-L4-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L3-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L2-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L1-border:rgba(27,31,35,0.06)}</style>
     <style/>
     <foreignObject x="0" y="0" width="100%" height="100%">
         <div xmlns="http://www.w3.org/1999/xhtml" xmlns:xlink="http://www.w3.org/1999/xlink" class="items-wrapper">
@@ -171,18 +171,21 @@
                             <section class="activity">
                                 <div class="field">
                                     <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                        <path fill-rule="evenodd" d="M2.75 2.5a.25.25 0 00-.25.25v7.5c0 .138.112.25.25.25h2a.75.75 0 01.75.75v2.19l2.72-2.72a.75.75 0 01.53-.22h4.5a.25.25 0 00.25-.25v-7.5a.25.25 0 00-.25-.25H2.75zM1 2.75C1 1.784 1.784 1 2.75 1h10.5c.966 0 1.75.784 1.75 1.75v7.5A1.75 1.75 0 0113.25 12H9.06l-2.573 2.573A1.457 1.457 0 014 13.543V12H2.75A1.75 1.75 0 011 10.25v-7.5z"/>
+                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
                                     </svg>
                                     <div class="content">
-                                        Commented on
-                                        <span class="issue">#79 Added parsing for clang-cl of BOOST_LEAF_PRETTY_FUNCTION</span>
+                                        Pushed 1 commit in
+                                        <span class="repo">Myth-Games/MythServerSource</span>
                                     </div>
                                 </div>
                                 <div class="details">
-                                    <div>opened by Mishura4 in <span class="repo">boostorg/leaf</span></div>
-                                    <div class="comment">Can't exactly test the older clang style, hopefully it works 🤔</div>
+                                    <div>on branch <span class="code">experimental</span></div>
+                                    <div class="commit">
+                                        <div class="sha">#642daf0</div>
+                                        <div class="message">CD: Fix script submodule push, for next time</div>
+                                    </div>
                                 </div>
-                                <div class="timestamp">20 Feb 2025, 11:42:46</div>
+                                <div class="timestamp">20 Feb 2025, 13:44:26</div>
                             </section>
                         </div>
                         <div class="row fill-width">
@@ -192,38 +195,18 @@
                                         <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
                                     </svg>
                                     <div class="content">
-                                        Pushed 1 commit in
-                                        <span class="repo">Mishura4/leaf</span>
+                                        Pushed 15 commits in
+                                        <span class="repo">Myth-Games/MythSharedLibrary</span>
                                     </div>
                                 </div>
                                 <div class="details">
-                                    <div>on branch <span class="code">develop</span></div>
+                                    <div>on branch <span class="code">dev</span></div>
                                     <div class="commit">
-                                        <div class="sha">#1a2fd64</div>
-                                        <div class="message">Add old clang style to clang-cl type parsing
-
-Co-authored-by: Emil Dotchevski &lt;emildotchevski@gmail.com&gt;</div>
+                                        <div class="sha">#a28d204</div>
+                                        <div class="message">Merge branch 'experimental' into dev</div>
                                     </div>
                                 </div>
-                                <div class="timestamp">20 Feb 2025, 11:41:44</div>
-                            </section>
-                        </div>
-                        <div class="row fill-width">
-                            <section class="activity">
-                                <div class="field">
-                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                        <path fill-rule="evenodd" d="M2.75 2.5a.25.25 0 00-.25.25v7.5c0 .138.112.25.25.25h2a.75.75 0 01.75.75v2.19l2.72-2.72a.75.75 0 01.53-.22h4.5a.25.25 0 00.25-.25v-7.5a.25.25 0 00-.25-.25H2.75zM1 2.75C1 1.784 1.784 1 2.75 1h10.5c.966 0 1.75.784 1.75 1.75v7.5A1.75 1.75 0 0113.25 12H9.06l-2.573 2.573A1.457 1.457 0 014 13.543V12H2.75A1.75 1.75 0 011 10.25v-7.5z"/>
-                                    </svg>
-                                    <div class="content">
-                                        Commented on
-                                        <span class="issue">#79 Added parsing for clang-cl of BOOST_LEAF_PRETTY_FUNCTION</span>
-                                    </div>
-                                </div>
-                                <div class="details">
-                                    <div>opened by Mishura4 in <span class="repo">boostorg/leaf</span></div>
-                                    <div class="comment">Done</div>
-                                </div>
-                                <div class="timestamp">20 Feb 2025, 11:37:10</div>
+                                <div class="timestamp">20 Feb 2025, 13:37:48</div>
                             </section>
                         </div>
                         <div class="row fill-width">
@@ -233,38 +216,524 @@ Co-authored-by: Emil Dotchevski &lt;emildotchevski@gmail.com&gt;</div>
                                         <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
                                     </svg>
                                     <div class="content">
-                                        Pushed 1 commit in
-                                        <span class="repo">Mishura4/leaf</span>
+                                        Pushed 79 commits in
+                                        <span class="repo">Myth-Games/MythSharedLibrary</span>
                                     </div>
                                 </div>
                                 <div class="details">
-                                    <div>on branch <span class="code">develop</span></div>
+                                    <div>on branch <span class="code">stable</span></div>
                                     <div class="commit">
-                                        <div class="sha">#137289e</div>
-                                        <div class="message">Add old clang style to clang-cl type parsing
+                                        <div class="sha">#e0eacee</div>
+                                        <div class="message">Reapply tidying up of st_Item</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#37d53aa</div>
+                                        <div class="message">Quick &amp; dirty fix to server build</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#b0633e7</div>
+                                        <div class="message">Reapply "Add st_Body &amp; rearrange st_Item"
 
-Co-authored-by: Emil Dotchevski &lt;emildotchevski@gmail.com&gt;</div>
+This reverts commit 1c0ee9afa1c3eeb421a87f625ade633468a2547b.</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#9fb3d50</div>
+                                        <div class="message">Reapply "Rename motions"
+
+This reverts commit b1ccbd9c9f958c7621c7f922d3c2d7080b5923dc.</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#4775e59</div>
+                                        <div class="message">Merge branch 'experimental' into body-struct</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#d8a5c29</div>
+                                        <div class="message">Fix client build</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#6a840db</div>
+                                        <div class="message">Add EF_MOUNTFEED</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#b1ccbd9</div>
+                                        <div class="message">Revert "Rename motions"
+
+This reverts commit a663cdf1dff001e07a5a1b01498b7f038cf0d442.</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#1c0ee9a</div>
+                                        <div class="message">Revert "Add st_Body &amp; rearrange st_Item"
+
+This reverts commit 85fe41785caa3540353c0305dc1d7445b44da979.</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#85fe417</div>
+                                        <div class="message">Add st_Body &amp; rearrange st_Item</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#a663cdf</div>
+                                        <div class="message">Rename motions</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#dcc0ce2</div>
+                                        <div class="message">Add power restore effects &amp; fix loading of affect periodicity</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#e623480</div>
+                                        <div class="message">Adapt Spells loading for the server</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#bd5a22f</div>
+                                        <div class="message">More improvements to st_Item structure.</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#43e4a4e</div>
+                                        <div class="message">Add Math::invlerp</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#7d49a9e</div>
+                                        <div class="message">Fix st_Item structure</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#efd2205</div>
+                                        <div class="message">Add Math::lerp</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#e10eb47</div>
+                                        <div class="message">Merge branch 'dev' into experimental</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#ad0e527</div>
+                                        <div class="message">Merge branch 'dev' of github.com:Myth-Games/MythSharedLibrary into experimental</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#a01bdb8</div>
+                                        <div class="message">Tidy up EquipType and EquipSlot.</div>
                                     </div>
                                 </div>
-                                <div class="timestamp">20 Feb 2025, 11:36:56</div>
+                                <div class="timestamp">20 Feb 2025, 13:37:48</div>
                             </section>
                         </div>
                         <div class="row fill-width">
                             <section class="activity">
                                 <div class="field">
                                     <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                        <path fill-rule="evenodd" d="M2.75 2.5a.25.25 0 00-.25.25v7.5c0 .138.112.25.25.25h2a.75.75 0 01.75.75v2.19l2.72-2.72a.75.75 0 01.53-.22h4.5a.25.25 0 00.25-.25v-7.5a.25.25 0 00-.25-.25H2.75zM1 2.75C1 1.784 1.784 1 2.75 1h10.5c.966 0 1.75.784 1.75 1.75v7.5A1.75 1.75 0 0113.25 12H9.06l-2.573 2.573A1.457 1.457 0 014 13.543V12H2.75A1.75 1.75 0 011 10.25v-7.5z"/>
+                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
                                     </svg>
                                     <div class="content">
-                                        Commented on
-                                        <span class="issue">#114591 [libcxx] cannot build with clang++ --target=x86_64-windows-msvc</span>
+                                        Pushed 44 commits in
+                                        <span class="repo">Myth-Games/MythServerSource</span>
                                     </div>
                                 </div>
                                 <div class="details">
-                                    <div>opened by trcrsired in <span class="repo">llvm/llvm-project</span></div>
-                                    <div class="comment">Sure I'll try to reproduce it &amp; send the log</div>
+                                    <div>on branch <span class="code">stable</span></div>
+                                    <div class="commit">
+                                        <div class="sha">#3aaf78a</div>
+                                        <div class="message">Set GodMob to true as default</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#dabd93a</div>
+                                        <div class="message">New zone map file format.</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#0169146</div>
+                                        <div class="message">Remove unwanted warning (for example when no zones file provided).</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#b578b2e</div>
+                                        <div class="message">Align with MythSharedLibrary.</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#1a8ec0c</div>
+                                        <div class="message">Add shutdown logger before rethrowing the IO context exception.</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#9806548</div>
+                                        <div class="message">Add zone inheritance lookup.</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#739569a</div>
+                                        <div class="message">Add important note for the future me.</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#ae787d6</div>
+                                        <div class="message">New zones implementation.
+
+Squashed commit of the following:
+
+commit da5a22e0fae2efa2e612cd4d535bc41ce9cad7af
+Author: Dariusz Staniak &lt;dstaniak@gmail.com&gt;
+Date:   Wed Jan 29 16:43:55 2025 +0100
+
+    Send update zone when player is added to the world.
+
+commit 4e3e1aab17c48ce93fd1cafdce43702748e9114f
+Author: Dariusz Staniak &lt;dstaniak@gmail.com&gt;
+Date:   Wed Jan 29 16:08:06 2025 +0100
+
+    Ajdust bit shift calculator method name.
+
+commit a95575f37d66c0d286dfd037de2f1316fe4ce616
+Author: Dariusz Staniak &lt;dstaniak@gmail.com&gt;
+Date:   Wed Jan 29 16:03:03 2025 +0100
+
+    Fix bit shift divisor calculation.
+
+commit 3b6f9377bb92d05b13159a5660fbbc0deaa4b5ed
+Author: Dariusz Staniak &lt;dstaniak@gmail.com&gt;
+Date:   Wed Jan 29 07:27:54 2025 +0100
+
+    New zones implementation in Zones class.
+
+commit b5c0d752111505ce6b8676ed53e4f20788731c26
+Author: Dariusz Staniak &lt;dstaniak@gmail.com&gt;
+Date:   Tue Jan 28 19:55:35 2025 +0100
+
+    Loading zone map file.</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#ec01b50</div>
+                                        <div class="message">Build: Fix a LOT of include errors without PCH</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#165357a</div>
+                                        <div class="message">Change zone id to uint64.</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#1e3f038</div>
+                                        <div class="message">Build: Workaround boost.leaf incompatibility with clang-cl</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#5a5b6c1</div>
+                                        <div class="message">[FIXME] Core: rethrow exceptions from IoContext. This should cause a hard crash instead of having servers stall &amp; stop responding</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#17a28c3</div>
+                                        <div class="message">Change gridzone id to uint.</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#b7914a6</div>
+                                        <div class="message">Body from JSON to INT fields</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#14cc46a</div>
+                                        <div class="message">Really fix my grid zones f*up</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#ff2c324</div>
+                                        <div class="message">Fix my grid zones f*up.</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#b12684c</div>
+                                        <div class="message">Expand GridZones table.</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#c36ff8a</div>
+                                        <div class="message">Add string list generator and generated values.</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#90c8e7f</div>
+                                        <div class="message">Extend SMSG_MissionStatus by string id.</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#2a39804</div>
+                                        <div class="message">[skip ci] DB: Fix migration 247</div>
+                                    </div>
                                 </div>
-                                <div class="timestamp">20 Feb 2025, 01:29:45</div>
+                                <div class="timestamp">20 Feb 2025, 13:35:05</div>
+                            </section>
+                        </div>
+                        <div class="row fill-width">
+                            <section class="activity">
+                                <div class="field">
+                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
+                                    </svg>
+                                    <div class="content">
+                                        Pushed 81 commits in
+                                        <span class="repo">Myth-Games/MythServerSource</span>
+                                    </div>
+                                </div>
+                                <div class="details">
+                                    <div>on branch <span class="code">dev</span></div>
+                                    <div class="commit">
+                                        <div class="sha">#d875893</div>
+                                        <div class="message">Step back with static query generation.</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#c2d4277</div>
+                                        <div class="message">WIP Working on static queries</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#24866de</div>
+                                        <div class="message">Fix connection ownership.</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#928a655</div>
+                                        <div class="message">Session/Movement: Clarify error for spline points</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#42195a3</div>
+                                        <div class="message">Merge branch 'stable' into experimental</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#c639750</div>
+                                        <div class="message">Dep: Update plf_colony</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#794dfae</div>
+                                        <div class="message">Util: Add an option to push in merge-branches.bat</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#32a5c81</div>
+                                        <div class="message">Util: Add a script to easily merge the stable &lt;= dev &lt;= experimental</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#79b14c4</div>
+                                        <div class="message">Low level functions done.</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#5f9dfde</div>
+                                        <div class="message">Forgot mutable :)</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#4cf229b</div>
+                                        <div class="message">Ooops, not working connection std::move...</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#2207a63</div>
+                                        <div class="message">Rename boost:: to aliased names.</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#8fe89a3</div>
+                                        <div class="message">All basic functions in place &lt;BETA&gt;.</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#d115a0d</div>
+                                        <div class="message">Float positions 🚀 (#34)
+
+Squashed commit of the following:
+
+commit 531365c1e5fcaee67b5aa92bcffba307a3983803
+Merge: c91517ce f372a748
+Author: Amber Ehrlich &lt;miuna.oshino@gmail.com&gt;
+Date:   Thu Feb 6 11:49:12 2025 -0500
+
+    Merge branch 'experimental' into floatpos
+
+commit c91517ce208a1dda1c0be523f8ea7369f685c01d
+Author: Amber Ehrlich &lt;miuna.oshino@gmail.com&gt;
+Date:   Wed Feb 5 09:30:45 2025 -0500
+
+    Game/Movement: Reset facing mode for a movement spline without facing
+
+commit 39f3c64bf26a8f9ea2d7227626a1a196b896804b
+Author: Amber Ehrlich &lt;miuna.oshino@gmail.com&gt;
+Date:   Wed Feb 5 08:57:36 2025 -0500
+
+    Game/Combat: Quick fix for read-after-free of attack events
+
+commit 9d7945ee3a78d468b2bc90ef68a6017b09d25f42
+Merge: 2ff6e4c9 f336fc9d
+Author: Amber Ehrlich &lt;miuna.oshino@gmail.com&gt;
+Date:   Wed Feb 5 08:28:56 2025 -0500
+
+    Merge branch 'experimental' into floatpos
+
+    # Conflicts:
+    #	Projects/Gameserver/Character/ActionSlots.h
+    #	Projects/MythSharedLibrary
+
+commit 2ff6e4c941757885ccb1d1706d84e8c50fc43706
+Author: Mishura4 &lt;miuna.oshino@gmail.com&gt;
+Date:   Thu Jan 30 17:22:28 2025 +0000
+
+    Util/DenseSet: Workaround std::ranges::const_iterator_t missing in libc++
+
+commit 6f4de6aec3a606498b1a0bc9f8530f9e30e34f5e
+Merge: 3a642b00 30df8110
+Author: Amber Ehrlich &lt;miuna.oshino@gmail.com&gt;
+Date:   Thu Jan 30 12:07:30 2025 -0500
+
+    Merge branch 'experimental' into floatpos
+
+commit 3a642b0032f42229164b315990a2bef83c70c90f
+Author: Mishura4 &lt;miuna.oshino@gmail.com&gt;
+Date:   Fri Jan 24 22:08:27 2025 +0000
+
+    [skip ci] DB: Fix migration 247
+
+commit 2d40bc913be788527ff840c3466cf9c68d0b1fa4
+Merge: 2d70fc56 c4a73c82
+Author: Amber Ehrlich &lt;miuna.oshino@gmail.com&gt;
+Date:   Fri Jan 24 16:59:08 2025 -0500
+
+    Merge branch 'experimental' into floatpos
+
+    # Conflicts:
+    #	Projects/Gameserver/Packets/RequestTeleport.cpp
+    #	Projects/MythSharedLibrary
+
+commit 2d70fc56566874faa2d761bdc738606416c1be90
+Author: Amber Ehrlich &lt;miuna.oshino@gmail.com&gt;
+Date:   Fri Jan 24 16:57:10 2025 -0500
+
+    Game/Movement: Fix SendMoveSpline coordinates
+
+commit 9a42c3d879af99e7a538601fe989fc323fb66940
+Author: Mishura4 &lt;miuna.oshino@gmail.com&gt;
+Date:   Fri Jan 24 21:56:36 2025 +0000
+
+    Game/Movement: Fix RequestMoveSpline error format
+
+commit 171ca8f109024270f13a25ce0b423fa7e1405cdb
+Author: Amber Ehrlich &lt;miuna.oshino@gmail.com&gt;
+Date:   Fri Jan 24 16:31:34 2025 -0500
+
+    Game/Movement: Fix uses of st_Coordinates in RequestMoveSpline
+
+commit 55e955f3af728b2a131fc3a56b774f3ce825ce51
+Merge: 4bf200e8 4d86e8ee
+Author: Mishura4 &lt;miuna.oshino@gmail.com&gt;
+Date:   Fri Jan 24 16:15:22 2025 +0000
+
+    Merge branch 'experimental' into floatpos
+
+commit 4bf200e8b55573e4b0c1f45cf22a98b157da07e0
+Merge: 66190023 58fce49c
+Author: Amber Ehrlich &lt;miuna.oshino@gmail.com&gt;
+Date:   Fri Jan 24 10:48:19 2025 -0500
+
+    Merge branch 'experimental' into floatpos
+
+    # Conflicts:
+    #	Projects/Gameserver/Entities/WorldActor.h
+    #	Projects/Gameserver/Misc/GetFunc.cpp
+    #	Projects/Gameserver/Packets/RequestCharacterLogin.cpp
+
+commit 58fce49cea6e2cabbe1ca239f574861eaa7e8b01
+Author: Amber Ehrlich &lt;miuna.oshino@gmail.com&gt;
+Date:   Fri Jan 24 10:11:39 2025 -0500
+
+    Dep: Update MythSharedLibrary
+
+commit 6619002395278045bcf6a382c72da12421127eda
+Author: Amber Ehrlich &lt;miuna.oshino@gmail.com&gt;
+Date:   Wed Jan 22 13:49:45 2025 -0500
+
+    Dep: Fix MythSharedLibrary ref
+
+commit 6697f0de8b6b4a8991ed9b3b5eead8f3784b9988
+Author: Amber Ehrlich &lt;miuna.oshino@gmail.com&gt;
+Date:   Wed Jan 22 13:48:03 2025 -0500
+
+    Game/Map: Maybe fix bad iterator access when moving between map cells
+
+commit a6a2dc2e06b42c6548d05c025d77d8e16f659a0b
+Merge: ebc01fba a35968d9
+Author: Amber Ehrlich &lt;miuna.oshino@gmail.com&gt;
+Date:   Mon Jan 20 13:29:51 2025 -0500
+
+    Merge branch 'experimental' into floatpos
+
+commit ebc01fbae11a5e5cc62dc322564221c73fac54e0
+Merge: 44498074 356eeeb3
+Author: Amber Ehrlich &lt;miuna.oshino@gmail.com&gt;
+Date:   Mon Jan 20 13:23:05 2025 -0500
+
+    Merge branch 'experimental' into floatpos
+
+commit 444980740de50adeae983785827e45c678bb8a83
+Merge: db84fc2e 2b43b0b4
+Author: Amber Ehrlich &lt;miuna.oshino@gmail.com&gt;
+Date:   Fri Jan 17 12:52:29 2025 -0500
+
+    Merge branch 'experimental' into floatpos
+
+commit db84fc2ea4380444f00431e6fce441a191b9b234
+Author: Amber Ehrlich &lt;miuna.oshino@gmail.com&gt;
+Date:   Fri Jan 17 12:12:49 2025 -0500
+
+    Dep: Update MythSharedLibrary
+
+commit f71a0cb4dc99b30bc114473fae4c4ce7c8cf2f79
+Merge: 5d1dafce c8ac0c66
+Author: Amber Ehrlich &lt;miuna.oshino@gmail.com&gt;
+Date:   Fri Jan 17 12:07:32 2025 -0500
+
+    Merge branch 'experimental' into floatpos
+
+    # Conflicts:
+    #	Projects/Gameserver/Entities/MapObjectsManager.cpp
+    #	Projects/Gameserver/Map/Cell.cpp
+    #	Projects/Gameserver/Map/Cell.h
+    #	Projects/Gameserver/Packets/RequestAdminCommand.cpp
+    #	Projects/Gameserver/Packets/RequestCharacterLogin.cpp
+    #	Projects/MythSharedLibrary
+
+commit 5d1dafce47c29b875d4439c36944aa4b7cc2e462
+Author: Amber Ehrlich &lt;miuna.oshino@gmail.com&gt;
+Date:   Fri Jan 10 17:58:13 2025 -0500
+
+    Dep: Update plf_colony
+
+commit 5630b92efdd5a3888f824182f8adc08a0087b22d
+Author: Amber Ehrlich &lt;miuna.oshino@gmail.com&gt;
+Date:   Fri Jan 10 17:55:20 2025 -0500
+
+    Net/Movement: Hardcode SMSG_MoveSpline::ForcedAnim to ECHAR_MOTION::NONE.
+
+commit c4e4862d183124c4b4c4ebf1cd6f7a89704e0249
+Author: Amber Ehrlich &lt;miuna.oshino@gmail.com&gt;
+Date:   Fri Jan 10 17:19:10 2025 -0500
+
+    Dep: Update MythSharedLibrary
+
+commit 9b0560eef17d5d2b08e39d3f5c132a64f9486b46
+Author: Amber Ehrlich &lt;miuna.oshino@gmail.com&gt;
+Date:   Fri Jan 10 17:12:05 2025 -0500
+
+    Net/Movement: Send spline point interpolation
+
+commit b3ee354621846fade4a557d29af630696ffc2c57
+Merge: 5a4ee538 ad705a84
+Author: Amber Ehrlich &lt;miuna.oshino@gmail.com&gt;
+Date:   Fri Jan 10 16:03:52 2025 -0500
+
+    Merge branch 'experimental' into floatpos
+
+commit 5a4ee53868281e7d426075aca105f75182eab94f
+Author: Amber Ehrlich &lt;miuna.oshino@gmail.com&gt;
+Date:   Wed Jan 8 17:34:44 2025 -0500
+
+    Game/Entities: Change all the positions to floats... A lot of those need to be reviewed / unified</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#df8c502</div>
+                                        <div class="message">WIP Coroutine db calls done. Error handling for sync done.</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#1d0fb92</div>
+                                        <div class="message">WIP Working on error handling.</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#b5c05c3</div>
+                                        <div class="message">WIP Getting error message from query.</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#40fc866</div>
+                                        <div class="message">WIP Working on wrapping db calls.</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#43ca1c8</div>
+                                        <div class="message">Connection pool is up.</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#532dc5b</div>
+                                        <div class="message">WIP Trying to use connection pool.</div>
+                                    </div>
+                                </div>
+                                <div class="timestamp">20 Feb 2025, 13:35:05</div>
                             </section>
                         </div>
                     </section>
