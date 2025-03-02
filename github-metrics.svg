@@ -175,17 +175,17 @@
                                     </svg>
                                     <div class="content">
                                         Pushed 1 commit in
-                                        <span class="repo">Myth-Games/MythServerSource</span>
+                                        <span class="repo">DOL-Avalonia/GondwanaServer</span>
                                     </div>
                                 </div>
                                 <div class="details">
-                                    <div>on branch <span class="code">crowdcontrol</span></div>
+                                    <div>on branch <span class="code">master</span></div>
                                     <div class="commit">
-                                        <div class="sha">#5cf568c</div>
-                                        <div class="message">Game/Combat: Send MobState updates in SMSG_MobStatusUpdate</div>
+                                        <div class="sha">#ea887c3</div>
+                                        <div class="message">fix: don't show mock score when out of PvP, improve display when no scores are recorded</div>
                                     </div>
                                 </div>
-                                <div class="timestamp">28 Feb 2025, 17:53:16</div>
+                                <div class="timestamp">1 Mar 2025, 18:30:37</div>
                             </section>
                         </div>
                         <div class="row fill-width">
@@ -196,17 +196,17 @@
                                     </svg>
                                     <div class="content">
                                         Pushed 1 commit in
-                                        <span class="repo">Myth-Games/MythSharedLibrary</span>
+                                        <span class="repo">Mishura4/GondwanaServer</span>
                                     </div>
                                 </div>
                                 <div class="details">
-                                    <div>on branch <span class="code">crowdcontrol</span></div>
+                                    <div>on branch <span class="code">master</span></div>
                                     <div class="commit">
-                                        <div class="sha">#c8c8e93</div>
-                                        <div class="message">Change SMSG_MobStatusUpdate to be a replacement for SMSG_AttributeUpdate</div>
+                                        <div class="sha">#ea887c3</div>
+                                        <div class="message">fix: don't show mock score when out of PvP, improve display when no scores are recorded</div>
                                     </div>
                                 </div>
-                                <div class="timestamp">28 Feb 2025, 17:52:44</div>
+                                <div class="timestamp">1 Mar 2025, 18:30:36</div>
                             </section>
                         </div>
                         <div class="row fill-width">
@@ -217,17 +217,17 @@
                                     </svg>
                                     <div class="content">
                                         Pushed 1 commit in
-                                        <span class="repo">Myth-Games/MythSharedLibrary</span>
+                                        <span class="repo">DOL-Avalonia/GondwanaServer</span>
                                     </div>
                                 </div>
                                 <div class="details">
-                                    <div>on branch <span class="code">crowdcontrol</span></div>
+                                    <div>on branch <span class="code">master</span></div>
                                     <div class="commit">
-                                        <div class="sha">#9a48eb6</div>
-                                        <div class="message">Tidy up packet headers, here goes merge conflicts</div>
+                                        <div class="sha">#a5432c0</div>
+                                        <div class="message">misc: don't display group members' scores in PVP</div>
                                     </div>
                                 </div>
-                                <div class="timestamp">28 Feb 2025, 17:08:33</div>
+                                <div class="timestamp">1 Mar 2025, 18:12:47</div>
                             </section>
                         </div>
                         <div class="row fill-width">
@@ -238,17 +238,17 @@
                                     </svg>
                                     <div class="content">
                                         Pushed 1 commit in
-                                        <span class="repo">Myth-Games/MythSharedLibrary</span>
+                                        <span class="repo">Mishura4/GondwanaServer</span>
                                     </div>
                                 </div>
                                 <div class="details">
-                                    <div>on branch <span class="code">crowdcontrol</span></div>
+                                    <div>on branch <span class="code">master</span></div>
                                     <div class="commit">
-                                        <div class="sha">#4077ec6</div>
-                                        <div class="message">Tidy up packet headers, here goes merge conflicts</div>
+                                        <div class="sha">#a5432c0</div>
+                                        <div class="message">misc: don't display group members' scores in PVP</div>
                                     </div>
                                 </div>
-                                <div class="timestamp">28 Feb 2025, 17:07:55</div>
+                                <div class="timestamp">1 Mar 2025, 18:12:46</div>
                             </section>
                         </div>
                         <div class="row fill-width">
@@ -259,17 +259,17 @@
                                     </svg>
                                     <div class="content">
                                         Pushed 1 commit in
-                                        <span class="repo">Myth-Games/MythServerSource</span>
+                                        <span class="repo">DOL-Avalonia/GondwanaServer</span>
                                     </div>
                                 </div>
                                 <div class="details">
-                                    <div>on branch <span class="code">crowdcontrol</span></div>
+                                    <div>on branch <span class="code">master</span></div>
                                     <div class="commit">
-                                        <div class="sha">#15977ce</div>
-                                        <div class="message">Game/Spells: Implement AuraType::StatusRoot</div>
+                                        <div class="sha">#5d7266d</div>
+                                        <div class="message">fix: fix `/pvp` permissions</div>
                                     </div>
                                 </div>
-                                <div class="timestamp">28 Feb 2025, 15:49:12</div>
+                                <div class="timestamp">1 Mar 2025, 17:37:45</div>
                             </section>
                         </div>
                     </section>
