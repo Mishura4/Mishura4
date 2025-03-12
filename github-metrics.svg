@@ -1,4 +1,4 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="480" height="713" class="">
+<svg xmlns="http://www.w3.org/2000/svg" width="480" height="663" class="">
     <defs>
         <style/>
     </defs>
@@ -174,18 +174,18 @@
                                         <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
                                     </svg>
                                     <div class="content">
-                                        Pushed 2 commits in
-                                        <span class="repo">Myth-Games/MythServerSource</span>
+                                        Pushed 1 commit in
+                                        <span class="repo">Mishura4/shion</span>
                                     </div>
                                 </div>
                                 <div class="details">
-                                    <div>on branch <span class="code">experimental</span></div>
+                                    <div>on branch <span class="code">ci</span></div>
                                     <div class="commit">
-                                        <div class="sha">#4ee72e3</div>
-                                        <div class="message">Merge branch 'combat' into experimental</div>
+                                        <div class="sha">#834cf98</div>
+                                        <div class="message">ci: fix install-cmake</div>
                                     </div>
                                 </div>
-                                <div class="timestamp">11 Mar 2025, 16:25:30</div>
+                                <div class="timestamp">12 Mar 2025, 12:28:12</div>
                             </section>
                         </div>
                         <div class="row fill-width">
@@ -196,50 +196,17 @@
                                     </svg>
                                     <div class="content">
                                         Pushed 1 commit in
-                                        <span class="repo">Myth-Games/MythServerSource</span>
+                                        <span class="repo">Mishura4/shion</span>
                                     </div>
                                 </div>
                                 <div class="details">
-                                    <div>on branch <span class="code">combat</span></div>
+                                    <div>on branch <span class="code">ci</span></div>
                                     <div class="commit">
-                                        <div class="sha">#f3f283a</div>
-                                        <div class="message">Game/Entities: Use AttributeSet for mob update mask</div>
+                                        <div class="sha">#264c68a</div>
+                                        <div class="message">build: fix CMakeLists.txt</div>
                                     </div>
                                 </div>
-                                <div class="timestamp">11 Mar 2025, 16:24:24</div>
-                            </section>
-                        </div>
-                        <div class="row fill-width">
-                            <section class="activity">
-                                <div class="field">
-                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
-                                    </svg>
-                                    <div class="content">
-                                        Pushed 4 commits in
-                                        <span class="repo">Myth-Games/MythSharedLibrary</span>
-                                    </div>
-                                </div>
-                                <div class="details">
-                                    <div>on branch <span class="code">experimental</span></div>
-                                    <div class="commit">
-                                        <div class="sha">#a0204de</div>
-                                        <div class="message">Fix BitSet comparison with nullptr</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#170b210</div>
-                                        <div class="message">Fix type casting</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#e1199a3</div>
-                                        <div class="message">Wrap enum ItemEffect in `Structs` namespace due to name conflict</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#24ad0eb</div>
-                                        <div class="message">Add BitSet &amp; use it for attribute updates</div>
-                                    </div>
-                                </div>
-                                <div class="timestamp">11 Mar 2025, 16:23:56</div>
+                                <div class="timestamp">12 Mar 2025, 12:08:02</div>
                             </section>
                         </div>
                         <div class="row fill-width">
@@ -250,17 +217,17 @@
                                     </svg>
                                     <div class="content">
                                         Pushed 1 commit in
-                                        <span class="repo">Myth-Games/MythSharedLibrary</span>
+                                        <span class="repo">Mishura4/shion</span>
                                     </div>
                                 </div>
                                 <div class="details">
-                                    <div>on branch <span class="code">combat</span></div>
+                                    <div>on branch <span class="code">ci</span></div>
                                     <div class="commit">
-                                        <div class="sha">#a0204de</div>
-                                        <div class="message">Fix BitSet comparison with nullptr</div>
+                                        <div class="sha">#d608135</div>
+                                        <div class="message">fixup! fixup! fixup! fixup! fixup! ci: cmake src path</div>
                                     </div>
                                 </div>
-                                <div class="timestamp">11 Mar 2025, 16:23:45</div>
+                                <div class="timestamp">12 Mar 2025, 11:59:21</div>
                             </section>
                         </div>
                         <div class="row fill-width">
@@ -271,17 +238,38 @@
                                     </svg>
                                     <div class="content">
                                         Pushed 1 commit in
-                                        <span class="repo">Myth-Games/MythServerSource</span>
+                                        <span class="repo">Mishura4/shion</span>
                                     </div>
                                 </div>
                                 <div class="details">
-                                    <div>on branch <span class="code">combat</span></div>
+                                    <div>on branch <span class="code">ci</span></div>
                                     <div class="commit">
-                                        <div class="sha">#521d464</div>
-                                        <div class="message">Game/Entities: Use AttributeSet for mob update mask</div>
+                                        <div class="sha">#4fcc1ac</div>
+                                        <div class="message">fixup! fixup! fixup! fixup! ci: cmake src path</div>
                                     </div>
                                 </div>
-                                <div class="timestamp">11 Mar 2025, 16:10:54</div>
+                                <div class="timestamp">12 Mar 2025, 11:48:47</div>
+                            </section>
+                        </div>
+                        <div class="row fill-width">
+                            <section class="activity">
+                                <div class="field">
+                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
+                                    </svg>
+                                    <div class="content">
+                                        Pushed 1 commit in
+                                        <span class="repo">Mishura4/shion</span>
+                                    </div>
+                                </div>
+                                <div class="details">
+                                    <div>on branch <span class="code">ci</span></div>
+                                    <div class="commit">
+                                        <div class="sha">#e540b29</div>
+                                        <div class="message">fixup! fixup! fixup! ci: cmake src path</div>
+                                    </div>
+                                </div>
+                                <div class="timestamp">12 Mar 2025, 11:44:34</div>
                             </section>
                         </div>
                     </section>
