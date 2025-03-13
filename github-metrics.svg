@@ -31,18 +31,18 @@
                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 210 11" width="210" height="16">
                                 <g>
                                     <rect class="day" x="0" y="0" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
-                                    <rect class="day" x="15" y="0" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
+                                    <rect class="day" x="15" y="0" width="11" height="11" fill="#40c463" rx="2" ry="2"/>
                                     <rect class="day" x="30" y="0" width="11" height="11" fill="#40c463" rx="2" ry="2"/>
-                                    <rect class="day" x="45" y="0" width="11" height="11" fill="#40c463" rx="2" ry="2"/>
+                                    <rect class="day" x="45" y="0" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
                                     <rect class="day" x="60" y="0" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
                                     <rect class="day" x="75" y="0" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
                                     <rect class="day" x="90" y="0" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
                                     <rect class="day" x="105" y="0" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
                                     <rect class="day" x="120" y="0" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
-                                    <rect class="day" x="135" y="0" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
-                                    <rect class="day" x="150" y="0" width="11" height="11" fill="#216e39" rx="2" ry="2"/>
-                                    <rect class="day" x="165" y="0" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
-                                    <rect class="day" x="180" y="0" width="11" height="11" fill="#216e39" rx="2" ry="2"/>
+                                    <rect class="day" x="135" y="0" width="11" height="11" fill="#216e39" rx="2" ry="2"/>
+                                    <rect class="day" x="150" y="0" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
+                                    <rect class="day" x="165" y="0" width="11" height="11" fill="#216e39" rx="2" ry="2"/>
+                                    <rect class="day" x="180" y="0" width="11" height="11" fill="#9be9a8" rx="2" ry="2"/>
                                     <rect class="day" x="195" y="0" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
                                 </g>
                             </svg>
@@ -179,13 +179,123 @@
                                     </div>
                                 </div>
                                 <div class="details">
-                                    <div>on branch <span class="code">ci</span></div>
+                                    <div>on branch <span class="code">main</span></div>
                                     <div class="commit">
-                                        <div class="sha">#834cf98</div>
-                                        <div class="message">ci: fix install-cmake</div>
+                                        <div class="sha">#2535ddc</div>
+                                        <div class="message">build: fix module support
+
+Squashed commit of the following:
+
+commit 1d9d99653270643ccb56516daefdd4e664d9bab7
+Author: Amber Ehrlich &lt;miuna.oshino@gmail.com&gt;
+Date:   Wed Mar 12 14:54:02 2025 -0400
+
+    [skip ci] ci: llvm is 19
+
+commit 0918e1ba903a0a372b7dd6bcfbd870704bb03965
+Author: Amber Ehrlich &lt;miuna.oshino@gmail.com&gt;
+Date:   Wed Mar 12 14:53:05 2025 -0400
+
+    fixup! ci: try disable modules on gcc14
+
+commit 5a9412875db6d7c28415033136a9aa0c00cb0043
+Author: Amber Ehrlich &lt;miuna.oshino@gmail.com&gt;
+Date:   Wed Mar 12 14:51:46 2025 -0400
+
+    ci: try disable modules on gcc14
+
+commit 0a96e03b251ce92ffe63494b6db854e87c93ca6d
+Author: Amber Ehrlich &lt;miuna.oshino@gmail.com&gt;
+Date:   Wed Mar 12 14:39:04 2025 -0400
+
+    ci: fix module support, allegedly
+
+commit 834cf98df8268410892b27af762380bd73a70de5
+Author: Amber Ehrlich &lt;miuna.oshino@gmail.com&gt;
+Date:   Wed Mar 12 12:28:08 2025 -0400
+
+    ci: fix install-cmake
+
+commit 264c68a10292953071bba12be0d1493dc79ac74f
+Author: Amber Ehrlich &lt;miuna.oshino@gmail.com&gt;
+Date:   Wed Mar 12 12:07:57 2025 -0400
+
+    build: fix CMakeLists.txt
+
+commit d60813503d0111bac3544f8a7a078b1d9a1e5a04
+Author: Amber Ehrlich &lt;miuna.oshino@gmail.com&gt;
+Date:   Wed Mar 12 11:59:20 2025 -0400
+
+    fixup! fixup! fixup! fixup! fixup! ci: cmake src path
+
+commit 4fcc1ac7b0a331d49c476e60a38d90eb71baef50
+Author: Amber Ehrlich &lt;miuna.oshino@gmail.com&gt;
+Date:   Wed Mar 12 11:48:46 2025 -0400
+
+    fixup! fixup! fixup! fixup! ci: cmake src path
+
+commit e540b293fac2269058accd0179baf608c7d38850
+Author: Amber Ehrlich &lt;miuna.oshino@gmail.com&gt;
+Date:   Wed Mar 12 11:44:33 2025 -0400
+
+    fixup! fixup! fixup! ci: cmake src path
+
+commit eed04e11f283fbc6b52d4aab6f27ff6f5693112d
+Author: Amber Ehrlich &lt;miuna.oshino@gmail.com&gt;
+Date:   Wed Mar 12 11:36:31 2025 -0400
+
+    fixup! fixup! ci: cmake src path
+
+commit 462c0eff711b540e1a88c027bb434e922a1d4742
+Author: Amber Ehrlich &lt;miuna.oshino@gmail.com&gt;
+Date:   Wed Mar 12 11:35:49 2025 -0400
+
+    fixup! ci: cmake src path
+
+commit d3142d93e7e7b6a4fec0895a2eebdd0525c96464
+Author: Amber Ehrlich &lt;miuna.oshino@gmail.com&gt;
+Date:   Wed Mar 12 11:32:19 2025 -0400
+
+    ci: cmake src path
+
+commit a2f5a2491fa0739506d9ab0e1660719c83b2adf6
+Author: Amber Ehrlich &lt;miuna.oshino@gmail.com&gt;
+Date:   Wed Mar 12 11:29:14 2025 -0400
+
+    ci: run ci on install-cmake change
+
+commit 9c65ee0f2cd22584c255aad3e07ecfbf9d51ad2b
+Author: Amber Ehrlich &lt;miuna.oshino@gmail.com&gt;
+Date:   Wed Mar 12 11:28:13 2025 -0400
+
+    ci: fix install-cmake
+
+commit 86883903063821a9c43ffa5304a397b298ee7e18
+Author: Amber Ehrlich &lt;miuna.oshino@gmail.com&gt;
+Date:   Wed Mar 12 11:26:19 2025 -0400
+
+    ci: build cmake
+
+commit 065c92c1468b02ffe361f7ec52f1496c6d106acb
+Author: Amber Ehrlich &lt;miuna.oshino@gmail.com&gt;
+Date:   Wed Mar 12 11:23:56 2025 -0400
+
+    ci: try building cmake
+
+commit f09a3bbb4a9f797061e4ec1bee634d039d256f2d
+Author: Amber Ehrlich &lt;miuna.oshino@gmail.com&gt;
+Date:   Wed Mar 12 10:54:17 2025 -0400
+
+    ci: test cmake 4.0
+
+commit c90367e92c9938c64466cd2a81383eed21a367c6
+Author: Amber Ehrlich &lt;miuna.oshino@gmail.com&gt;
+Date:   Wed Mar 12 10:52:58 2025 -0400
+
+    ci: test cmake 4.0</div>
                                     </div>
                                 </div>
-                                <div class="timestamp">12 Mar 2025, 12:28:12</div>
+                                <div class="timestamp">12 Mar 2025, 14:58:28</div>
                             </section>
                         </div>
                         <div class="row fill-width">
@@ -202,11 +312,11 @@
                                 <div class="details">
                                     <div>on branch <span class="code">ci</span></div>
                                     <div class="commit">
-                                        <div class="sha">#264c68a</div>
-                                        <div class="message">build: fix CMakeLists.txt</div>
+                                        <div class="sha">#1d9d996</div>
+                                        <div class="message">[skip ci] ci: llvm is 19</div>
                                     </div>
                                 </div>
-                                <div class="timestamp">12 Mar 2025, 12:08:02</div>
+                                <div class="timestamp">12 Mar 2025, 14:54:06</div>
                             </section>
                         </div>
                         <div class="row fill-width">
@@ -223,11 +333,11 @@
                                 <div class="details">
                                     <div>on branch <span class="code">ci</span></div>
                                     <div class="commit">
-                                        <div class="sha">#d608135</div>
-                                        <div class="message">fixup! fixup! fixup! fixup! fixup! ci: cmake src path</div>
+                                        <div class="sha">#0918e1b</div>
+                                        <div class="message">fixup! ci: try disable modules on gcc14</div>
                                     </div>
                                 </div>
-                                <div class="timestamp">12 Mar 2025, 11:59:21</div>
+                                <div class="timestamp">12 Mar 2025, 14:53:06</div>
                             </section>
                         </div>
                         <div class="row fill-width">
@@ -244,11 +354,11 @@
                                 <div class="details">
                                     <div>on branch <span class="code">ci</span></div>
                                     <div class="commit">
-                                        <div class="sha">#4fcc1ac</div>
-                                        <div class="message">fixup! fixup! fixup! fixup! ci: cmake src path</div>
+                                        <div class="sha">#5a94128</div>
+                                        <div class="message">ci: try disable modules on gcc14</div>
                                     </div>
                                 </div>
-                                <div class="timestamp">12 Mar 2025, 11:48:47</div>
+                                <div class="timestamp">12 Mar 2025, 14:51:50</div>
                             </section>
                         </div>
                         <div class="row fill-width">
@@ -265,11 +375,11 @@
                                 <div class="details">
                                     <div>on branch <span class="code">ci</span></div>
                                     <div class="commit">
-                                        <div class="sha">#e540b29</div>
-                                        <div class="message">fixup! fixup! fixup! ci: cmake src path</div>
+                                        <div class="sha">#0a96e03</div>
+                                        <div class="message">ci: fix module support, allegedly</div>
                                     </div>
                                 </div>
-                                <div class="timestamp">12 Mar 2025, 11:44:34</div>
+                                <div class="timestamp">12 Mar 2025, 14:39:11</div>
                             </section>
                         </div>
                     </section>
