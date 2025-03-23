@@ -1,8 +1,8 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="480" height="1629" class="">
+<svg xmlns="http://www.w3.org/2000/svg" width="480" height="530" class="">
     <defs>
         <style/>
     </defs>
-    <style>@keyframes animation-gauge{0%{stroke-dasharray:0 329}}@keyframes animation-rainbow{0%,to{color:#7f00ff;fill:#7f00ff}14%{color:#a933ff;fill:#a933ff}29%{color:#007fff;fill:#007fff}43%{color:#00ff7f;fill:#00ff7f}57%{color:#ff0;fill:#ff0}71%{color:#ff7f00;fill:#ff7f00}86%{color:red;fill:red}}svg{font-family:-apple-system,BlinkMacSystemFont,Segoe UI,Helvetica,Arial,sans-serif,Apple Color Emoji,Segoe UI Emoji;font-size:14px;color:#777}h1,h2,h3{margin:8px 0 2px;padding:0;color:#0366d6}h1{font-size:20px;font-weight:700}h2,h3{font-weight:400}h1 svg,h2 svg,h3 svg{fill:currentColor}h2{font-size:16px}h3{font-size:14px}section&gt;.field{margin-left:5px;margin-right:5px}.field{display:flex;align-items:center;margin-bottom:2px;white-space:nowrap}.field svg{margin:0 8px;fill:#959da5;flex-shrink:0}.field.error{color:#cb2431}.field.error svg{fill:#cb2431}.row{display:flex;flex-wrap:wrap}.row section{flex:1 1 0}.column{display:flex;flex-direction:column;align-items:center}.no-wrap{white-space:nowrap}#metrics-end,.fill-width{width:100%}.no-margin-top{margin-top:0}.avatar{border-radius:50%;margin:0 6px}.calendar.field{margin:4px 0 4px 7px}.calendar .day{outline:1px solid rgba(27,31,35,.04);outline-offset:-1px}svg.bar{margin:4px 0}.followup.legend{font-size:12px;flex-wrap:wrap}.followup.legend .field{width:46%;justify-content:flex-start;margin-left:8px}.followup.legend svg{margin:0 3px;width:14px;height:14px}.followup.legend svg:first-child{margin-left:0}.followup.legend svg:last-child{margin-right:0}.followup-title{white-space:initial}.activity{margin-bottom:12px}.activity .field{width:100%;overflow:hidden;text-overflow:ellipsis;max-width:450px;white-space:nowrap;margin-bottom:0}.activity .field .content{flex-grow:1;text-overflow:ellipsis;overflow:hidden}.activity .commit .sha,.activity .issue,.activity .repo{display:inline;color:#58a6ff}.activity .code,span.code{background-color:#7777771f;padding:1px 5px;font-size:80%;border-radius:6px;color:#777;font-family:SFMono-Regular,Consolas,Liberation Mono,Menlo,monospace;margin:0 4px -3px}.activity .details,.activity .timestamp{padding-left:38px;display:flex;flex-direction:column;font-size:13px;color:#666}.activity .timestamp{font-size:10px;margin-top:4px}.activity .commit{display:flex;align-items:center}.activity .commit .sha,code{font-family:SFMono-Regular,Consolas,Liberation Mono,Menlo,monospace}.activity .commit .sha{margin-right:4px}.activity .commit .message{overflow:hidden;text-overflow:ellipsis;width:360px;white-space:nowrap}.activity .details&gt;.comment{overflow:hidden;text-overflow:ellipsis;display:block;width:420px;margin-top:6px;border-left:3px solid #777777b2;padding-left:6px;display:-webkit-box;-webkit-line-clamp:2;-webkit-box-orient:vertical}svg.calendar{margin-left:13px;margin-top:4px}code{background-color:#7777771f;display:inline-block;border-radius:6px;color:#777;padding:1px 5px;font-size:80%}:root{--color-calendar-graph-day-bg:#ebedf0;--color-calendar-graph-day-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L1-bg:#9be9a8;--color-calendar-graph-day-L2-bg:#40c463;--color-calendar-graph-day-L3-bg:#30a14e;--color-calendar-graph-day-L4-bg:#216e39;--color-calendar-halloween-graph-day-L1-bg:#ffee4a;--color-calendar-halloween-graph-day-L2-bg:#ffc501;--color-calendar-halloween-graph-day-L3-bg:#fe9600;--color-calendar-halloween-graph-day-L4-bg:#03001c;--color-calendar-winter-graph-day-L1-bg:#0a3069;--color-calendar-winter-graph-day-L2-bg:#0969da;--color-calendar-winter-graph-day-L3-bg:#54aeff;--color-calendar-winter-graph-day-L4-bg:#b6e3ff;--color-calendar-graph-day-L4-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L3-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L2-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L1-border:rgba(27,31,35,0.06)}</style>
+    <style>@keyframes animation-gauge{0%{stroke-dasharray:0 329}}@keyframes animation-rainbow{0%,to{color:#7f00ff;fill:#7f00ff}14%{color:#a933ff;fill:#a933ff}29%{color:#007fff;fill:#007fff}43%{color:#00ff7f;fill:#00ff7f}57%{color:#ff0;fill:#ff0}71%{color:#ff7f00;fill:#ff7f00}86%{color:red;fill:red}}svg{font-family:-apple-system,BlinkMacSystemFont,Segoe UI,Helvetica,Arial,sans-serif,Apple Color Emoji,Segoe UI Emoji;font-size:14px;color:#777}h1,h2,h3{margin:8px 0 2px;padding:0;color:#0366d6}h1{font-size:20px;font-weight:700}h2,h3{font-weight:400}h1 svg,h2 svg,h3 svg{fill:currentColor}h2{font-size:16px}h3{font-size:14px}section&gt;.field{margin-left:5px;margin-right:5px}.field{display:flex;align-items:center;margin-bottom:2px;white-space:nowrap}.field svg{margin:0 8px;fill:#959da5;flex-shrink:0}.row{display:flex;flex-wrap:wrap}.row section{flex:1 1 0}.column{display:flex;flex-direction:column;align-items:center}.no-wrap{white-space:nowrap}#metrics-end,.fill-width{width:100%}.no-margin-top{margin-top:0}.avatar{border-radius:50%;margin:0 6px}.calendar.field{margin:4px 0 4px 7px}.calendar .day{outline:1px solid rgba(27,31,35,.04);outline-offset:-1px}svg.bar{margin:4px 0}.followup.legend{font-size:12px;flex-wrap:wrap}.followup.legend .field{width:46%;justify-content:flex-start;margin-left:8px}.followup.legend svg{margin:0 3px;width:14px;height:14px}.followup.legend svg:first-child{margin-left:0}.followup.legend svg:last-child{margin-right:0}.followup-title{white-space:initial}.activity{margin-bottom:12px}.activity .field{width:100%;overflow:hidden;text-overflow:ellipsis;max-width:450px;white-space:nowrap;margin-bottom:0}.activity .field .content{flex-grow:1;text-overflow:ellipsis;overflow:hidden}.activity .commit .sha,.activity .repo{display:inline;color:#58a6ff}.activity .code,span.code{background-color:#7777771f;padding:1px 5px;font-size:80%;border-radius:6px;color:#777;font-family:SFMono-Regular,Consolas,Liberation Mono,Menlo,monospace;margin:0 4px -3px}.activity .details,.activity .timestamp{padding-left:38px;display:flex;flex-direction:column;font-size:13px;color:#666}.activity .timestamp{font-size:10px;margin-top:4px}.activity .commit{display:flex;align-items:center}.activity .commit .sha,code{font-family:SFMono-Regular,Consolas,Liberation Mono,Menlo,monospace}.activity .commit .sha{margin-right:4px}.activity .commit .message{overflow:hidden;text-overflow:ellipsis;width:360px;white-space:nowrap}svg.calendar{margin-left:13px;margin-top:4px}code{background-color:#7777771f;display:inline-block;border-radius:6px;color:#777;padding:1px 5px;font-size:80%}:root{--color-calendar-graph-day-bg:#ebedf0;--color-calendar-graph-day-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L1-bg:#9be9a8;--color-calendar-graph-day-L2-bg:#40c463;--color-calendar-graph-day-L3-bg:#30a14e;--color-calendar-graph-day-L4-bg:#216e39;--color-calendar-halloween-graph-day-L1-bg:#ffee4a;--color-calendar-halloween-graph-day-L2-bg:#ffc501;--color-calendar-halloween-graph-day-L3-bg:#fe9600;--color-calendar-halloween-graph-day-L4-bg:#03001c;--color-calendar-winter-graph-day-L1-bg:#0a3069;--color-calendar-winter-graph-day-L2-bg:#0969da;--color-calendar-winter-graph-day-L3-bg:#54aeff;--color-calendar-winter-graph-day-L4-bg:#b6e3ff;--color-calendar-graph-day-L4-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L3-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L2-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L1-border:rgba(27,31,35,0.06)}</style>
     <style/>
     <foreignObject x="0" y="0" width="100%" height="100%">
         <div xmlns="http://www.w3.org/1999/xhtml" xmlns:xlink="http://www.w3.org/1999/xlink" class="items-wrapper">
@@ -30,17 +30,17 @@
                         <div class="field calendar">
                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 210 11" width="210" height="16">
                                 <g>
-                                    <rect class="day" x="0" y="0" width="11" height="11" fill="#216e39" rx="2" ry="2"/>
-                                    <rect class="day" x="15" y="0" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
-                                    <rect class="day" x="30" y="0" width="11" height="11" fill="#216e39" rx="2" ry="2"/>
+                                    <rect class="day" x="0" y="0" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
+                                    <rect class="day" x="15" y="0" width="11" height="11" fill="#216e39" rx="2" ry="2"/>
+                                    <rect class="day" x="30" y="0" width="11" height="11" fill="#9be9a8" rx="2" ry="2"/>
                                     <rect class="day" x="45" y="0" width="11" height="11" fill="#9be9a8" rx="2" ry="2"/>
-                                    <rect class="day" x="60" y="0" width="11" height="11" fill="#9be9a8" rx="2" ry="2"/>
+                                    <rect class="day" x="60" y="0" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
                                     <rect class="day" x="75" y="0" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
-                                    <rect class="day" x="90" y="0" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
-                                    <rect class="day" x="105" y="0" width="11" height="11" fill="#30a14e" rx="2" ry="2"/>
+                                    <rect class="day" x="90" y="0" width="11" height="11" fill="#30a14e" rx="2" ry="2"/>
+                                    <rect class="day" x="105" y="0" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
                                     <rect class="day" x="120" y="0" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
-                                    <rect class="day" x="135" y="0" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
-                                    <rect class="day" x="150" y="0" width="11" height="11" fill="#9be9a8" rx="2" ry="2"/>
+                                    <rect class="day" x="135" y="0" width="11" height="11" fill="#9be9a8" rx="2" ry="2"/>
+                                    <rect class="day" x="150" y="0" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
                                     <rect class="day" x="165" y="0" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
                                     <rect class="day" x="180" y="0" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
                                     <rect class="day" x="195" y="0" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
@@ -171,6 +171,40 @@
                             <section class="activity">
                                 <div class="field">
                                     <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+                                        <path fill-rule="evenodd" d="M2.5 7.775V2.75a.25.25 0 01.25-.25h5.025a.25.25 0 01.177.073l6.25 6.25a.25.25 0 010 .354l-5.025 5.025a.25.25 0 01-.354 0l-6.25-6.25a.25.25 0 01-.073-.177zm-1.5 0V2.75C1 1.784 1.784 1 2.75 1h5.025c.464 0 .91.184 1.238.513l6.25 6.25a1.75 1.75 0 010 2.474l-5.026 5.026a1.75 1.75 0 01-2.474 0l-6.25-6.25A1.75 1.75 0 011 7.775zM6 5a1 1 0 100 2 1 1 0 000-2z"/>
+                                    </svg>
+                                    <div class="content">
+                                        Created new
+                      tag
+                                        <span class="code">v0.0.0.53</span>
+                                        in
+                                        <span class="repo">Myth-Games/MythServerSource</span>
+                                    </div>
+                                </div>
+                                <div class="timestamp">22 Mar 2025, 20:20:56</div>
+                            </section>
+                        </div>
+                        <div class="row fill-width">
+                            <section class="activity">
+                                <div class="field">
+                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+                                        <path fill-rule="evenodd" d="M2.5 7.775V2.75a.25.25 0 01.25-.25h5.025a.25.25 0 01.177.073l6.25 6.25a.25.25 0 010 .354l-5.025 5.025a.25.25 0 01-.354 0l-6.25-6.25a.25.25 0 01-.073-.177zm-1.5 0V2.75C1 1.784 1.784 1 2.75 1h5.025c.464 0 .91.184 1.238.513l6.25 6.25a1.75 1.75 0 010 2.474l-5.026 5.026a1.75 1.75 0 01-2.474 0l-6.25-6.25A1.75 1.75 0 011 7.775zM6 5a1 1 0 100 2 1 1 0 000-2z"/>
+                                    </svg>
+                                    <div class="content">
+                                        Deleted
+                      tag
+                                        <span class="code">v0.0.0.53</span>
+                                        in
+                                        <span class="repo">Myth-Games/MythServerSource</span>
+                                    </div>
+                                </div>
+                                <div class="timestamp">22 Mar 2025, 20:20:48</div>
+                            </section>
+                        </div>
+                        <div class="row fill-width">
+                            <section class="activity">
+                                <div class="field">
+                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                         <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
                                     </svg>
                                     <div class="content">
@@ -181,854 +215,45 @@
                                 <div class="details">
                                     <div>on branch <span class="code">dev</span></div>
                                     <div class="commit">
-                                        <div class="sha">#7adbc03</div>
-                                        <div class="message">CI: Fix script &amp; add dummy comment to force CI</div>
+                                        <div class="sha">#b9f2789</div>
+                                        <div class="message">CI: Bump clang to 19 for release too</div>
                                     </div>
                                 </div>
-                                <div class="timestamp">22 Mar 2025, 09:56:51</div>
+                                <div class="timestamp">22 Mar 2025, 18:39:18</div>
                             </section>
                         </div>
                         <div class="row fill-width">
                             <section class="activity">
                                 <div class="field">
                                     <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
+                                        <path fill-rule="evenodd" d="M11.75 2.5a.75.75 0 100 1.5.75.75 0 000-1.5zm-2.25.75a2.25 2.25 0 113 2.122V6A2.5 2.5 0 0110 8.5H6a1 1 0 00-1 1v1.128a2.251 2.251 0 11-1.5 0V5.372a2.25 2.25 0 111.5 0v1.836A2.492 2.492 0 016 7h4a1 1 0 001-1v-.628A2.25 2.25 0 019.5 3.25zM4.25 12a.75.75 0 100 1.5.75.75 0 000-1.5zM3.5 3.25a.75.75 0 111.5 0 .75.75 0 01-1.5 0z"/>
                                     </svg>
                                     <div class="content">
-                                        Pushed 33 commits in
+                                        Created new
+                      branch
+                                        <span class="code">spell_recast</span>
+                                        in
                                         <span class="repo">Myth-Games/MythServerSource</span>
                                     </div>
                                 </div>
-                                <div class="details">
-                                    <div>on branch <span class="code">stable</span></div>
-                                    <div class="commit">
-                                        <div class="sha">#22b48fe</div>
-                                        <div class="message">Fill in Login-Logout documentation.</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#d93cfea</div>
-                                        <div class="message">Remove redundant declaration.</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#4be42f6</div>
-                                        <div class="message">Squashed commit of the following:
-
-commit b32b6a8007fe4d3460cb2b3a66f6141332780114
-Author: Dariusz Staniak &lt;dstaniak@gmail.com&gt;
-Date:   Wed Feb 26 06:51:08 2025 +0100
-
-    Cleanup
-
-commit 9efae70e64adcaa7cf4ba68899055350d606485e
-Merge: 77d9e294 b19e9562
-Author: Dariusz Staniak &lt;dstaniak@gmail.com&gt;
-Date:   Tue Feb 25 20:16:23 2025 +0100
-
-    Merge branch 'experimental' into gateway-accout-refactor
-
-commit 77d9e2943445b8f6934ca783dfd5ae240b473d49
-Author: Dariusz Staniak &lt;dstaniak@gmail.com&gt;
-Date:   Tue Feb 25 20:15:03 2025 +0100
-
-    Logging in is working.
-
-commit 659620c2c6a804267dcedef3013b17b90ef3a8e3
-Author: Dariusz Staniak &lt;dstaniak@gmail.com&gt;
-Date:   Tue Feb 25 18:14:46 2025 +0100
-
-    Fix some queries
-
-commit 1d322cf77c8abdc0b6031b0b52283344620f088b
-Author: Dariusz Staniak &lt;dstaniak@gmail.com&gt;
-Date:   Tue Feb 25 17:15:41 2025 +0100
-
-    Refactor completed, time for testing.
-
-commit 37d6cb16ae94bd836646ac6a9fd4cd0d4063cc01
-Author: Dariusz Staniak &lt;dstaniak@gmail.com&gt;
-Date:   Tue Feb 25 10:19:26 2025 +0100
-
-    Authorization reworked.
-
-commit b447d85fcf371513318a85ac7f948ebc8138e098
-Author: Dariusz Staniak &lt;dstaniak@gmail.com&gt;
-Date:   Mon Feb 24 18:25:57 2025 +0100
-
-    MSG_AccountLogin done.
-
-commit e7fdb46690ea1ebe20254a025829e292fc09ca78
-Author: Dariusz Staniak &lt;dstaniak@gmail.com&gt;
-Date:   Mon Feb 24 07:16:11 2025 +0100
-
-    WIP Gateway refactor
-
-commit 24aa3171396dac458f4209f73271f488d3ce8064
-Author: Dariusz Staniak &lt;dstaniak@gmail.com&gt;
-Date:   Mon Feb 24 07:09:11 2025 +0100
-
-    WIP Gateway refactor
-
-commit df97e1dac3ecda3bbf86ead7fae0a7681abb9aa0
-Author: Dariusz Staniak &lt;dstaniak@gmail.com&gt;
-Date:   Mon Feb 24 05:27:57 2025 +0100
-
-    WIP Major gateway refactor.
-
-commit 5fffb513c2a21324849d44bf0215879a497b281d
-Merge: 81c04dcc d9861cd8
-Author: Dariusz Staniak &lt;dstaniak@gmail.com&gt;
-Date:   Fri Feb 21 13:05:16 2025 +0100
-
-    Merge branch 'experimental' into gateway-accout-refactor
-
-commit 81c04dcc06b8b38250ee7341240699abb02cc549
-Author: Dariusz Staniak &lt;dstaniak@gmail.com&gt;
-Date:   Thu Feb 20 19:28:05 2025 +0100
-
-    New sessions db model.
-
-commit b44590f98571bd16f8af316164131969f477bb37
-Author: Dariusz Staniak &lt;dstaniak@gmail.com&gt;
-Date:   Thu Feb 20 07:07:28 2025 +0100
-
-    WIP Refactoring tables.</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#b19e956</div>
-                                        <div class="message">[skip ci] Game/GM: Log Info when cheats are toggled</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#82b8198</div>
-                                        <div class="message">[skip ci] Game/GM: Add a few more strings for cheats</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#9c396e5</div>
-                                        <div class="message">Game/GM: Add `/gm +cheat navmesh`</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#c7d20e8</div>
-                                        <div class="message">Game/GM: Add `/gm +cheat` command for unified cheat toggle</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#730796a</div>
-                                        <div class="message">Game/GM: Tidy up Stealth/Godmode into Cheat flags, move to Player</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#d9861cd</div>
-                                        <div class="message">Game/Movement: Remove MSG_Action</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#66328fe</div>
-                                        <div class="message">Game/Combat: Fix crash with attacks again, but better</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#61738a6</div>
-                                        <div class="message">Game/Combat: Fix attacks being zero, introduced in 7aff066d3d9697476001b023df12a0e0ec8495fa</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#3cecd30</div>
-                                        <div class="message">Game/Sync: Force update visibility on stealth toggle &amp; on teleport</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#49765b1</div>
-                                        <div class="message">Game/Sync: Send SMSG_RemoveEntity for MapObjects too</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#00eec15</div>
-                                        <div class="message">Merge branch 'broadcast-imo-interaction' into experimental</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#642daf0</div>
-                                        <div class="message">CD: Fix script submodule push, for next time</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#b38a77c</div>
-                                        <div class="message">CD: The fix to end all fixes</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#65e1740</div>
-                                        <div class="message">CD: Fix the script, actually</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#f9a96cf</div>
-                                        <div class="message">Game/MapObjects: Fix sessionID in MSG_MapItemInteraction broadcast</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#666b7ce</div>
-                                        <div class="message">Merge branch 'experimental' into broadcast-imo-interaction</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#5792f18</div>
-                                        <div class="message">Game/IMOs: Broadcast IMO interaction to nearby players</div>
-                                    </div>
-                                </div>
-                                <div class="timestamp">22 Mar 2025, 09:45:11</div>
+                                <div class="timestamp">22 Mar 2025, 18:32:38</div>
                             </section>
                         </div>
                         <div class="row fill-width">
                             <section class="activity">
                                 <div class="field">
                                     <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
+                                        <path fill-rule="evenodd" d="M11.75 2.5a.75.75 0 100 1.5.75.75 0 000-1.5zm-2.25.75a2.25 2.25 0 113 2.122V6A2.5 2.5 0 0110 8.5H6a1 1 0 00-1 1v1.128a2.251 2.251 0 11-1.5 0V5.372a2.25 2.25 0 111.5 0v1.836A2.492 2.492 0 016 7h4a1 1 0 001-1v-.628A2.25 2.25 0 019.5 3.25zM4.25 12a.75.75 0 100 1.5.75.75 0 000-1.5zM3.5 3.25a.75.75 0 111.5 0 .75.75 0 01-1.5 0z"/>
                                     </svg>
                                     <div class="content">
-                                        Pushed 66 commits in
-                                        <span class="repo">Myth-Games/MythServerSource</span>
-                                    </div>
-                                </div>
-                                <div class="details">
-                                    <div>on branch <span class="code">dev</span></div>
-                                    <div class="commit">
-                                        <div class="sha">#58f12c3</div>
-                                        <div class="message">[skip ci] Dep: Update MythLogger</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#29cacb1</div>
-                                        <div class="message">Game/Spells: Cleanup deprecated packet fields</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#348ae4b</div>
-                                        <div class="message">[skip ci] Game/Session: Fix SMSG_UpdateActionBar::NumBars in response to CMSG_UpdateActionBar</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#b242b7a</div>
-                                        <div class="message">Align with MythLogger, remove unneeded file.</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#953ffd9</div>
-                                        <div class="message">Logger is ready.</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#1da6473</div>
-                                        <div class="message">CI: And in CI too</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#74e7683</div>
-                                        <div class="message">Build: Link MSVC runtime statically by default</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#157adf0</div>
-                                        <div class="message">Game/Combat: Rename Combat::Attack to Combat::Action</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#5f5ff9b</div>
-                                        <div class="message">Game/Tasks: Fix Hunter task, split Attack from CombatBase.h</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#507ede0</div>
-                                        <div class="message">Fix coins update.</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#37ef2d3</div>
-                                        <div class="message">New logger ready to be picked up for refactor.</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#b9766ca</div>
-                                        <div class="message">Fix wrong b2 argument.</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#887df27</div>
-                                        <div class="message">Game/Spells: Fix finished spell lingering as the "current cast" of an entity</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#58e5519</div>
-                                        <div class="message">Game/Spells: Fix server crash if a player disconnects immediately after casting a spell with an aura</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#83ebddf</div>
-                                        <div class="message">Game/Spells: Massive rewrite of the spell back-end, fix many combat bugs, add crowd control back-end (#80)
-
-* Build: Enable .pdb in release
-
-* Build: Enable .pdb in release for clang too
-
-* Util: Fix an issue with DenseSet key duplication
-
-* Game/Combat: WIP split of affects into its own system &amp; refactor of spell system
-
-* Game/Combat: WIP refactor of spell system to leverage parallelization &amp; more data-driven design
-
-* Game/Spells: Progress on spell system expansion/rewrite.
-
-* Game/Core: Bring EventManager from `affect-persist`, and incorporate it into the game
-
-* Game/Events: Event handlers should run in registration order
-
-* Build: Fix clang build
-
-* Game/Systems: Remove subticks
-
-* Game/Systems: EventBus is born.
-
-* Util: Add ThreadVariable, generified from the thread-local queue used by EventBus
-
-* Game/Combat: Use ThreadVariable for target changes
-
-* Game/Systems: Deobfuscate mangling of ComputeDeltas jobs
-
-* Game/Events: SpellHit is a type of AttackHit
-
-* Game/Tasks: Remove some uses of pointers in favor of UUIDs
-
-* Game/Entities: Change more pointers into UUID
-
-* Game/Spells: Server builds again.
-
-* Game/Spells: Spell hit pipeline is in place... I think
-
-* Game/Spells: Spells deal damage again!
-
-* Game/Spells: And mobs die again
-
-* Game/Spells: Fix secondary spell effects
-
-* Game/Spells: Fix attack cleanup
-
-* Game/Combat: Attacks are back online
-
-* Game/World: Improve &amp; fix WorldSyncSystem::ForeachWatching
-
-* Game/Spells: Send SMSG_SpellLaunch again
-
-* Build/CMake: Move boost detection to after setting build options
-
-* Game/Spells: Rename SpellProjectile to SpellHandler
-
-* Game/Spells: Move SpellHandler.h out of Cast folder
-
-* Game/Spells: Merge SpellCast into SpellHandler
-
-* Game/Spells: Remove SpellCast
-
-* Util/Log: Split spells out of LogScope::Combat
-
-* Util/Debug: Fix assertion failures not showing a debug window despite false SilentAbort
-
-* Game/Spells: Auras are applied again
-
-* Game/Spells: Auras expire again
-
-* Build: Add missing file
-
-* Game/Spells: Some work on fixing the mess that mob state is
-
-* Game/Spells: Spell interruptions work again, sort of... This is uncomfortable levels of spaghetti
-
-* Game/Spells: Rename Affect to Aura
-
-* Game/Spells: Proof of concept for stun status effect.
-
-* Game/Spells: Fix spells interrupting themselves
-
-* Game/Spells: Prevent casting when stunned, &amp; fix stun status removal
-
-* Game/Systems: Deterministic command order
-
-* Game/Movement: Implement SMSG_MoveStop &amp; CMSG_MoveStop
-
-* Game/Movement: Fix math error in calculating mid-spline position
-
-* Game/Movement: Disable movement when Incapacitated
-
-* Game/Movement: Fix path recalculation for CMSG_MoveSpline
-
-* Game/Spells: Implement AuraType::StatusRoot
-
-* Game/Combat: Send MobState updates in SMSG_MobStatusUpdate
-
-* Game/Combat: Header.Size in SMSG_AttributeUpdate was broken this whole time?
-
-* Game/Spells: Implement AuraType::StatusSilence
-
-* Game/Spells: Clean up auras when logging off
-
-* Game/Combat: Cleanup auras on death
-
-* Game/Spells: Clean up aura disposal
-
-* Game/Combat: Interrupt attack when stunned
-
-* Game/Combat: Prevent CMSG_SetFacing &amp; CMSG_MoveStop when movement is disabled
-
-* Game/Spells: Reimplement aura ticks
-
-* Build: Fix Linux build
-
-* CI: Fix release commit hash maybe...
-
-* Game/Combat: Fix attribute updates
-
-* Game/Spells: Un-fix spell hit UUIDs #notabug
-
-* [FIXME] Dep: Change MythSharedLibrary branch
-
-* Game/Combat: Rename MobStatusUpdate to MobUpdate
-
-* CI: Use clang19
-
-* Dep: Update MythSharedLibrary
-
-* Dep: Update MythSharedLibrary
-
-* Dep: Update MythSharedLibrary
-
-* CI: Run CI on dependency update</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#6e64488</div>
-                                        <div class="message">Dep: Update MythLogger</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#8e13b5e</div>
-                                        <div class="message">CI: Checkout submodules recursively</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#8139277</div>
-                                        <div class="message">Align with MythLogger version.</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#a493f35</div>
-                                        <div class="message">Align with MythLogger.</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#71a7050</div>
-                                        <div class="message">Add MythLogger.</div>
-                                    </div>
-                                </div>
-                                <div class="timestamp">22 Mar 2025, 09:45:11</div>
-                            </section>
-                        </div>
-                        <div class="row fill-width">
-                            <section class="activity">
-                                <div class="field">
-                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
-                                    </svg>
-                                    <div class="content">
-                                        Pushed 41 commits in
+                                        Created new
+                      branch
+                                        <span class="code">spell_recast</span>
+                                        in
                                         <span class="repo">Myth-Games/MythSharedLibrary</span>
                                     </div>
                                 </div>
-                                <div class="details">
-                                    <div>on branch <span class="code">dev</span></div>
-                                    <div class="commit">
-                                        <div class="sha">#549f56d</div>
-                                        <div class="message">Fill mapEffectName with all the defines -- not sure this is a good idea!</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#a0204de</div>
-                                        <div class="message">Fix BitSet comparison with nullptr</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#170b210</div>
-                                        <div class="message">Fix type casting</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#e1199a3</div>
-                                        <div class="message">Wrap enum ItemEffect in `Structs` namespace due to name conflict</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#24ad0eb</div>
-                                        <div class="message">Add BitSet &amp; use it for attribute updates</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#fee0631</div>
-                                        <div class="message">Add defense &amp; resistance formula</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#76db99d</div>
-                                        <div class="message">Fix AttributeUpdateExtractor</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#6fb69eb</div>
-                                        <div class="message">Merge branch 'staging-server' into experimental</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#f1e95d2</div>
-                                        <div class="message">Added OutlizeSize field to stFontsConf</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#0e839ea</div>
-                                        <div class="message">Fix `MythLibrary::limits::highest`</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#04aafac</div>
-                                        <div class="message">Fix `MythLibrary::limits::highest`</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#cfdcc23</div>
-                                        <div class="message">Add EntityUUID constructor from high &amp; low IDs</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#563f118</div>
-                                        <div class="message">Add EntityUUID constructor from high &amp; low IDs</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#cf8f303</div>
-                                        <div class="message">Restore comment on MSG_CastFailure::CastUUID</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#e2ca1e9</div>
-                                        <div class="message">Remove deprecated structs &amp; vars</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#170c070</div>
-                                        <div class="message">Add SMSG_AttributeUpdate helpers to SMSG_MobUpdate</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#71c1f5b</div>
-                                        <div class="message">Fix build</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#ce88753</div>
-                                        <div class="message">Deprecate SMSG_AttributeUpdate</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#c73ad21</div>
-                                        <div class="message">Rename MobStatusUpdate to MobUpdate</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#43f90a4</div>
-                                        <div class="message">Spell changes &amp; crowd control effects
-
-Squashed commit of the following:
-
-commit 2e593c9cae0593186a254d54c75e481861ab009d
-Author: Amber Ehrlich &lt;miuna.oshino@gmail.com&gt;
-Date:   Tue Mar 4 11:12:38 2025 -0500
-
-    Rearrange UUIDs in spell packets
-
-commit 527a95c3de4865dfadea0fafddf3df0c991006b5
-Author: Amber Ehrlich &lt;miuna.oshino@gmail.com&gt;
-Date:   Mon Mar 3 19:12:56 2025 -0500
-
-    Fix Linux build
-
-commit 5c576e1120629126bb977f236182eba1b596bde0
-Author: Amber Ehrlich &lt;miuna.oshino@gmail.com&gt;
-Date:   Mon Mar 3 18:48:24 2025 -0500
-
-    Add BitMask::add_bit, remove_bit, etc
-
-commit 6d8831080bc42ce1d59c2a0cd9a13d94a5720b94
-Merge: f133211 507c757
-Author: Amber Ehrlich &lt;miuna.oshino@gmail.com&gt;
-Date:   Mon Mar 3 14:44:33 2025 -0500
-
-    Merge branch 'experimental' into crowdcontrol
-
-commit f133211a0267064a59d204a0f65e5ea719f728b8
-Author: Amber Ehrlich &lt;miuna.oshino@gmail.com&gt;
-Date:   Mon Mar 3 14:43:54 2025 -0500
-
-    Add missing ToString cases for MobState
-
-commit 0f6c8fe84029440f9c5f928c2d3d5afb06203520
-Author: Amber Ehrlich &lt;miuna.oshino@gmail.com&gt;
-Date:   Mon Mar 3 14:28:54 2025 -0500
-
-    Re-arrange &amp; expand MobState
-
-commit be850c86824bd0cf35374b48608d40d77910372b
-Author: Amber Ehrlich &lt;miuna.oshino@gmail.com&gt;
-Date:   Sat Mar 1 17:03:21 2025 -0500
-
-    Add range constructor to BitMask
-
-commit baa489155e1180a3a3982a89f130d873de018309
-Author: Amber Ehrlich &lt;miuna.oshino@gmail.com&gt;
-Date:   Sat Mar 1 15:23:07 2025 -0500
-
-    Rename BitMask::has to BitMask::has_all
-
-commit 1b5590daa31432dc98f2f597e8d0fe84d9afffa5
-Author: Amber Ehrlich &lt;miuna.oshino@gmail.com&gt;
-Date:   Sat Mar 1 15:22:49 2025 -0500
-
-    Change st_Spell::EffectBaseValue to be a float
-
-commit c8c8e93d25d36ab4c368b0f1fcead2e4c27b1c46
-Author: Amber Ehrlich &lt;miuna.oshino@gmail.com&gt;
-Date:   Fri Feb 28 17:52:39 2025 -0500
-
-    Change SMSG_MobStatusUpdate to be a replacement for SMSG_AttributeUpdate
-
-commit 9a48eb6e854ba400d253055913067386223c7bc0
-Author: Amber Ehrlich &lt;miuna.oshino@gmail.com&gt;
-Date:   Fri Feb 28 17:07:51 2025 -0500
-
-    Tidy up packet headers, here goes merge conflicts
-
-commit 74b61a7b80249c18fbdcbe4ff88cebc19f1b8b06
-Author: Amber Ehrlich &lt;miuna.oshino@gmail.com&gt;
-Date:   Fri Feb 28 15:48:28 2025 -0500
-
-    Add AuraType::StatusRoot
-
-commit 32f078e9b0289fddc75b01630fc9ba3112b350bf
-Author: Amber Ehrlich &lt;miuna.oshino@gmail.com&gt;
-Date:   Fri Feb 28 14:59:59 2025 -0500
-
-    Rename &amp; expand crowd control masks
-
-commit 5d220456a5250fb1698ebc82c7d3ea3dce0bb723
-Author: Amber Ehrlich &lt;miuna.oshino@gmail.com&gt;
-Date:   Fri Feb 28 12:43:34 2025 -0500
-
-    Remove Position from CMSG_MoveStop
-
-commit 9a629fb5e244c392da8386ff4520531039b3e92c
-Author: Amber Ehrlich &lt;miuna.oshino@gmail.com&gt;
-Date:   Thu Feb 27 12:51:50 2025 -0500
-
-    Add SMSG_MoveStop &amp; CMSG_MoveStop
-
-commit 8819ab3c578f55b520531304a7b6af35962b14ca
-Author: Amber Ehrlich &lt;miuna.oshino@gmail.com&gt;
-Date:   Wed Feb 26 18:59:50 2025 -0500
-
-    Code formatting
-
-commit 54f22e727e05fb06d410669f648fb23de706e6a2
-Author: Amber Ehrlich &lt;miuna.oshino@gmail.com&gt;
-Date:   Wed Feb 26 18:11:04 2025 -0500
-
-    Split AuraType::StatusEffect, add MobState
-
-commit e1c16554bf0d67f5b789f8516fbd84a63a37fc55
-Merge: 17e3843 3bf3071
-Author: Amber Ehrlich &lt;miuna.oshino@gmail.com&gt;
-Date:   Wed Feb 26 17:46:14 2025 -0500
-
-    Merge branch 'experimental' into crowdcontrol
-
-commit 17e3843a27bf06605c23633d0b3983724f7e2416
-Author: Amber Ehrlich &lt;miuna.oshino@gmail.com&gt;
-Date:   Wed Feb 26 12:34:44 2025 -0500
-
-    Rename Affect to Aura
-
-commit 6f4fb307f043214fa388506e2eed36c0641df9a0
-Author: Amber Ehrlich &lt;miuna.oshino@gmail.com&gt;
-Date:   Sun Feb 23 14:14:02 2025 -0500
-
-    Expand Spell InterruptFlags
-
-commit 65a23559bab9ec95689c918c5664b0727bbe529d
-Author: Amber Ehrlich &lt;miuna.oshino@gmail.com&gt;
-Date:   Sat Feb 22 18:34:15 2025 -0500
-
-    Use CastUUID in aura packets
-
-commit 7e56f3e07c130e31fc1caed2dd8af8f9cdf3db8e
-Author: Amber Ehrlich &lt;miuna.oshino@gmail.com&gt;
-Date:   Sat Feb 22 15:22:24 2025 -0500
-
-    Add IsAuraSpellEffect(SpellEffectType)
-
-commit 02a680ba3631a8c129f7b5afb49aa9ae0906040d
-Author: Amber Ehrlich &lt;miuna.oshino@gmail.com&gt;
-Date:   Sat Feb 22 15:21:47 2025 -0500
-
-    Fix clang build, fix warnings in release with MYTH_ASSERT(ptr != nullptr)
-
-commit 3ab3afb856f0300c3a2ec21fcf28d2b6430135f3
-Author: Amber Ehrlich &lt;miuna.oshino@gmail.com&gt;
-Date:   Sat Feb 22 15:21:11 2025 -0500
-
-    BitMask: add_if, remove_if, operator*(bool)
-
-commit e66500ccbf1c8cca2ed1097a54394f306293c515
-Merge: ba99d8e 64afe9d
-Author: Amber Ehrlich &lt;miuna.oshino@gmail.com&gt;
-Date:   Thu Feb 20 20:11:03 2025 -0500
-
-    Merge branch 'experimental' into crowdcontrol
-
-commit ba99d8e244c5fb0c9dbc34bd03d193839074d686
-Author: Amber Ehrlich &lt;miuna.oshino@gmail.com&gt;
-Date:   Tue Feb 18 23:32:35 2025 -0500
-
-    Add [[noreturn]] to MythLibrary::g_assertHandler
-
-commit 8a858828a5b8aac67b87a9b24deca51955480e73
-Author: Amber Ehrlich &lt;miuna.oshino@gmail.com&gt;
-Date:   Tue Feb 18 23:32:04 2025 -0500
-
-    Deprecate CastGUID, add CastUUID to spell packets
-
-commit a2e71eea97489f052ee626d9f185d149efd70b93
-Merge: 5801cda 003abd4
-Author: Amber Ehrlich &lt;miuna.oshino@gmail.com&gt;
-Date:   Mon Feb 17 18:54:22 2025 -0500
-
-    Merge branch 'experimental' into crowdcontrol
-
-commit 5801cdad766dae6c6206e3e23b2c4b14b4d316fb
-Author: Amber Ehrlich &lt;miuna.oshino@gmail.com&gt;
-Date:   Sun Feb 16 13:32:26 2025 -0500
-
-    Use EntityUUID in SMSG_SpellLaunch for the cast (deprecate the uint64_t)
-
-commit 251ad7d8cb026fa68d65dd485268cd81040f193a
-Author: Amber Ehrlich &lt;miuna.oshino@gmail.com&gt;
-Date:   Sat Feb 15 19:46:36 2025 -0500
-
-    Fix EntityUUID::operator bool, I can't believe I wrote this
-
-commit 522b9b66dacb12fefd9bbf7d4d034edfc0361f83
-Author: Amber Ehrlich &lt;miuna.oshino@gmail.com&gt;
-Date:   Sat Feb 15 19:46:07 2025 -0500
-
-    Add spell hit flags
-
-commit e25ed9e8060a5185b917f67098bf9be5085d8d8e
-Author: Amber Ehrlich &lt;miuna.oshino@gmail.com&gt;
-Date:   Sat Feb 15 19:45:29 2025 -0500
-
-    Add MythLibrary::narrow_add, but at what cost
-
-commit 82d3eab9227d764fda099e76ad89ae084af4909e
-Author: Amber Ehrlich &lt;miuna.oshino@gmail.com&gt;
-Date:   Fri Feb 14 19:36:41 2025 -0500
-
-    Add MYTH_DEBUG_SANITIZE
-
-commit daa8a0ea07d19cbc4d64e716bc75fc2ea5ac6ba3
-Author: Amber Ehrlich &lt;miuna.oshino@gmail.com&gt;
-Date:   Fri Feb 14 18:31:23 2025 -0500
-
-    Fix spell range calculation
-
-commit 3d30e67a002605f3749b80f142f60a8c53086fba
-Author: Amber Ehrlich &lt;miuna.oshino@gmail.com&gt;
-Date:   Thu Feb 13 17:29:16 2025 -0500
-
-    Add SpellFlags::AutoAttack, change SMSG_SpellHit::EffectSchool to a bitmask
-
-commit 746d25ed9e084125439f9f82090ee14c33da9d96
-Author: Amber Ehrlich &lt;miuna.oshino@gmail.com&gt;
-Date:   Sat Feb 8 23:36:58 2025 -0500
-
-    Force ; after MYTH_ASSERT
-
-commit 25f40f92ff150116aa72aef28cf7a2c609a8e239
-Author: Amber Ehrlich &lt;miuna.oshino@gmail.com&gt;
-Date:   Thu Feb 6 21:44:34 2025 -0500
-
-    Add MYTH_FOR_EACH macro
-
-commit 17b1f25f94175cc6fa2eeb5ec0afdc15e477b2cb
-Author: Amber Ehrlich &lt;miuna.oshino@gmail.com&gt;
-Date:   Thu Feb 6 18:33:57 2025 -0500
-
-    Add operator bool() to EntityUUID
-
-commit 4cf52111de127563c89b3c702a0d4189e8a4f848
-Author: Amber Ehrlich &lt;miuna.oshino@gmail.com&gt;
-Date:   Thu Feb 6 15:56:48 2025 -0500
-
-    Specialize std::equal_to&lt;EntityUUID&gt; to be transparent
-
-commit 739b60e4c2a286b5c37cb91a7c10dfa1834bcedf
-Author: Amber Ehrlich &lt;miuna.oshino@gmail.com&gt;
-Date:   Thu Feb 6 15:49:39 2025 -0500
-
-    Fix SpellUUID GetSpellId
-
-commit b6114a76006a59fd24e62bd642e3819b1e678dc0
-Merge: c85acbd 55c9011
-Author: Amber Ehrlich &lt;miuna.oshino@gmail.com&gt;
-Date:   Thu Feb 6 15:03:14 2025 -0500
-
-    Merge branch 'experimental' into crowdcontrol
-
-commit c85acbd227c23155197c3a6192500126a2000f49
-Merge: 4890c50 b1a3a46
-Author: Amber Ehrlich &lt;miuna.oshino@gmail.com&gt;
-Date:   Wed Feb 5 12:45:37 2025 -0500
-
-    Merge branch 'experimental' into crowdcontrol
-
-commit 4890c50d5a6a921b030640e12537101240914081
-Author: Amber Ehrlich &lt;miuna.oshino@gmail.com&gt;
-Date:   Thu Jan 30 13:33:28 2025 -0500
-
-    Add SpellId constructor to BasicUUID
-
-commit e1033fb02a3247f72d1390f5f876672a521c0f0f
-Author: Amber Ehrlich &lt;miuna.oshino@gmail.com&gt;
-Date:   Thu Jan 30 12:30:53 2025 -0500
-
-    Allow constructing EntityUUID from 0 constant
-
-commit 55b293a2ca3f00ab240a5a20ac4b4912106aec5f
-Merge: 7af3db7 a02bb87
-Author: Amber Ehrlich &lt;miuna.oshino@gmail.com&gt;
-Date:   Thu Jan 30 11:56:50 2025 -0500
-
-    Merge branch 'experimental' into crowdcontrol
-
-commit 7af3db78aab7373851f86c5b100656deb301b653
-Merge: 82b5b33 9a14133
-Author: Amber Ehrlich &lt;miuna.oshino@gmail.com&gt;
-Date:   Tue Jan 28 18:05:32 2025 -0500
-
-    Merge branch 'experimental' into crowdcontrol
-
-commit 82b5b33c84c3ca09b170f8959c33e05f835da9e6
-Author: Amber Ehrlich &lt;miuna.oshino@gmail.com&gt;
-Date:   Tue Jan 28 17:55:01 2025 -0500
-
-    Add SpellCastUUID
-
-commit ac85eb5ff322dc274ebbe527154692c10a4acd1f
-Author: Amber Ehrlich &lt;miuna.oshino@gmail.com&gt;
-Date:   Tue Jan 28 17:54:50 2025 -0500
-
-    Make BitMask compatible with std::range
-
-commit bd60076bf6c78d9db6b7a1ec14fb938f07561fd7
-Merge: e5c098d d7b32a4
-Author: Amber Ehrlich &lt;miuna.oshino@gmail.com&gt;
-Date:   Tue Jan 28 12:07:34 2025 -0500
-
-    Merge branch 'experimental' into crowdcontrol
-
-commit e5c098d7d5d931aaa84d4a77cad0d39c1d535240
-Author: Amber Ehrlich &lt;miuna.oshino@gmail.com&gt;
-Date:   Fri Jan 24 16:02:11 2025 -0500
-
-    Add WIP status effect constants</div>
-                                    </div>
-                                </div>
-                                <div class="timestamp">22 Mar 2025, 09:45:10</div>
-                            </section>
-                        </div>
-                        <div class="row fill-width">
-                            <section class="activity">
-                                <div class="field">
-                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
-                                    </svg>
-                                    <div class="content">
-                                        Pushed 2 commits in
-                                        <span class="repo">Myth-Games/MythSharedLibrary</span>
-                                    </div>
-                                </div>
-                                <div class="details">
-                                    <div>on branch <span class="code">experimental</span></div>
-                                    <div class="commit">
-                                        <div class="sha">#df7c4d6</div>
-                                        <div class="message">Add natvis for EntityUUID</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#1d8568a</div>
-                                        <div class="message">Add natvis for Tuple2, Tuple3, Position3</div>
-                                    </div>
-                                </div>
-                                <div class="timestamp">21 Mar 2025, 16:10:01</div>
+                                <div class="timestamp">22 Mar 2025, 18:31:35</div>
                             </section>
                         </div>
                     </section>
