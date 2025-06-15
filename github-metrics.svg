@@ -43,7 +43,7 @@
                                     <rect class="day" x="150" y="0" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
                                     <rect class="day" x="165" y="0" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
                                     <rect class="day" x="180" y="0" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
-                                    <rect class="day" x="195" y="0" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
+                                    <rect class="day" x="195" y="0" width="11" height="11" fill="#216e39" rx="2" ry="2"/>
                                 </g>
                             </svg>
                         </div>
@@ -181,11 +181,11 @@
                                 <div class="details">
                                     <div>on branch <span class="code">master</span></div>
                                     <div class="commit">
-                                        <div class="sha">#eb06d56</div>
-                                        <div class="message">fix: fix PvPChest if one is present in DB, attempt 2</div>
+                                        <div class="sha">#8143ab9</div>
+                                        <div class="message">misc: disallow stealing from GMs (see https://www.youtube.com/watch?v=O5aVKxMacm8)</div>
                                     </div>
                                 </div>
-                                <div class="timestamp">2 Jun 2025, 12:01:20</div>
+                                <div class="timestamp">15 Jun 2025, 12:33:10</div>
                             </section>
                         </div>
                         <div class="row fill-width">
@@ -202,11 +202,11 @@
                                 <div class="details">
                                     <div>on branch <span class="code">master</span></div>
                                     <div class="commit">
-                                        <div class="sha">#eb06d56</div>
-                                        <div class="message">fix: fix PvPChest if one is present in DB, attempt 2</div>
+                                        <div class="sha">#8143ab9</div>
+                                        <div class="message">misc: disallow stealing from GMs (see https://www.youtube.com/watch?v=O5aVKxMacm8)</div>
                                     </div>
                                 </div>
-                                <div class="timestamp">2 Jun 2025, 12:01:19</div>
+                                <div class="timestamp">15 Jun 2025, 12:33:09</div>
                             </section>
                         </div>
                         <div class="row fill-width">
@@ -223,11 +223,11 @@
                                 <div class="details">
                                     <div>on branch <span class="code">master</span></div>
                                     <div class="commit">
-                                        <div class="sha">#b03d864</div>
-                                        <div class="message">feat: save pvp chest items to PvPScore.dat. TODO fix the doubling of points</div>
+                                        <div class="sha">#4fa9264</div>
+                                        <div class="message">misc: allow GMs to steal regardless of class or location</div>
                                     </div>
                                 </div>
-                                <div class="timestamp">1 Jun 2025, 22:24:04</div>
+                                <div class="timestamp">15 Jun 2025, 12:31:36</div>
                             </section>
                         </div>
                         <div class="row fill-width">
@@ -244,11 +244,11 @@
                                 <div class="details">
                                     <div>on branch <span class="code">master</span></div>
                                     <div class="commit">
-                                        <div class="sha">#b03d864</div>
-                                        <div class="message">feat: save pvp chest items to PvPScore.dat. TODO fix the doubling of points</div>
+                                        <div class="sha">#4fa9264</div>
+                                        <div class="message">misc: allow GMs to steal regardless of class or location</div>
                                     </div>
                                 </div>
-                                <div class="timestamp">1 Jun 2025, 22:24:04</div>
+                                <div class="timestamp">15 Jun 2025, 12:31:35</div>
                             </section>
                         </div>
                         <div class="row fill-width">
@@ -265,11 +265,11 @@
                                 <div class="details">
                                     <div>on branch <span class="code">master</span></div>
                                     <div class="commit">
-                                        <div class="sha">#839f010</div>
-                                        <div class="message">fix: fix pvp chest score transfer</div>
+                                        <div class="sha">#6952c8d</div>
+                                        <div class="message">fix(PvP): fix treasure steal count maybe? can't test.</div>
                                     </div>
                                 </div>
-                                <div class="timestamp">1 Jun 2025, 16:36:16</div>
+                                <div class="timestamp">15 Jun 2025, 12:12:48</div>
                             </section>
                         </div>
                     </section>
