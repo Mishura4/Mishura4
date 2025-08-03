@@ -43,7 +43,7 @@
                                     <rect class="day" x="150" y="0" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
                                     <rect class="day" x="165" y="0" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
                                     <rect class="day" x="180" y="0" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
-                                    <rect class="day" x="195" y="0" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
+                                    <rect class="day" x="195" y="0" width="11" height="11" fill="#40c463" rx="2" ry="2"/>
                                 </g>
                             </svg>
                         </div>
@@ -171,6 +171,60 @@
                             <section class="activity">
                                 <div class="field">
                                     <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
+                                    </svg>
+                                    <div class="content">
+                                        Pushed 2 commits in
+                                        <span class="repo">DOL-Avalonia/GondwanaServer</span>
+                                    </div>
+                                </div>
+                                <div class="details">
+                                    <div>on branch <span class="code">master</span></div>
+                                    <div class="commit">
+                                        <div class="sha">#e8e32f3</div>
+                                        <div class="message">fix: de-duplicate pvp item ownership code, fix issues</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#0f226bf</div>
+                                        <div class="message">fix: fix another deadlock with ReaderWriterList changes, but why is there synchronization there in the first place?</div>
+                                    </div>
+                                </div>
+                                <div class="timestamp">3 Aug 2025, 13:58:42</div>
+                            </section>
+                        </div>
+                        <div class="row fill-width">
+                            <section class="activity">
+                                <div class="field">
+                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
+                                    </svg>
+                                    <div class="content">
+                                        Pushed 3 commits in
+                                        <span class="repo">Mishura4/GondwanaServer</span>
+                                    </div>
+                                </div>
+                                <div class="details">
+                                    <div>on branch <span class="code">master</span></div>
+                                    <div class="commit">
+                                        <div class="sha">#e8e32f3</div>
+                                        <div class="message">fix: de-duplicate pvp item ownership code, fix issues</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#0f226bf</div>
+                                        <div class="message">fix: fix another deadlock with ReaderWriterList changes, but why is there synchronization there in the first place?</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#4de9529</div>
+                                        <div class="message">FIX: PvPTeleport should not teleport in solo when the player is grouped to avoid guilding issues + Improve RvR Scores + allow 3 maps to be chosen randomly for RvR Master</div>
+                                    </div>
+                                </div>
+                                <div class="timestamp">3 Aug 2025, 13:58:41</div>
+                            </section>
+                        </div>
+                        <div class="row fill-width">
+                            <section class="activity">
+                                <div class="field">
+                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                         <path fill-rule="evenodd" d="M2.5 1.75a.25.25 0 01.25-.25h8.5a.25.25 0 01.25.25v7.736a.75.75 0 101.5 0V1.75A1.75 1.75 0 0011.25 0h-8.5A1.75 1.75 0 001 1.75v11.5c0 .966.784 1.75 1.75 1.75h3.17a.75.75 0 000-1.5H2.75a.25.25 0 01-.25-.25V1.75zM4.75 4a.75.75 0 000 1.5h4.5a.75.75 0 000-1.5h-4.5zM4 7.75A.75.75 0 014.75 7h2a.75.75 0 010 1.5h-2A.75.75 0 014 7.75zm11.774 3.537a.75.75 0 00-1.048-1.074L10.7 14.145 9.281 12.72a.75.75 0 00-1.062 1.058l1.943 1.95a.75.75 0 001.055.008l4.557-4.45z"/>
                                     </svg>
                                     <div class="content">
@@ -232,60 +286,6 @@
                                     </div>
                                 </div>
                                 <div class="timestamp">26 Jul 2025, 17:44:57</div>
-                            </section>
-                        </div>
-                        <div class="row fill-width">
-                            <section class="activity">
-                                <div class="field">
-                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
-                                    </svg>
-                                    <div class="content">
-                                        Pushed 2 commits in
-                                        <span class="repo">DOL-Avalonia/GondwanaServer</span>
-                                    </div>
-                                </div>
-                                <div class="details">
-                                    <div>on branch <span class="code">master</span></div>
-                                    <div class="commit">
-                                        <div class="sha">#93e95e0</div>
-                                        <div class="message">fix: clean up &amp; fix guild banners</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#4a50819</div>
-                                        <div class="message">fix: fix deadlock on moving objects between zones</div>
-                                    </div>
-                                </div>
-                                <div class="timestamp">26 Jul 2025, 17:03:51</div>
-                            </section>
-                        </div>
-                        <div class="row fill-width">
-                            <section class="activity">
-                                <div class="field">
-                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
-                                    </svg>
-                                    <div class="content">
-                                        Pushed 3 commits in
-                                        <span class="repo">Mishura4/GondwanaServer</span>
-                                    </div>
-                                </div>
-                                <div class="details">
-                                    <div>on branch <span class="code">master</span></div>
-                                    <div class="commit">
-                                        <div class="sha">#93e95e0</div>
-                                        <div class="message">fix: clean up &amp; fix guild banners</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#4a50819</div>
-                                        <div class="message">fix: fix deadlock on moving objects between zones</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#3f24fd8</div>
-                                        <div class="message">FIX: Queuing issue with PvPTeleporter + add reward LootGeneratorScrolls + serverproperty to allow or not "kill player" tasks in PvP + Fully rename Wraithsummonner into "Occultist" + various translations</div>
-                                    </div>
-                                </div>
-                                <div class="timestamp">26 Jul 2025, 17:03:50</div>
                             </section>
                         </div>
                     </section>
