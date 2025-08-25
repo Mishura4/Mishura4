@@ -1,4 +1,4 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="480" height="663" class="">
+<svg xmlns="http://www.w3.org/2000/svg" width="480" height="797" class="">
     <defs>
         <style/>
     </defs>
@@ -35,15 +35,15 @@
                                     <rect class="day" x="30" y="0" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
                                     <rect class="day" x="45" y="0" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
                                     <rect class="day" x="60" y="0" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
-                                    <rect class="day" x="75" y="0" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
-                                    <rect class="day" x="90" y="0" width="11" height="11" fill="#216e39" rx="2" ry="2"/>
-                                    <rect class="day" x="105" y="0" width="11" height="11" fill="#40c463" rx="2" ry="2"/>
+                                    <rect class="day" x="75" y="0" width="11" height="11" fill="#30a14e" rx="2" ry="2"/>
+                                    <rect class="day" x="90" y="0" width="11" height="11" fill="#40c463" rx="2" ry="2"/>
+                                    <rect class="day" x="105" y="0" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
                                     <rect class="day" x="120" y="0" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
                                     <rect class="day" x="135" y="0" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
                                     <rect class="day" x="150" y="0" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
                                     <rect class="day" x="165" y="0" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
-                                    <rect class="day" x="180" y="0" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
-                                    <rect class="day" x="195" y="0" width="11" height="11" fill="#40c463" rx="2" ry="2"/>
+                                    <rect class="day" x="180" y="0" width="11" height="11" fill="#216e39" rx="2" ry="2"/>
+                                    <rect class="day" x="195" y="0" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
                                 </g>
                             </svg>
                         </div>
@@ -181,11 +181,11 @@
                                 <div class="details">
                                     <div>on branch <span class="code">master</span></div>
                                     <div class="commit">
-                                        <div class="sha">#ecf7dfd</div>
-                                        <div class="message">fix: add DB ability.IsPermanent, don't remove permanent abilities in RemoveAllAbilities</div>
+                                        <div class="sha">#a61cf1d</div>
+                                        <div class="message">improv(FearBrain): don't try to flee if can't walk, roam if set to do so, &amp; other more natural behaviors</div>
                                     </div>
                                 </div>
-                                <div class="timestamp">24 Aug 2025, 13:31:49</div>
+                                <div class="timestamp">24 Aug 2025, 19:25:47</div>
                             </section>
                         </div>
                         <div class="row fill-width">
@@ -202,11 +202,11 @@
                                 <div class="details">
                                     <div>on branch <span class="code">master</span></div>
                                     <div class="commit">
-                                        <div class="sha">#ecf7dfd</div>
-                                        <div class="message">fix: add DB ability.IsPermanent, don't remove permanent abilities in RemoveAllAbilities</div>
+                                        <div class="sha">#a61cf1d</div>
+                                        <div class="message">improv(FearBrain): don't try to flee if can't walk, roam if set to do so, &amp; other more natural behaviors</div>
                                     </div>
                                 </div>
-                                <div class="timestamp">24 Aug 2025, 13:31:48</div>
+                                <div class="timestamp">24 Aug 2025, 19:25:47</div>
                             </section>
                         </div>
                         <div class="row fill-width">
@@ -216,18 +216,34 @@
                                         <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
                                     </svg>
                                     <div class="content">
-                                        Pushed 1 commit in
+                                        Pushed 5 commits in
                                         <span class="repo">DOL-Avalonia/GondwanaServer</span>
                                     </div>
                                 </div>
                                 <div class="details">
                                     <div>on branch <span class="code">master</span></div>
                                     <div class="commit">
-                                        <div class="sha">#2ac221a</div>
-                                        <div class="message">fix(db9fc62): don't group spells for LiveSpellHybridSpecialization in trainer</div>
+                                        <div class="sha">#ac4ebe8</div>
+                                        <div class="message">improv(FearBrain): cap flee distance to 1.5x visibility radius</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#585bbf5</div>
+                                        <div class="message">improv(FearBrain): ignore invisible or dead players &amp; be a little more skittish when returning home</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#907e5ac</div>
+                                        <div class="message">fix: FearBrain should return to spawn after a while</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#72313a6</div>
+                                        <div class="message">fix: fix SuperFearBrain speed</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#6635796</div>
+                                        <div class="message">misc: fix Motion.GetPositionAfter typo</div>
                                     </div>
                                 </div>
-                                <div class="timestamp">24 Aug 2025, 12:02:58</div>
+                                <div class="timestamp">24 Aug 2025, 19:00:24</div>
                             </section>
                         </div>
                         <div class="row fill-width">
@@ -237,18 +253,34 @@
                                         <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
                                     </svg>
                                     <div class="content">
-                                        Pushed 1 commit in
+                                        Pushed 5 commits in
                                         <span class="repo">Mishura4/GondwanaServer</span>
                                     </div>
                                 </div>
                                 <div class="details">
                                     <div>on branch <span class="code">master</span></div>
                                     <div class="commit">
-                                        <div class="sha">#2ac221a</div>
-                                        <div class="message">fix(db9fc62): don't group spells for LiveSpellHybridSpecialization in trainer</div>
+                                        <div class="sha">#ac4ebe8</div>
+                                        <div class="message">improv(FearBrain): cap flee distance to 1.5x visibility radius</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#585bbf5</div>
+                                        <div class="message">improv(FearBrain): ignore invisible or dead players &amp; be a little more skittish when returning home</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#907e5ac</div>
+                                        <div class="message">fix: FearBrain should return to spawn after a while</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#72313a6</div>
+                                        <div class="message">fix: fix SuperFearBrain speed</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#6635796</div>
+                                        <div class="message">misc: fix Motion.GetPositionAfter typo</div>
                                     </div>
                                 </div>
-                                <div class="timestamp">24 Aug 2025, 12:02:58</div>
+                                <div class="timestamp">24 Aug 2025, 19:00:24</div>
                             </section>
                         </div>
                         <div class="row fill-width">
@@ -265,11 +297,11 @@
                                 <div class="details">
                                     <div>on branch <span class="code">master</span></div>
                                     <div class="commit">
-                                        <div class="sha">#17326b4</div>
-                                        <div class="message">fixup! fix: reset abilities with `/player class`</div>
+                                        <div class="sha">#48becb6</div>
+                                        <div class="message">fix: fix morph target disappearing for a second?</div>
                                     </div>
                                 </div>
-                                <div class="timestamp">24 Aug 2025, 11:45:07</div>
+                                <div class="timestamp">24 Aug 2025, 17:43:39</div>
                             </section>
                         </div>
                     </section>
